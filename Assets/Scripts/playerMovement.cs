@@ -8,6 +8,9 @@ public class playerMovement : MonoBehaviour
     private Vector2 movementInput;
     private Animator animator;
 
+
+    //test to see if github is working
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
