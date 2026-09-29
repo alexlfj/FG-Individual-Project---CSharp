@@ -1,9 +1,7 @@
-using System;
 using UnityEngine;
 
-public class slimeScript : MonoBehaviour
+public class EnemyStateMachine : MonoBehaviour
 {
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -13,6 +11,6 @@ public class slimeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 }
