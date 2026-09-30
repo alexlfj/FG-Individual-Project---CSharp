@@ -1,23 +1,43 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour, IDamageable, IEnemyMoveable
+public class Enemy : MonoBehaviour, IDamageable
 {
-    [field: SerializeField] public int MaxHealth { get; set; } = 100;
+    [field: SerializeField] public int MaxHealth { get; set; }
+
     public int CurrentHealth { get; set; }
 
-    public Rigidbody2D RB { get; set; }
 
-    public bool IsFacingRight { get; set; } = true;
+    // Movement properties
 
-    private void Start()
+    [SerializeField] private float speed;
+    private Vector2 moveTarget;
+
+
+    // Movement
+    void FixedUpdate()
     {
-        CurrentHealth = MaxHealth;
-
-        RB = GetComponent<Rigidbody2D>();
+        //Movement
+        moveTarget = GameObject.FindGameObjectsWithTag("Player")[0].transform.position;
+        transform.position = Vector2.MoveTowards(transform.position, moveTarget, speed * Time.fixedDeltaTime);
     }
 
-    // Health/Die functions
-    public void Damage(int damageAmount)
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.CompareTag("Player"))
+        {
+            print("You are being attacked!");
+        }
+        
+    }
+
+    // Damage and dying 
+    public void Die()
+    {
+        Destroy(gameObject);
+    }
+
+    public void TakeDamage(int damageAmount)
     {
         CurrentHealth -= damageAmount;
 
@@ -26,49 +46,4 @@ public class Enemy : MonoBehaviour, IDamageable, IEnemyMoveable
             Die();
         }
     }
-
-    public void Die()
-    {
-        Destroy(gameObject);
-    }
-
-
-
-    // Movement functions
-    public void MoveEnemy(Vector2 velocity)
-    {
-        RB.linearVelocity = velocity;
-        CheckForLeftOrRightFacing(velocity);
-    }
-
-    public void CheckForLeftOrRightFacing(Vector2 velocity)
-    {
-        if (IsFacingRight && velocity.x < 0f)
-        {
-            Vector3 rotator = new Vector3(transform.rotation.x, 180f, transform.rotation.z);
-            transform.rotation = Quaternion.Euler(rotator);
-            IsFacingRight = !IsFacingRight;
-        }
-
-        if (!IsFacingRight && velocity.x > 0f)
-        {
-            Vector3 rotator = new Vector3(transform.rotation.x, 180f, transform.rotation.z);
-            transform.rotation = Quaternion.Euler(rotator);
-            IsFacingRight = !IsFacingRight;
-        }
-    }
-
-
-    // Animation triggers
-    public enum AnimationTriggerType
-    {
-        EnemyDamaged,
-        PlayFootstepSound
-    }
-
-    private void AnimationTriggerEvent(AnimationTriggerType triggerType)
-    {
-
-    }
-
 }

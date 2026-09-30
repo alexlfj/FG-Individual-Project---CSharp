@@ -1,11 +1,12 @@
 using UnityEngine;
 
-public interface IDamageable
+public interface IDamageable 
 {
-    void Damage(int damageAmount);
+    int MaxHealth { get; set; }
+    int CurrentHealth { get; set; }
 
     void Die();
 
-    int MaxHealth { get; set; }
-    int CurrentHealth { get; set; }
+    void TakeDamage(int damageAmount);
+
 }
