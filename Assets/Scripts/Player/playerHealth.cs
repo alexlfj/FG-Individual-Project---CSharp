@@ -28,6 +28,7 @@ public class playerHealth : MonoBehaviour, IDamageable
     public void Die()
     {
         Destroy(gameObject);
+        print("You died!");
     }
 
     public void TakeDamage(int damageAmount)
