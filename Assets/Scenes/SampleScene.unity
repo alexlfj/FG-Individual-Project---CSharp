@@ -308,7 +308,7 @@ Rigidbody2D:
     serializedVersion: 2
     m_Bits: 0
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!114 &275225474
@@ -427,6 +427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::playerHealth
   <MaxHealth>k__BackingField: 20
+  damageCooldown: 0.25
 --- !u!1 &277015700
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,6 +5,8 @@ public class playerHealth : MonoBehaviour, IDamageable
     [field: SerializeField] public int MaxHealth { get; set; }
     public int CurrentHealth { get; set; }
 
+    [SerializeField] public float damageCooldown = 1f;
+
     public static playerHealth instance;
 
     
