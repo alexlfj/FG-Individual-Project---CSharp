@@ -427,7 +427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::playerHealth
   <MaxHealth>k__BackingField: 20
-  damageCooldown: 0.25
+  damageCooldown: 0.5
 --- !u!1 &277015700
 GameObject:
   m_ObjectHideFlags: 0
