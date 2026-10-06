@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/xpBar.uss?fileID=7433441132597879392&amp;guid=5b2e5651071eabe4080c5d37ef1b00f6&amp;type=3#xpBar"/>
+    <ui:ProgressBar value="0" title="30/100" name="xpBar" style="top: 12px; height: auto;"/>
+</ui:UXML>
