@@ -33,7 +33,7 @@ public class playerXP : MonoBehaviour
 
     void Update()
     {
-        experience ++; 
+        //experience ++; 
 
         if (experience >= levelUpExperience)
         {

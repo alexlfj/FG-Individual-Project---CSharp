@@ -1,0 +1,6565 @@
+fileFormatVersion: 2
+guid: 95ae27da8bbcb2c4ca7425865e75f3f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5878424653946917135
+    second: cat 1 16x16 animation with gold glasses hearts_0
+  - first:
+      213: 6624696602564537790
+    second: cat 1 16x16 animation with gold glasses hearts_1
+  - first:
+      213: -6183608379256198581
+    second: cat 1 16x16 animation with gold glasses hearts_2
+  - first:
+      213: -1874875550668016995
+    second: cat 1 16x16 animation with gold glasses hearts_3
+  - first:
+      213: -2112585683432303813
+    second: cat 1 16x16 animation with gold glasses hearts_4
+  - first:
+      213: -6407687361847659570
+    second: cat 1 16x16 animation with gold glasses hearts_5
+  - first:
+      213: 5738410321884167976
+    second: cat 1 16x16 animation with gold glasses hearts_6
+  - first:
+      213: 659067754126392496
+    second: cat 1 16x16 animation with gold glasses hearts_7
+  - first:
+      213: 2803638600455322207
+    second: cat 1 16x16 animation with gold glasses hearts_8
+  - first:
+      213: -2280552821481002318
+    second: cat 1 16x16 animation with gold glasses hearts_9
+  - first:
+      213: -9076792443931757535
+    second: cat 1 16x16 animation with gold glasses hearts_10
+  - first:
+      213: 4744081717830263687
+    second: cat 1 16x16 animation with gold glasses hearts_11
+  - first:
+      213: -5210520631734175323
+    second: cat 1 16x16 animation with gold glasses hearts_12
+  - first:
+      213: -2605123624625771376
+    second: cat 1 16x16 animation with gold glasses hearts_13
+  - first:
+      213: 110826336996378001
+    second: cat 1 16x16 animation with gold glasses hearts_14
+  - first:
+      213: -7203706039515304909
+    second: cat 1 16x16 animation with gold glasses hearts_15
+  - first:
+      213: 2342080594467883347
+    second: cat 1 16x16 animation with gold glasses hearts_16
+  - first:
+      213: 847841355680277041
+    second: cat 1 16x16 animation with gold glasses hearts_17
+  - first:
+      213: 4057078032289473199
+    second: cat 1 16x16 animation with gold glasses hearts_18
+  - first:
+      213: -4944951952465423417
+    second: cat 1 16x16 animation with gold glasses hearts_19
+  - first:
+      213: -8128840568394158769
+    second: cat 1 16x16 animation with gold glasses hearts_20
+  - first:
+      213: -8887142052650156511
+    second: cat 1 16x16 animation with gold glasses hearts_21
+  - first:
+      213: 269737200481118877
+    second: cat 1 16x16 animation with gold glasses hearts_22
+  - first:
+      213: 8734702212177041032
+    second: cat 1 16x16 animation with gold glasses hearts_23
+  - first:
+      213: -3377622114920094031
+    second: cat 1 16x16 animation with gold glasses hearts_24
+  - first:
+      213: 6744944857078559548
+    second: cat 1 16x16 animation with gold glasses hearts_25
+  - first:
+      213: -620175772867648548
+    second: cat 1 16x16 animation with gold glasses hearts_26
+  - first:
+      213: -4165889530182560532
+    second: cat 1 16x16 animation with gold glasses hearts_27
+  - first:
+      213: 5819313964180393403
+    second: cat 1 16x16 animation with gold glasses hearts_28
+  - first:
+      213: -8729845015296767427
+    second: cat 1 16x16 animation with gold glasses hearts_29
+  - first:
+      213: -3541160260570325789
+    second: cat 1 16x16 animation with gold glasses hearts_30
+  - first:
+      213: 4448753690240011887
+    second: cat 1 16x16 animation with gold glasses hearts_31
+  - first:
+      213: -4311768216922084707
+    second: cat 1 16x16 animation with gold glasses hearts_32
+  - first:
+      213: -421625532761900751
+    second: cat 1 16x16 animation with gold glasses hearts_33
+  - first:
+      213: -4223154060895506513
+    second: cat 1 16x16 animation with gold glasses hearts_34
+  - first:
+      213: 3165629646703827168
+    second: cat 1 16x16 animation with gold glasses hearts_35
+  - first:
+      213: 4664364218520381329
+    second: cat 1 16x16 animation with gold glasses hearts_36
+  - first:
+      213: -1240420803398724302
+    second: cat 1 16x16 animation with gold glasses hearts_37
+  - first:
+      213: 2804888698116440747
+    second: cat 1 16x16 animation with gold glasses hearts_38
+  - first:
+      213: 2146253225628862062
+    second: cat 1 16x16 animation with gold glasses hearts_39
+  - first:
+      213: 6571537089949756058
+    second: cat 1 16x16 animation with gold glasses hearts_40
+  - first:
+      213: 7750672885486313848
+    second: cat 1 16x16 animation with gold glasses hearts_41
+  - first:
+      213: -4572110302615016433
+    second: cat 1 16x16 animation with gold glasses hearts_42
+  - first:
+      213: -1361422388933504678
+    second: cat 1 16x16 animation with gold glasses hearts_43
+  - first:
+      213: -5624383476354848707
+    second: cat 1 16x16 animation with gold glasses hearts_44
+  - first:
+      213: -3461958501592296134
+    second: cat 1 16x16 animation with gold glasses hearts_45
+  - first:
+      213: 5041432138043304956
+    second: cat 1 16x16 animation with gold glasses hearts_46
+  - first:
+      213: -3793901995569983530
+    second: cat 1 16x16 animation with gold glasses hearts_47
+  - first:
+      213: -7847347835166537474
+    second: cat 1 16x16 animation with gold glasses hearts_48
+  - first:
+      213: 6355076593652001200
+    second: cat 1 16x16 animation with gold glasses hearts_49
+  - first:
+      213: -1700395083223582578
+    second: cat 1 16x16 animation with gold glasses hearts_50
+  - first:
+      213: -2048259505149031616
+    second: cat 1 16x16 animation with gold glasses hearts_51
+  - first:
+      213: -8772264356301118892
+    second: cat 1 16x16 animation with gold glasses hearts_52
+  - first:
+      213: 2619378744339415437
+    second: cat 1 16x16 animation with gold glasses hearts_53
+  - first:
+      213: 2727548112606402399
+    second: cat 1 16x16 animation with gold glasses hearts_54
+  - first:
+      213: -1673403221884671336
+    second: cat 1 16x16 animation with gold glasses hearts_55
+  - first:
+      213: 538622998455389830
+    second: cat 1 16x16 animation with gold glasses hearts_56
+  - first:
+      213: 2363449902014111206
+    second: cat 1 16x16 animation with gold glasses hearts_57
+  - first:
+      213: -3457296070186350345
+    second: cat 1 16x16 animation with gold glasses hearts_58
+  - first:
+      213: 8342253479424887390
+    second: cat 1 16x16 animation with gold glasses hearts_59
+  - first:
+      213: -4880136025182987646
+    second: cat 1 16x16 animation with gold glasses hearts_60
+  - first:
+      213: -6442252262165694109
+    second: cat 1 16x16 animation with gold glasses hearts_61
+  - first:
+      213: -8473075312029918379
+    second: cat 1 16x16 animation with gold glasses hearts_62
+  - first:
+      213: -9169472279549866376
+    second: cat 1 16x16 animation with gold glasses hearts_63
+  - first:
+      213: 8652637983287198604
+    second: cat 1 16x16 animation with gold glasses hearts_64
+  - first:
+      213: -8342416827620264494
+    second: cat 1 16x16 animation with gold glasses hearts_65
+  - first:
+      213: 7449162512746071480
+    second: cat 1 16x16 animation with gold glasses hearts_66
+  - first:
+      213: -7981031469246594439
+    second: cat 1 16x16 animation with gold glasses hearts_67
+  - first:
+      213: 6466150601360857183
+    second: cat 1 16x16 animation with gold glasses hearts_68
+  - first:
+      213: -4965940201029104909
+    second: cat 1 16x16 animation with gold glasses hearts_69
+  - first:
+      213: -1934149537789617348
+    second: cat 1 16x16 animation with gold glasses hearts_70
+  - first:
+      213: -3462846654381308488
+    second: cat 1 16x16 animation with gold glasses hearts_71
+  - first:
+      213: -2890753853390207264
+    second: cat 1 16x16 animation with gold glasses hearts_72
+  - first:
+      213: 6923473755649011459
+    second: cat 1 16x16 animation with gold glasses hearts_73
+  - first:
+      213: -5617715219051137976
+    second: cat 1 16x16 animation with gold glasses hearts_74
+  - first:
+      213: -8855377113255205350
+    second: cat 1 16x16 animation with gold glasses hearts_75
+  - first:
+      213: 3863413253725692616
+    second: cat 1 16x16 animation with gold glasses hearts_76
+  - first:
+      213: 2006011608175065323
+    second: cat 1 16x16 animation with gold glasses hearts_77
+  - first:
+      213: -1990372025147918806
+    second: cat 1 16x16 animation with gold glasses hearts_78
+  - first:
+      213: 4836055728908739205
+    second: cat 1 16x16 animation with gold glasses hearts_79
+  - first:
+      213: -3119135439601369684
+    second: cat 1 16x16 animation with gold glasses hearts_80
+  - first:
+      213: -6073702925392294757
+    second: cat 1 16x16 animation with gold glasses hearts_81
+  - first:
+      213: 4344613104596364197
+    second: cat 1 16x16 animation with gold glasses hearts_82
+  - first:
+      213: -8304229304014788149
+    second: cat 1 16x16 animation with gold glasses hearts_83
+  - first:
+      213: 3630299069493450873
+    second: cat 1 16x16 animation with gold glasses hearts_84
+  - first:
+      213: 8489924359659535597
+    second: cat 1 16x16 animation with gold glasses hearts_85
+  - first:
+      213: 4811431039657953522
+    second: cat 1 16x16 animation with gold glasses hearts_86
+  - first:
+      213: 3776648608490122720
+    second: cat 1 16x16 animation with gold glasses hearts_87
+  - first:
+      213: 3583975128296157149
+    second: cat 1 16x16 animation with gold glasses hearts_88
+  - first:
+      213: -5005466114818217649
+    second: cat 1 16x16 animation with gold glasses hearts_89
+  - first:
+      213: 268235870912645707
+    second: cat 1 16x16 animation with gold glasses hearts_90
+  - first:
+      213: -1285324542827228035
+    second: cat 1 16x16 animation with gold glasses hearts_91
+  - first:
+      213: -3660337463724419924
+    second: cat 1 16x16 animation with gold glasses hearts_92
+  - first:
+      213: 2633512242534295834
+    second: cat 1 16x16 animation with gold glasses hearts_93
+  - first:
+      213: 3768874529598543252
+    second: cat 1 16x16 animation with gold glasses hearts_94
+  - first:
+      213: -3749130971554499247
+    second: cat 1 16x16 animation with gold glasses hearts_95
+  - first:
+      213: -4184569255649460149
+    second: cat 1 16x16 animation with gold glasses hearts_96
+  - first:
+      213: -884296009055678761
+    second: cat 1 16x16 animation with gold glasses hearts_97
+  - first:
+      213: -822439350509839193
+    second: cat 1 16x16 animation with gold glasses hearts_98
+  - first:
+      213: -6845329985470479548
+    second: cat 1 16x16 animation with gold glasses hearts_99
+  - first:
+      213: -1032741110401544371
+    second: cat 1 16x16 animation with gold glasses hearts_100
+  - first:
+      213: 7155893600524538614
+    second: cat 1 16x16 animation with gold glasses hearts_101
+  - first:
+      213: -3951126450157137799
+    second: cat 1 16x16 animation with gold glasses hearts_102
+  - first:
+      213: 6314651971978933368
+    second: cat 1 16x16 animation with gold glasses hearts_103
+  - first:
+      213: 3725363266934004562
+    second: cat 1 16x16 animation with gold glasses hearts_104
+  - first:
+      213: -6462676943904490518
+    second: cat 1 16x16 animation with gold glasses hearts_105
+  - first:
+      213: -4082072697119630342
+    second: cat 1 16x16 animation with gold glasses hearts_106
+  - first:
+      213: 5841999086051112319
+    second: cat 1 16x16 animation with gold glasses hearts_107
+  - first:
+      213: -7698424615722280003
+    second: cat 1 16x16 animation with gold glasses hearts_108
+  - first:
+      213: 7534970563484561211
+    second: cat 1 16x16 animation with gold glasses hearts_109
+  - first:
+      213: -9013486892359274706
+    second: cat 1 16x16 animation with gold glasses hearts_110
+  - first:
+      213: 8492930898375095835
+    second: cat 1 16x16 animation with gold glasses hearts_111
+  - first:
+      213: 2545132489735287923
+    second: cat 1 16x16 animation with gold glasses hearts_112
+  - first:
+      213: -7293474464618656003
+    second: cat 1 16x16 animation with gold glasses hearts_113
+  - first:
+      213: -614511509963042310
+    second: cat 1 16x16 animation with gold glasses hearts_114
+  - first:
+      213: 8780793986617464840
+    second: cat 1 16x16 animation with gold glasses hearts_115
+  - first:
+      213: -5318090762806082237
+    second: cat 1 16x16 animation with gold glasses hearts_116
+  - first:
+      213: -7046100081490691891
+    second: cat 1 16x16 animation with gold glasses hearts_117
+  - first:
+      213: 2989844354796958331
+    second: cat 1 16x16 animation with gold glasses hearts_118
+  - first:
+      213: -2119088242817195887
+    second: cat 1 16x16 animation with gold glasses hearts_119
+  - first:
+      213: -2626846064990861504
+    second: cat 1 16x16 animation with gold glasses hearts_120
+  - first:
+      213: -6668994998961525991
+    second: cat 1 16x16 animation with gold glasses hearts_121
+  - first:
+      213: 3944651006805468915
+    second: cat 1 16x16 animation with gold glasses hearts_122
+  - first:
+      213: -5073825596024164458
+    second: cat 1 16x16 animation with gold glasses hearts_123
+  - first:
+      213: 3081600346166049304
+    second: cat 1 16x16 animation with gold glasses hearts_124
+  - first:
+      213: 9029052863948390150
+    second: cat 1 16x16 animation with gold glasses hearts_125
+  - first:
+      213: -2668836388986839305
+    second: cat 1 16x16 animation with gold glasses hearts_126
+  - first:
+      213: -3277726179143844203
+    second: cat 1 16x16 animation with gold glasses hearts_127
+  - first:
+      213: 2745807577838123909
+    second: cat 1 16x16 animation with gold glasses hearts_128
+  - first:
+      213: -8302465334491709212
+    second: cat 1 16x16 animation with gold glasses hearts_129
+  - first:
+      213: 3820754517008672309
+    second: cat 1 16x16 animation with gold glasses hearts_130
+  - first:
+      213: 1839550768408615099
+    second: cat 1 16x16 animation with gold glasses hearts_131
+  - first:
+      213: 3803158909559701044
+    second: cat 1 16x16 animation with gold glasses hearts_132
+  - first:
+      213: 3533625425073863744
+    second: cat 1 16x16 animation with gold glasses hearts_133
+  - first:
+      213: 1356973349123335181
+    second: cat 1 16x16 animation with gold glasses hearts_134
+  - first:
+      213: -8601253998353953254
+    second: cat 1 16x16 animation with gold glasses hearts_135
+  - first:
+      213: 4569778301779348314
+    second: cat 1 16x16 animation with gold glasses hearts_136
+  - first:
+      213: -2004689073411084905
+    second: cat 1 16x16 animation with gold glasses hearts_137
+  - first:
+      213: 8434556914192149598
+    second: cat 1 16x16 animation with gold glasses hearts_138
+  - first:
+      213: -7994862197407351458
+    second: cat 1 16x16 animation with gold glasses hearts_139
+  - first:
+      213: -7219772919979395258
+    second: cat 1 16x16 animation with gold glasses hearts_140
+  - first:
+      213: 7037028569112111873
+    second: cat 1 16x16 animation with gold glasses hearts_141
+  - first:
+      213: -5415065789168022471
+    second: cat 1 16x16 animation with gold glasses hearts_142
+  - first:
+      213: -8913503169557458515
+    second: cat 1 16x16 animation with gold glasses hearts_143
+  - first:
+      213: 7041503331899282828
+    second: cat 1 16x16 animation with gold glasses hearts_144
+  - first:
+      213: 708237007764852682
+    second: cat 1 16x16 animation with gold glasses hearts_145
+  - first:
+      213: 406328637788569736
+    second: cat 1 16x16 animation with gold glasses hearts_146
+  - first:
+      213: 8231357519895632977
+    second: cat 1 16x16 animation with gold glasses hearts_147
+  - first:
+      213: 5156585067132425276
+    second: cat 1 16x16 animation with gold glasses hearts_148
+  - first:
+      213: 6401468380432848436
+    second: cat 1 16x16 animation with gold glasses hearts_149
+  - first:
+      213: 1783475084633795422
+    second: cat 1 16x16 animation with gold glasses hearts_150
+  - first:
+      213: 1700759731617610887
+    second: cat 1 16x16 animation with gold glasses hearts_151
+  - first:
+      213: 5895651175399945172
+    second: cat 1 16x16 animation with gold glasses hearts_152
+  - first:
+      213: -6291029149307850004
+    second: cat 1 16x16 animation with gold glasses hearts_153
+  - first:
+      213: 3715459284683376295
+    second: cat 1 16x16 animation with gold glasses hearts_154
+  - first:
+      213: 2042694938097281368
+    second: cat 1 16x16 animation with gold glasses hearts_155
+  - first:
+      213: -6955510540951303007
+    second: cat 1 16x16 animation with gold glasses hearts_156
+  - first:
+      213: -5300069222046750856
+    second: cat 1 16x16 animation with gold glasses hearts_157
+  - first:
+      213: 8546481919689865882
+    second: cat 1 16x16 animation with gold glasses hearts_158
+  - first:
+      213: 2806341932996942801
+    second: cat 1 16x16 animation with gold glasses hearts_159
+  - first:
+      213: -630764886616946821
+    second: cat 1 16x16 animation with gold glasses hearts_160
+  - first:
+      213: 1952895499608085701
+    second: cat 1 16x16 animation with gold glasses hearts_161
+  - first:
+      213: -4693167547202905096
+    second: cat 1 16x16 animation with gold glasses hearts_162
+  - first:
+      213: 7591697271019548614
+    second: cat 1 16x16 animation with gold glasses hearts_163
+  - first:
+      213: -4282584140742795529
+    second: cat 1 16x16 animation with gold glasses hearts_164
+  - first:
+      213: -7605112716660411984
+    second: cat 1 16x16 animation with gold glasses hearts_165
+  - first:
+      213: -8391608812800514277
+    second: cat 1 16x16 animation with gold glasses hearts_166
+  - first:
+      213: -8350204699132618668
+    second: cat 1 16x16 animation with gold glasses hearts_167
+  - first:
+      213: 6654428398777478408
+    second: cat 1 16x16 animation with gold glasses hearts_168
+  - first:
+      213: 79933147998213640
+    second: cat 1 16x16 animation with gold glasses hearts_169
+  - first:
+      213: -2224514818528264040
+    second: cat 1 16x16 animation with gold glasses hearts_170
+  - first:
+      213: 6564130081269644195
+    second: cat 1 16x16 animation with gold glasses hearts_171
+  - first:
+      213: -707402903163375610
+    second: cat 1 16x16 animation with gold glasses hearts_172
+  - first:
+      213: 7255219457590099195
+    second: cat 1 16x16 animation with gold glasses hearts_173
+  - first:
+      213: 7701506867228486537
+    second: cat 1 16x16 animation with gold glasses hearts_174
+  - first:
+      213: 7841460825409939257
+    second: cat 1 16x16 animation with gold glasses hearts_175
+  - first:
+      213: 3062263525708730840
+    second: cat 1 16x16 animation with gold glasses hearts_176
+  - first:
+      213: -8596258427470599720
+    second: cat 1 16x16 animation with gold glasses hearts_177
+  - first:
+      213: 3707573283612318346
+    second: cat 1 16x16 animation with gold glasses hearts_178
+  - first:
+      213: 3605689920317548509
+    second: cat 1 16x16 animation with gold glasses hearts_179
+  - first:
+      213: -5807645863895754177
+    second: cat 1 16x16 animation with gold glasses hearts_180
+  - first:
+      213: 1012387733565749452
+    second: cat 1 16x16 animation with gold glasses hearts_181
+  - first:
+      213: 2447327570450403842
+    second: cat 1 16x16 animation with gold glasses hearts_182
+  - first:
+      213: -30022832929071204
+    second: cat 1 16x16 animation with gold glasses hearts_183
+  - first:
+      213: 5796844344287113725
+    second: cat 1 16x16 animation with gold glasses hearts_184
+  - first:
+      213: 3725712929804113643
+    second: cat 1 16x16 animation with gold glasses hearts_185
+  - first:
+      213: -2616950896169890014
+    second: cat 1 16x16 animation with gold glasses hearts_186
+  - first:
+      213: -2432644685245857750
+    second: cat 1 16x16 animation with gold glasses hearts_187
+  - first:
+      213: 8805873246754113859
+    second: cat 1 16x16 animation with gold glasses hearts_188
+  - first:
+      213: -7030996177977006500
+    second: cat 1 16x16 animation with gold glasses hearts_189
+  - first:
+      213: 3961525836702017147
+    second: cat 1 16x16 animation with gold glasses hearts_190
+  - first:
+      213: 8686781799452786966
+    second: cat 1 16x16 animation with gold glasses hearts_191
+  - first:
+      213: -638187182037922163
+    second: cat 1 16x16 animation with gold glasses hearts_192
+  - first:
+      213: 6499666756112017412
+    second: cat 1 16x16 animation with gold glasses hearts_193
+  - first:
+      213: -4946650181396072268
+    second: cat 1 16x16 animation with gold glasses hearts_194
+  - first:
+      213: 333563307504653046
+    second: cat 1 16x16 animation with gold glasses hearts_195
+  - first:
+      213: 2333727832947001604
+    second: cat 1 16x16 animation with gold glasses hearts_196
+  - first:
+      213: -6627608316565253201
+    second: cat 1 16x16 animation with gold glasses hearts_197
+  - first:
+      213: 6172134594136687133
+    second: cat 1 16x16 animation with gold glasses hearts_198
+  - first:
+      213: 716155377514682874
+    second: cat 1 16x16 animation with gold glasses hearts_199
+  - first:
+      213: -5311847360198191691
+    second: cat 1 16x16 animation with gold glasses hearts_200
+  - first:
+      213: 4841105015891537445
+    second: cat 1 16x16 animation with gold glasses hearts_201
+  - first:
+      213: -8429756236185756843
+    second: cat 1 16x16 animation with gold glasses hearts_202
+  - first:
+      213: 8169265969291385939
+    second: cat 1 16x16 animation with gold glasses hearts_203
+  - first:
+      213: 4619079507383961214
+    second: cat 1 16x16 animation with gold glasses hearts_204
+  - first:
+      213: -2200811285374566391
+    second: cat 1 16x16 animation with gold glasses hearts_205
+  - first:
+      213: 7631962192045646584
+    second: cat 1 16x16 animation with gold glasses hearts_206
+  - first:
+      213: 8715645279422435515
+    second: cat 1 16x16 animation with gold glasses hearts_207
+  - first:
+      213: -4184652825862829093
+    second: cat 1 16x16 animation with gold glasses hearts_208
+  - first:
+      213: 34241722520223021
+    second: cat 1 16x16 animation with gold glasses hearts_209
+  - first:
+      213: -218833158442325378
+    second: cat 1 16x16 animation with gold glasses hearts_210
+  - first:
+      213: 6852417748348865922
+    second: cat 1 16x16 animation with gold glasses hearts_211
+  - first:
+      213: 2435996054278784882
+    second: cat 1 16x16 animation with gold glasses hearts_212
+  - first:
+      213: -1920696372709790472
+    second: cat 1 16x16 animation with gold glasses hearts_213
+  - first:
+      213: 3490678113648594932
+    second: cat 1 16x16 animation with gold glasses hearts_214
+  - first:
+      213: -1944991729712036615
+    second: cat 1 16x16 animation with gold glasses hearts_215
+  - first:
+      213: -3768500739397237605
+    second: cat 1 16x16 animation with gold glasses hearts_216
+  - first:
+      213: 5806041604233083011
+    second: cat 1 16x16 animation with gold glasses hearts_217
+  - first:
+      213: -8412102056822882445
+    second: cat 1 16x16 animation with gold glasses hearts_218
+  - first:
+      213: 872792105569241300
+    second: cat 1 16x16 animation with gold glasses hearts_219
+  - first:
+      213: 5585612196051619297
+    second: cat 1 16x16 animation with gold glasses hearts_220
+  - first:
+      213: -3222184202031441368
+    second: cat 1 16x16 animation with gold glasses hearts_221
+  - first:
+      213: -4464187841067936691
+    second: cat 1 16x16 animation with gold glasses hearts_222
+  - first:
+      213: 9025002919614561068
+    second: cat 1 16x16 animation with gold glasses hearts_223
+  - first:
+      213: 3041144007341387151
+    second: cat 1 16x16 animation with gold glasses hearts_224
+  - first:
+      213: -1433585269266480270
+    second: cat 1 16x16 animation with gold glasses hearts_225
+  - first:
+      213: 1271640653346617154
+    second: cat 1 16x16 animation with gold glasses hearts_226
+  - first:
+      213: -1981599499845864188
+    second: cat 1 16x16 animation with gold glasses hearts_227
+  - first:
+      213: -5749249122895501709
+    second: cat 1 16x16 animation with gold glasses hearts_228
+  - first:
+      213: -4208539274705659825
+    second: cat 1 16x16 animation with gold glasses hearts_229
+  - first:
+      213: 1033478779047755346
+    second: cat 1 16x16 animation with gold glasses hearts_230
+  - first:
+      213: 1439903139790559244
+    second: cat 1 16x16 animation with gold glasses hearts_231
+  - first:
+      213: -6208599706144760710
+    second: cat 1 16x16 animation with gold glasses hearts_232
+  - first:
+      213: -8906450261711793652
+    second: cat 1 16x16 animation with gold glasses hearts_233
+  - first:
+      213: -7481021524185990937
+    second: cat 1 16x16 animation with gold glasses hearts_234
+  - first:
+      213: 296654674063603866
+    second: cat 1 16x16 animation with gold glasses hearts_235
+  - first:
+      213: -8939654870852519719
+    second: cat 1 16x16 animation with gold glasses hearts_236
+  - first:
+      213: 3880614740683000768
+    second: cat 1 16x16 animation with gold glasses hearts_237
+  - first:
+      213: 6604009389690096626
+    second: cat 1 16x16 animation with gold glasses hearts_238
+  - first:
+      213: 7133751713686317327
+    second: cat 1 16x16 animation with gold glasses hearts_239
+  - first:
+      213: -2549761591102252794
+    second: cat 1 16x16 animation with gold glasses hearts_240
+  - first:
+      213: -4344903765628825085
+    second: cat 1 16x16 animation with gold glasses hearts_241
+  - first:
+      213: -6757350374732507895
+    second: cat 1 16x16 animation with gold glasses hearts_242
+  - first:
+      213: -4824071346947594706
+    second: cat 1 16x16 animation with gold glasses hearts_243
+  - first:
+      213: 8092651560755695131
+    second: cat 1 16x16 animation with gold glasses hearts_244
+  - first:
+      213: 6516298793719423530
+    second: cat 1 16x16 animation with gold glasses hearts_245
+  - first:
+      213: -2705987577602168631
+    second: cat 1 16x16 animation with gold glasses hearts_246
+  - first:
+      213: 626742734021327302
+    second: cat 1 16x16 animation with gold glasses hearts_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe68962ce3ab6ea0800000000000000
+      internalID: -5878424653946917135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebda89cf576afeb50800000000000000
+      internalID: 6624696602564537790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a2e44f0f86f2aa0800000000000000
+      internalID: -6183608379256198581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923e54ce9a1bf5e0800000000000000
+      internalID: -1874875550668016995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33117d83869ea2e0800000000000000
+      internalID: -2112585683432303813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1645
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37f453b425317a0800000000000000
+      internalID: -6407687361847659570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f375bc8cde2af40800000000000000
+      internalID: 5738410321884167976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3e9761aa752900800000000000000
+      internalID: 659067754126392496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1647
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a76bae37688e620800000000000000
+      internalID: 2803638600455322207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1647
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba2c10ba49d950e0800000000000000
+      internalID: -2280552821481002318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1611
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1247f77fc51c80280800000000000000
+      internalID: -9076792443931757535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a2b8ef2d56d140800000000000000
+      internalID: 4744081717830263687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f3aa871380b7b0800000000000000
+      internalID: -5210520631734175323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1612
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce33eadddb8dbd0800000000000000
+      internalID: -2605123624625771376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1612
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1954d6067fbb98100800000000000000
+      internalID: 110826336996378001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33caa50268b470c90800000000000000
+      internalID: -7203706039515304909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359089c44edb08020800000000000000
+      internalID: 2342080594467883347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132653f883324cb00800000000000000
+      internalID: 847841355680277041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a7ac99f2ad4830800000000000000
+      internalID: 4057078032289473199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39ce11660006bb0800000000000000
+      internalID: -4944951952465423417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de41d429e803f80800000000000000
+      internalID: -8128840568394158769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef953a3678aa480800000000000000
+      internalID: -8887142052650156511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aa2610e8c4eb300800000000000000
+      internalID: 269737200481118877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88691af2265e73970800000000000000
+      internalID: 8734702212177041032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1549
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b62fa6f4964021d0800000000000000
+      internalID: -3377622114920094031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f3cb7c9bda9d50800000000000000
+      internalID: 6744944857078559548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1549
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3abef9b61b467f0800000000000000
+      internalID: -620175772867648548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce413fb4b89cf26c0800000000000000
+      internalID: -4165889530182560532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd4177e73b52c050800000000000000
+      internalID: 5819313964180393403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8507163c59d680800000000000000
+      internalID: -8729845015296767427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd9ff31854bdec0800000000000000
+      internalID: -3541160260570325789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec6f729e52dbd30800000000000000
+      internalID: 4448753690240011887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2a84c6a58924c0800000000000000
+      internalID: -4311768216922084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139fd73dfc5162af0800000000000000
+      internalID: -421625532761900751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2390c1c75465c0800000000000000
+      internalID: -4223154060895506513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81a3634639eeb20800000000000000
+      internalID: 3165629646703827168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19723fb3b862bb040800000000000000
+      internalID: 4664364218520381329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2351a61f9d329cee0800000000000000
+      internalID: -1240420803398724302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20db5f867fce620800000000000000
+      internalID: 2804888698116440747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6605a7ffe509cd10800000000000000
+      internalID: 2146253225628862062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a62c27a2ac23b50800000000000000
+      internalID: 6571537089949756058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e9adacebef8b60800000000000000
+      internalID: 7750672885486313848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6ab267e99c80c0800000000000000
+      internalID: -4572110302615016433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51da56ec814b1de0800000000000000
+      internalID: -1361422388933504678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1425
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38ea4b070d22f1b0800000000000000
+      internalID: -5624383476354848707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1423
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a359275c517a4ffc0800000000000000
+      internalID: -3461958501592296134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2f43a1d3c6f540800000000000000
+      internalID: 5041432138043304956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1425
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc7696c3a595bc0800000000000000
+      internalID: -3793901995569983530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1423
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c7ff88be981390800000000000000
+      internalID: -7847347835166537474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1331
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e605cd74c13850800000000000000
+      internalID: 6355076593652001200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1391
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8833ae4eabf668e0800000000000000
+      internalID: -1700395083223582578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1363
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b46cb05de1393e0800000000000000
+      internalID: -2048259505149031616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1331
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e9de9b08a24680800000000000000
+      internalID: -8772264356301118892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1391
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814f840717e95420800000000000000
+      internalID: 2619378744339415437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1363
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5711b7ae823ad520800000000000000
+      internalID: 2727548112606402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1294
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ae191c2a0e6c8e0800000000000000
+      internalID: -1673403221884671336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1294
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0aca63c2997700800000000000000
+      internalID: 538622998455389830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1262
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed9bfde929acc020800000000000000
+      internalID: 2363449902014111206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1262
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8403daa873500d0800000000000000
+      internalID: -3457296070186350345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a03632753a5c370800000000000000
+      internalID: 8342253479424887390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a91632426464cb0800000000000000
+      internalID: -4880136025182987646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369382833b58896a0800000000000000
+      internalID: -6442252262165694109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b135f55e6996a80800000000000000
+      internalID: -8473075312029918379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e83af2b8d7fb080800000000000000
+      internalID: -9169472279549866376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83c2e3f668541870800000000000000
+      internalID: 8652637983287198604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1069
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f3756818c93c80800000000000000
+      internalID: -8342416827620264494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1069
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c26686ddb06760800000000000000
+      internalID: 7449162512746071480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1037
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972c75ef92ead3190800000000000000
+      internalID: -7981031469246594439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1035
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58da4a76b16cb950800000000000000
+      internalID: 6466150601360857183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa04d5a2bf651bb0800000000000000
+      internalID: -4965940201029104909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1033
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b50913e358825e0800000000000000
+      internalID: -1934149537789617348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c3f5905f71ffc0800000000000000
+      internalID: -3462846654381308488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1033
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c59bafaaf1e7d0800000000000000
+      internalID: -2890753853390207264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fe239d2be151060800000000000000
+      internalID: 6923473755649011459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1035
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844b62fa5cdd902b0800000000000000
+      internalID: -5617715219051137976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16ac4cee616b1580800000000000000
+      internalID: -8855377113255205350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 973
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22bd092e99d9530800000000000000
+      internalID: 3863413253725692616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8b598ede8c6db10800000000000000
+      internalID: 2006011608175065323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26fe264037c064e0800000000000000
+      internalID: -1990372025147918806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582299b101f1d1340800000000000000
+      internalID: 4836055728908739205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7a34f7da96b4d0800000000000000
+      internalID: -3119135439601369684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_81
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ccdb48e5fd5bba0800000000000000
+      internalID: -6073702925392294757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 973
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab29f1999a2b4c30800000000000000
+      internalID: 4344613104596364197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92fc8127371cc80800000000000000
+      internalID: -8304229304014788149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_84
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 941
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978969105c9616230800000000000000
+      internalID: 3630299069493450873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec317b393542d570800000000000000
+      internalID: 8489924359659535597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c91cd903a5c240800000000000000
+      internalID: 4811431039657953522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede68e56e9596430800000000000000
+      internalID: 3776648608490122720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6de5f366dcb130800000000000000
+      internalID: 3583975128296157149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f496103b613098ab0800000000000000
+      internalID: -5005466114818217649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_90
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 941
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a04c97a17f8b300800000000000000
+      internalID: 268235870912645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 911
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7411b3632c992ee0800000000000000
+      internalID: -1285324542827228035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 909
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d6a4587ed33dc0800000000000000
+      internalID: -3660337463724419924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1926ef7e6d1c8420800000000000000
+      internalID: 2633512242534295834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 907
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951db39a6bbd4430800000000000000
+      internalID: 3768874529598543252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1553410ce3968fbc0800000000000000
+      internalID: -3749130971554499247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 907
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404eface6c6de5c0800000000000000
+      internalID: -4184569255649460149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec0f707795ab3f0800000000000000
+      internalID: -884296009055678761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 909
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acde87a4cb1694f0800000000000000
+      internalID: -822439350509839193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 851
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c3b575a08001a0800000000000000
+      internalID: -6845329985470479548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 849
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fc2998e67faa1f0800000000000000
+      internalID: -1032741110401544371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 848
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f291cde057de4360800000000000000
+      internalID: 7155893600524538614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 815
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970dbb37d67ca29c0800000000000000
+      internalID: -3951126450157137799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 875
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743606138622a750800000000000000
+      internalID: 6314651971978933368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_104
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd3e8472623b330800000000000000
+      internalID: 3725363266934004562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 816
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb377c6f85ff46a0800000000000000
+      internalID: -6462676943904490518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 876
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb1ddc72809957c0800000000000000
+      internalID: -4082072697119630342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 783
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75bb3e6733f21150800000000000000
+      internalID: 5841999086051112319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_108
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 785
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb10c99993b92590800000000000000
+      internalID: -7698424615722280003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 783
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fa5853ec7919860800000000000000
+      internalID: 7534970563484561211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 749
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f29494d69a9e280800000000000000
+      internalID: -9013486892359274706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_111
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 751
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16369397a3fcd570800000000000000
+      internalID: 8492930898375095835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_112
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 749
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3743af4c380225320800000000000000
+      internalID: 2545132489735287923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 715
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec50eed9f58ca90800000000000000
+      internalID: -7293474464618656003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_114
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 717
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1934a9901d877f0800000000000000
+      internalID: -614511509963042310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_115
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 715
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8085832bb95abd970800000000000000
+      internalID: 8780793986617464840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 686
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34548afa0a85236b0800000000000000
+      internalID: -5318090762806082237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 688
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc875e6ce49373e90800000000000000
+      internalID: -7046100081490691891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_118
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 686
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72316d899f0e7920800000000000000
+      internalID: 2989844354796958331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 655
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ac27787c7792e0800000000000000
+      internalID: -2119088242817195887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_120
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474698eb619b8bd0800000000000000
+      internalID: -2626846064990861504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91baa0ed168f273a0800000000000000
+      internalID: -6668994998961525991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6e687e0373eb630800000000000000
+      internalID: 3944651006805468915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_123
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fe1b0b0862699b0800000000000000
+      internalID: -5073825596024164458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_124
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ab2f4103b04ca20800000000000000
+      internalID: 3081600346166049304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ffdd5edb3ad4d70800000000000000
+      internalID: 9029052863948390150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_126
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 655
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe9dceb17366fad0800000000000000
+      internalID: -2668836388986839305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef12df76d2382d0800000000000000
+      internalID: -3277726179143844203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_128
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 622
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bfd92b1711b1620800000000000000
+      internalID: 2745807577838123909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_129
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e080a144c7b7cc80800000000000000
+      internalID: -8302465334491709212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_130
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53665407dfb060530800000000000000
+      internalID: 3820754517008672309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8da417da5678910800000000000000
+      internalID: 1839550768408615099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_132
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efaa4d0e887c430800000000000000
+      internalID: 3803158909559701044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_133
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 622
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf0d62a95f90130800000000000000
+      internalID: 3533625425073863744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_134
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042b2c4210f4d210800000000000000
+      internalID: 1356973349123335181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e44355f0532a880800000000000000
+      internalID: -8601253998353953254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_136
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 588
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b88db572d1b6f30800000000000000
+      internalID: 4569778301779348314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da936b8e9ed24e0800000000000000
+      internalID: -2004689073411084905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cec3443d09d0570800000000000000
+      internalID: 8434556914192149598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_139
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df557a03b8c0190800000000000000
+      internalID: -7994862197407351458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647b4a108c63ecb90800000000000000
+      internalID: -7219772919979395258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 588
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10be338233c88a160800000000000000
+      internalID: 7037028569112111873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_142
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 587
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0541ea52d9d4b0800000000000000
+      internalID: -5415065789168022471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_143
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 558
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da19532d710ec4480800000000000000
+      internalID: -8913503169557458515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_144
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 559
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85169e09f178b160800000000000000
+      internalID: 7041503331899282828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0c906ec924d900800000000000000
+      internalID: 708237007764852682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c4754eb193a500800000000000000
+      internalID: 406328637788569736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_147
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9e908d08ab3270800000000000000
+      internalID: 8231357519895632977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34138c3ccedf8740800000000000000
+      internalID: 5156585067132425276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_149
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 559
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365898539596d850800000000000000
+      internalID: 6401468380432848436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_150
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 558
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6b55e32d20c810800000000000000
+      internalID: 1783475084633795422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3b5307ff4a9710800000000000000
+      internalID: 1700759731617610887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f35de18f81d150800000000000000
+      internalID: 5895651175399945172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_153
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b0ebe156c1b8a0800000000000000
+      internalID: -6291029149307850004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_154
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6caf8b886ff8330800000000000000
+      internalID: 3715459284683376295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e6c9393c195c10800000000000000
+      internalID: 2042694938097281368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_156
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1accc1fc300197f90800000000000000
+      internalID: -6955510540951303007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_157
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8772cee9f1f5276b0800000000000000
+      internalID: -5300069222046750856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_158
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ab96656043b9670800000000000000
+      internalID: 8546481919689865882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_159
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd0929e1122f620800000000000000
+      internalID: 2806341932996942801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_160
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7748647da21f37f0800000000000000
+      internalID: -630764886616946821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c459992c141a1b10800000000000000
+      internalID: 1952895499608085701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_162
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb54953bf48edeb0800000000000000
+      internalID: -4693167547202905096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_163
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2c6902702b5960800000000000000
+      internalID: 7591697271019548614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_164
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fedd420a643194c0800000000000000
+      internalID: -4282584140742795529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_165
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b176ae1746357690800000000000000
+      internalID: -7605112716660411984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_166
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ecf2de340b8b80800000000000000
+      internalID: -8391608812800514277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_167
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581762411d1e1c80800000000000000
+      internalID: -8350204699132618668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_168
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d276c3f57495c50800000000000000
+      internalID: 6654428398777478408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_169
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806563c46cafb1100800000000000000
+      internalID: 79933147998213640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_170
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890c70cfe8fe021e0800000000000000
+      internalID: -2224514818528264040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7889d789781b50800000000000000
+      internalID: 6564130081269644195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_172
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600fddbbeccce26f0800000000000000
+      internalID: -707402903163375610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_173
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcf82928a7bfa460800000000000000
+      internalID: 7255219457590099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_174
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba26001bf31ea60800000000000000
+      internalID: 7701506867228486537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_175
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93763ba231772dc60800000000000000
+      internalID: 7841460825409939257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1118ab3785f7a20800000000000000
+      internalID: 3062263525708730840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_177
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d928215184f3b880800000000000000
+      internalID: -8596258427470599720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ad0740242f37330800000000000000
+      internalID: 3707573283612318346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_179
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7ebb6f0ebf90230800000000000000
+      internalID: 3605689920317548509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1a356bd8176fa0800000000000000
+      internalID: -5807645863895754177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_181
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83622a749bc0e00800000000000000
+      internalID: 1012387733565749452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_182
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20257b57577a6f120800000000000000
+      internalID: 2447327570450403842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_183
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9c1c7466559ff0800000000000000
+      internalID: -30022832929071204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_184
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13777d737827050800000000000000
+      internalID: 5796844344287113725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_185
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6dd048b2464b330800000000000000
+      internalID: 3725712929804113643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_186
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f472f6609beabd0800000000000000
+      internalID: -2616950896169890014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_187
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20cd272c828d3ed0800000000000000
+      internalID: -2432644685245857750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_188
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34905e9ff0fb43a70800000000000000
+      internalID: 8805873246754113859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_189
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562d8a5a32ec6e90800000000000000
+      internalID: -7030996177977006500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e72962ca2af630800000000000000
+      internalID: 3961525836702017147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_191
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61146b5a506ad8870800000000000000
+      internalID: 8686781799452786966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_192
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e0c62a324b427f0800000000000000
+      internalID: -638187182037922163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_193
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e87c5a74733a50800000000000000
+      internalID: 6499666756112017412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_194
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8f3c55ed7f95bb0800000000000000
+      internalID: -4946650181396072268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_195
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f25be59f0e01a400800000000000000
+      internalID: 333563307504653046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_196
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4098f357911136020800000000000000
+      internalID: 2333727832947001604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_197
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa314b4c9510604a0800000000000000
+      internalID: -6627608316565253201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ca6546b3d7a550800000000000000
+      internalID: 6172134594136687133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_199
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 368
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af99fb0858b40f900800000000000000
+      internalID: 716155377514682874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_200
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b55a4228f68846b0800000000000000
+      internalID: -5311847360198191691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_201
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 336
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ea398dc5f0f2340800000000000000
+      internalID: 4841105015891537445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b930fad5d730b80800000000000000
+      internalID: -8429756236185756843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cdc4fcd101f5170800000000000000
+      internalID: 8169265969291385939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 267
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7648eac6544a1040800000000000000
+      internalID: 4619079507383961214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_205
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900049ddbc52571e0800000000000000
+      internalID: -2200811285374566391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2a7148d2d2ae960800000000000000
+      internalID: 7631962192045646584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d844443134f870800000000000000
+      internalID: 8715645279422435515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb8c161d602de5c0800000000000000
+      internalID: -4184652825862829093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db05b4aa6a97000800000000000000
+      internalID: 34241722520223021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_210
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae7fdd66c86fcf0800000000000000
+      internalID: -218833158442325378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_211
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 267
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8aeee2ada81f50800000000000000
+      internalID: 6852417748348865922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_212
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774a8141856ec120800000000000000
+      internalID: 2435996054278784882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_213
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc604743d05855e0800000000000000
+      internalID: -1920696372709790472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_214
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff414dff31617030800000000000000
+      internalID: 3490678113648594932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_215
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4017ba3500205e0800000000000000
+      internalID: -1944991729712036615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_216
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944e6c3b8893bbc0800000000000000
+      internalID: -3768500739397237605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_217
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b37bc314339050800000000000000
+      internalID: 5806041604233083011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_218
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f3db0afb5324b80800000000000000
+      internalID: -8412102056822882445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_219
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84837bbc7cc1c00800000000000000
+      internalID: 872792105569241300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_220
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed0fbec2b4148d40800000000000000
+      internalID: 5585612196051619297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_221
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a5a054a808843d0800000000000000
+      internalID: -3222184202031441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_222
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4417829fc40c02c0800000000000000
+      internalID: -4464187841067936691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_223
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3d70c6504f3d70800000000000000
+      internalID: 9025002919614561068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_224
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d246cac50543a20800000000000000
+      internalID: 3041144007341387151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_225
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27383260bc1ea1ce0800000000000000
+      internalID: -1433585269266480270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_226
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247bba0df66c5a110800000000000000
+      internalID: 1271640653346617154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_227
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 141
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405789cf0c1ff74e0800000000000000
+      internalID: -1981599499845864188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_228
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376669032609630b0800000000000000
+      internalID: -5749249122895501709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_229
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4893e3d3d34895c0800000000000000
+      internalID: -4208539274705659825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_230
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ebb045977a75e00800000000000000
+      internalID: 1033478779047755346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_231
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089f26d6409bf310800000000000000
+      internalID: 1439903139790559244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_232
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c95aa367f96d9a0800000000000000
+      internalID: -6208599706144760710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_233
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02dbf4ecaee56480800000000000000
+      internalID: -8906450261711793652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_234
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 141
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b7d55f821e2890800000000000000
+      internalID: -7481021524185990937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_235
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a983584badded1400800000000000000
+      internalID: 296654674063603866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_236
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 81
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8be306247ffe380800000000000000
+      internalID: -8939654870852519719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_237
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb0e88db86bad530800000000000000
+      internalID: 3880614740683000768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_238
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb82d5ec8726ab50800000000000000
+      internalID: 6604009389690096626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_239
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f096b1a236d200360800000000000000
+      internalID: 7133751713686317327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_240
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095a64975d6d9cd0800000000000000
+      internalID: -2549761591102252794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_241
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302df62ab0dc3b3c0800000000000000
+      internalID: -4344903765628825085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_242
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905573bd2a11932a0800000000000000
+      internalID: -6757350374732507895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_243
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 109
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e266c024ba47d0db0800000000000000
+      internalID: -4824071346947594706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8ad1c7bfde4070800000000000000
+      internalID: 8092651560755695131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_245
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22e3f16a3b8e6a50800000000000000
+      internalID: 6516298793719423530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_246
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8276692a6627ad0800000000000000
+      internalID: -2705987577602168631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with gold glasses hearts_247
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f5ea2233a2b800800000000000000
+      internalID: 626742734021327302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat 1 16x16 animation with gold glasses hearts_0: -5878424653946917135
+      cat 1 16x16 animation with gold glasses hearts_1: 6624696602564537790
+      cat 1 16x16 animation with gold glasses hearts_10: -9076792443931757535
+      cat 1 16x16 animation with gold glasses hearts_100: -1032741110401544371
+      cat 1 16x16 animation with gold glasses hearts_101: 7155893600524538614
+      cat 1 16x16 animation with gold glasses hearts_102: -3951126450157137799
+      cat 1 16x16 animation with gold glasses hearts_103: 6314651971978933368
+      cat 1 16x16 animation with gold glasses hearts_104: 3725363266934004562
+      cat 1 16x16 animation with gold glasses hearts_105: -6462676943904490518
+      cat 1 16x16 animation with gold glasses hearts_106: -4082072697119630342
+      cat 1 16x16 animation with gold glasses hearts_107: 5841999086051112319
+      cat 1 16x16 animation with gold glasses hearts_108: -7698424615722280003
+      cat 1 16x16 animation with gold glasses hearts_109: 7534970563484561211
+      cat 1 16x16 animation with gold glasses hearts_11: 4744081717830263687
+      cat 1 16x16 animation with gold glasses hearts_110: -9013486892359274706
+      cat 1 16x16 animation with gold glasses hearts_111: 8492930898375095835
+      cat 1 16x16 animation with gold glasses hearts_112: 2545132489735287923
+      cat 1 16x16 animation with gold glasses hearts_113: -7293474464618656003
+      cat 1 16x16 animation with gold glasses hearts_114: -614511509963042310
+      cat 1 16x16 animation with gold glasses hearts_115: 8780793986617464840
+      cat 1 16x16 animation with gold glasses hearts_116: -5318090762806082237
+      cat 1 16x16 animation with gold glasses hearts_117: -7046100081490691891
+      cat 1 16x16 animation with gold glasses hearts_118: 2989844354796958331
+      cat 1 16x16 animation with gold glasses hearts_119: -2119088242817195887
+      cat 1 16x16 animation with gold glasses hearts_12: -5210520631734175323
+      cat 1 16x16 animation with gold glasses hearts_120: -2626846064990861504
+      cat 1 16x16 animation with gold glasses hearts_121: -6668994998961525991
+      cat 1 16x16 animation with gold glasses hearts_122: 3944651006805468915
+      cat 1 16x16 animation with gold glasses hearts_123: -5073825596024164458
+      cat 1 16x16 animation with gold glasses hearts_124: 3081600346166049304
+      cat 1 16x16 animation with gold glasses hearts_125: 9029052863948390150
+      cat 1 16x16 animation with gold glasses hearts_126: -2668836388986839305
+      cat 1 16x16 animation with gold glasses hearts_127: -3277726179143844203
+      cat 1 16x16 animation with gold glasses hearts_128: 2745807577838123909
+      cat 1 16x16 animation with gold glasses hearts_129: -8302465334491709212
+      cat 1 16x16 animation with gold glasses hearts_13: -2605123624625771376
+      cat 1 16x16 animation with gold glasses hearts_130: 3820754517008672309
+      cat 1 16x16 animation with gold glasses hearts_131: 1839550768408615099
+      cat 1 16x16 animation with gold glasses hearts_132: 3803158909559701044
+      cat 1 16x16 animation with gold glasses hearts_133: 3533625425073863744
+      cat 1 16x16 animation with gold glasses hearts_134: 1356973349123335181
+      cat 1 16x16 animation with gold glasses hearts_135: -8601253998353953254
+      cat 1 16x16 animation with gold glasses hearts_136: 4569778301779348314
+      cat 1 16x16 animation with gold glasses hearts_137: -2004689073411084905
+      cat 1 16x16 animation with gold glasses hearts_138: 8434556914192149598
+      cat 1 16x16 animation with gold glasses hearts_139: -7994862197407351458
+      cat 1 16x16 animation with gold glasses hearts_14: 110826336996378001
+      cat 1 16x16 animation with gold glasses hearts_140: -7219772919979395258
+      cat 1 16x16 animation with gold glasses hearts_141: 7037028569112111873
+      cat 1 16x16 animation with gold glasses hearts_142: -5415065789168022471
+      cat 1 16x16 animation with gold glasses hearts_143: -8913503169557458515
+      cat 1 16x16 animation with gold glasses hearts_144: 7041503331899282828
+      cat 1 16x16 animation with gold glasses hearts_145: 708237007764852682
+      cat 1 16x16 animation with gold glasses hearts_146: 406328637788569736
+      cat 1 16x16 animation with gold glasses hearts_147: 8231357519895632977
+      cat 1 16x16 animation with gold glasses hearts_148: 5156585067132425276
+      cat 1 16x16 animation with gold glasses hearts_149: 6401468380432848436
+      cat 1 16x16 animation with gold glasses hearts_15: -7203706039515304909
+      cat 1 16x16 animation with gold glasses hearts_150: 1783475084633795422
+      cat 1 16x16 animation with gold glasses hearts_151: 1700759731617610887
+      cat 1 16x16 animation with gold glasses hearts_152: 5895651175399945172
+      cat 1 16x16 animation with gold glasses hearts_153: -6291029149307850004
+      cat 1 16x16 animation with gold glasses hearts_154: 3715459284683376295
+      cat 1 16x16 animation with gold glasses hearts_155: 2042694938097281368
+      cat 1 16x16 animation with gold glasses hearts_156: -6955510540951303007
+      cat 1 16x16 animation with gold glasses hearts_157: -5300069222046750856
+      cat 1 16x16 animation with gold glasses hearts_158: 8546481919689865882
+      cat 1 16x16 animation with gold glasses hearts_159: 2806341932996942801
+      cat 1 16x16 animation with gold glasses hearts_16: 2342080594467883347
+      cat 1 16x16 animation with gold glasses hearts_160: -630764886616946821
+      cat 1 16x16 animation with gold glasses hearts_161: 1952895499608085701
+      cat 1 16x16 animation with gold glasses hearts_162: -4693167547202905096
+      cat 1 16x16 animation with gold glasses hearts_163: 7591697271019548614
+      cat 1 16x16 animation with gold glasses hearts_164: -4282584140742795529
+      cat 1 16x16 animation with gold glasses hearts_165: -7605112716660411984
+      cat 1 16x16 animation with gold glasses hearts_166: -8391608812800514277
+      cat 1 16x16 animation with gold glasses hearts_167: -8350204699132618668
+      cat 1 16x16 animation with gold glasses hearts_168: 6654428398777478408
+      cat 1 16x16 animation with gold glasses hearts_169: 79933147998213640
+      cat 1 16x16 animation with gold glasses hearts_17: 847841355680277041
+      cat 1 16x16 animation with gold glasses hearts_170: -2224514818528264040
+      cat 1 16x16 animation with gold glasses hearts_171: 6564130081269644195
+      cat 1 16x16 animation with gold glasses hearts_172: -707402903163375610
+      cat 1 16x16 animation with gold glasses hearts_173: 7255219457590099195
+      cat 1 16x16 animation with gold glasses hearts_174: 7701506867228486537
+      cat 1 16x16 animation with gold glasses hearts_175: 7841460825409939257
+      cat 1 16x16 animation with gold glasses hearts_176: 3062263525708730840
+      cat 1 16x16 animation with gold glasses hearts_177: -8596258427470599720
+      cat 1 16x16 animation with gold glasses hearts_178: 3707573283612318346
+      cat 1 16x16 animation with gold glasses hearts_179: 3605689920317548509
+      cat 1 16x16 animation with gold glasses hearts_18: 4057078032289473199
+      cat 1 16x16 animation with gold glasses hearts_180: -5807645863895754177
+      cat 1 16x16 animation with gold glasses hearts_181: 1012387733565749452
+      cat 1 16x16 animation with gold glasses hearts_182: 2447327570450403842
+      cat 1 16x16 animation with gold glasses hearts_183: -30022832929071204
+      cat 1 16x16 animation with gold glasses hearts_184: 5796844344287113725
+      cat 1 16x16 animation with gold glasses hearts_185: 3725712929804113643
+      cat 1 16x16 animation with gold glasses hearts_186: -2616950896169890014
+      cat 1 16x16 animation with gold glasses hearts_187: -2432644685245857750
+      cat 1 16x16 animation with gold glasses hearts_188: 8805873246754113859
+      cat 1 16x16 animation with gold glasses hearts_189: -7030996177977006500
+      cat 1 16x16 animation with gold glasses hearts_19: -4944951952465423417
+      cat 1 16x16 animation with gold glasses hearts_190: 3961525836702017147
+      cat 1 16x16 animation with gold glasses hearts_191: 8686781799452786966
+      cat 1 16x16 animation with gold glasses hearts_192: -638187182037922163
+      cat 1 16x16 animation with gold glasses hearts_193: 6499666756112017412
+      cat 1 16x16 animation with gold glasses hearts_194: -4946650181396072268
+      cat 1 16x16 animation with gold glasses hearts_195: 333563307504653046
+      cat 1 16x16 animation with gold glasses hearts_196: 2333727832947001604
+      cat 1 16x16 animation with gold glasses hearts_197: -6627608316565253201
+      cat 1 16x16 animation with gold glasses hearts_198: 6172134594136687133
+      cat 1 16x16 animation with gold glasses hearts_199: 716155377514682874
+      cat 1 16x16 animation with gold glasses hearts_2: -6183608379256198581
+      cat 1 16x16 animation with gold glasses hearts_20: -8128840568394158769
+      cat 1 16x16 animation with gold glasses hearts_200: -5311847360198191691
+      cat 1 16x16 animation with gold glasses hearts_201: 4841105015891537445
+      cat 1 16x16 animation with gold glasses hearts_202: -8429756236185756843
+      cat 1 16x16 animation with gold glasses hearts_203: 8169265969291385939
+      cat 1 16x16 animation with gold glasses hearts_204: 4619079507383961214
+      cat 1 16x16 animation with gold glasses hearts_205: -2200811285374566391
+      cat 1 16x16 animation with gold glasses hearts_206: 7631962192045646584
+      cat 1 16x16 animation with gold glasses hearts_207: 8715645279422435515
+      cat 1 16x16 animation with gold glasses hearts_208: -4184652825862829093
+      cat 1 16x16 animation with gold glasses hearts_209: 34241722520223021
+      cat 1 16x16 animation with gold glasses hearts_21: -8887142052650156511
+      cat 1 16x16 animation with gold glasses hearts_210: -218833158442325378
+      cat 1 16x16 animation with gold glasses hearts_211: 6852417748348865922
+      cat 1 16x16 animation with gold glasses hearts_212: 2435996054278784882
+      cat 1 16x16 animation with gold glasses hearts_213: -1920696372709790472
+      cat 1 16x16 animation with gold glasses hearts_214: 3490678113648594932
+      cat 1 16x16 animation with gold glasses hearts_215: -1944991729712036615
+      cat 1 16x16 animation with gold glasses hearts_216: -3768500739397237605
+      cat 1 16x16 animation with gold glasses hearts_217: 5806041604233083011
+      cat 1 16x16 animation with gold glasses hearts_218: -8412102056822882445
+      cat 1 16x16 animation with gold glasses hearts_219: 872792105569241300
+      cat 1 16x16 animation with gold glasses hearts_22: 269737200481118877
+      cat 1 16x16 animation with gold glasses hearts_220: 5585612196051619297
+      cat 1 16x16 animation with gold glasses hearts_221: -3222184202031441368
+      cat 1 16x16 animation with gold glasses hearts_222: -4464187841067936691
+      cat 1 16x16 animation with gold glasses hearts_223: 9025002919614561068
+      cat 1 16x16 animation with gold glasses hearts_224: 3041144007341387151
+      cat 1 16x16 animation with gold glasses hearts_225: -1433585269266480270
+      cat 1 16x16 animation with gold glasses hearts_226: 1271640653346617154
+      cat 1 16x16 animation with gold glasses hearts_227: -1981599499845864188
+      cat 1 16x16 animation with gold glasses hearts_228: -5749249122895501709
+      cat 1 16x16 animation with gold glasses hearts_229: -4208539274705659825
+      cat 1 16x16 animation with gold glasses hearts_23: 8734702212177041032
+      cat 1 16x16 animation with gold glasses hearts_230: 1033478779047755346
+      cat 1 16x16 animation with gold glasses hearts_231: 1439903139790559244
+      cat 1 16x16 animation with gold glasses hearts_232: -6208599706144760710
+      cat 1 16x16 animation with gold glasses hearts_233: -8906450261711793652
+      cat 1 16x16 animation with gold glasses hearts_234: -7481021524185990937
+      cat 1 16x16 animation with gold glasses hearts_235: 296654674063603866
+      cat 1 16x16 animation with gold glasses hearts_236: -8939654870852519719
+      cat 1 16x16 animation with gold glasses hearts_237: 3880614740683000768
+      cat 1 16x16 animation with gold glasses hearts_238: 6604009389690096626
+      cat 1 16x16 animation with gold glasses hearts_239: 7133751713686317327
+      cat 1 16x16 animation with gold glasses hearts_24: -3377622114920094031
+      cat 1 16x16 animation with gold glasses hearts_240: -2549761591102252794
+      cat 1 16x16 animation with gold glasses hearts_241: -4344903765628825085
+      cat 1 16x16 animation with gold glasses hearts_242: -6757350374732507895
+      cat 1 16x16 animation with gold glasses hearts_243: -4824071346947594706
+      cat 1 16x16 animation with gold glasses hearts_244: 8092651560755695131
+      cat 1 16x16 animation with gold glasses hearts_245: 6516298793719423530
+      cat 1 16x16 animation with gold glasses hearts_246: -2705987577602168631
+      cat 1 16x16 animation with gold glasses hearts_247: 626742734021327302
+      cat 1 16x16 animation with gold glasses hearts_25: 6744944857078559548
+      cat 1 16x16 animation with gold glasses hearts_26: -620175772867648548
+      cat 1 16x16 animation with gold glasses hearts_27: -4165889530182560532
+      cat 1 16x16 animation with gold glasses hearts_28: 5819313964180393403
+      cat 1 16x16 animation with gold glasses hearts_29: -8729845015296767427
+      cat 1 16x16 animation with gold glasses hearts_3: -1874875550668016995
+      cat 1 16x16 animation with gold glasses hearts_30: -3541160260570325789
+      cat 1 16x16 animation with gold glasses hearts_31: 4448753690240011887
+      cat 1 16x16 animation with gold glasses hearts_32: -4311768216922084707
+      cat 1 16x16 animation with gold glasses hearts_33: -421625532761900751
+      cat 1 16x16 animation with gold glasses hearts_34: -4223154060895506513
+      cat 1 16x16 animation with gold glasses hearts_35: 3165629646703827168
+      cat 1 16x16 animation with gold glasses hearts_36: 4664364218520381329
+      cat 1 16x16 animation with gold glasses hearts_37: -1240420803398724302
+      cat 1 16x16 animation with gold glasses hearts_38: 2804888698116440747
+      cat 1 16x16 animation with gold glasses hearts_39: 2146253225628862062
+      cat 1 16x16 animation with gold glasses hearts_4: -2112585683432303813
+      cat 1 16x16 animation with gold glasses hearts_40: 6571537089949756058
+      cat 1 16x16 animation with gold glasses hearts_41: 7750672885486313848
+      cat 1 16x16 animation with gold glasses hearts_42: -4572110302615016433
+      cat 1 16x16 animation with gold glasses hearts_43: -1361422388933504678
+      cat 1 16x16 animation with gold glasses hearts_44: -5624383476354848707
+      cat 1 16x16 animation with gold glasses hearts_45: -3461958501592296134
+      cat 1 16x16 animation with gold glasses hearts_46: 5041432138043304956
+      cat 1 16x16 animation with gold glasses hearts_47: -3793901995569983530
+      cat 1 16x16 animation with gold glasses hearts_48: -7847347835166537474
+      cat 1 16x16 animation with gold glasses hearts_49: 6355076593652001200
+      cat 1 16x16 animation with gold glasses hearts_5: -6407687361847659570
+      cat 1 16x16 animation with gold glasses hearts_50: -1700395083223582578
+      cat 1 16x16 animation with gold glasses hearts_51: -2048259505149031616
+      cat 1 16x16 animation with gold glasses hearts_52: -8772264356301118892
+      cat 1 16x16 animation with gold glasses hearts_53: 2619378744339415437
+      cat 1 16x16 animation with gold glasses hearts_54: 2727548112606402399
+      cat 1 16x16 animation with gold glasses hearts_55: -1673403221884671336
+      cat 1 16x16 animation with gold glasses hearts_56: 538622998455389830
+      cat 1 16x16 animation with gold glasses hearts_57: 2363449902014111206
+      cat 1 16x16 animation with gold glasses hearts_58: -3457296070186350345
+      cat 1 16x16 animation with gold glasses hearts_59: 8342253479424887390
+      cat 1 16x16 animation with gold glasses hearts_6: 5738410321884167976
+      cat 1 16x16 animation with gold glasses hearts_60: -4880136025182987646
+      cat 1 16x16 animation with gold glasses hearts_61: -6442252262165694109
+      cat 1 16x16 animation with gold glasses hearts_62: -8473075312029918379
+      cat 1 16x16 animation with gold glasses hearts_63: -9169472279549866376
+      cat 1 16x16 animation with gold glasses hearts_64: 8652637983287198604
+      cat 1 16x16 animation with gold glasses hearts_65: -8342416827620264494
+      cat 1 16x16 animation with gold glasses hearts_66: 7449162512746071480
+      cat 1 16x16 animation with gold glasses hearts_67: -7981031469246594439
+      cat 1 16x16 animation with gold glasses hearts_68: 6466150601360857183
+      cat 1 16x16 animation with gold glasses hearts_69: -4965940201029104909
+      cat 1 16x16 animation with gold glasses hearts_7: 659067754126392496
+      cat 1 16x16 animation with gold glasses hearts_70: -1934149537789617348
+      cat 1 16x16 animation with gold glasses hearts_71: -3462846654381308488
+      cat 1 16x16 animation with gold glasses hearts_72: -2890753853390207264
+      cat 1 16x16 animation with gold glasses hearts_73: 6923473755649011459
+      cat 1 16x16 animation with gold glasses hearts_74: -5617715219051137976
+      cat 1 16x16 animation with gold glasses hearts_75: -8855377113255205350
+      cat 1 16x16 animation with gold glasses hearts_76: 3863413253725692616
+      cat 1 16x16 animation with gold glasses hearts_77: 2006011608175065323
+      cat 1 16x16 animation with gold glasses hearts_78: -1990372025147918806
+      cat 1 16x16 animation with gold glasses hearts_79: 4836055728908739205
+      cat 1 16x16 animation with gold glasses hearts_8: 2803638600455322207
+      cat 1 16x16 animation with gold glasses hearts_80: -3119135439601369684
+      cat 1 16x16 animation with gold glasses hearts_81: -6073702925392294757
+      cat 1 16x16 animation with gold glasses hearts_82: 4344613104596364197
+      cat 1 16x16 animation with gold glasses hearts_83: -8304229304014788149
+      cat 1 16x16 animation with gold glasses hearts_84: 3630299069493450873
+      cat 1 16x16 animation with gold glasses hearts_85: 8489924359659535597
+      cat 1 16x16 animation with gold glasses hearts_86: 4811431039657953522
+      cat 1 16x16 animation with gold glasses hearts_87: 3776648608490122720
+      cat 1 16x16 animation with gold glasses hearts_88: 3583975128296157149
+      cat 1 16x16 animation with gold glasses hearts_89: -5005466114818217649
+      cat 1 16x16 animation with gold glasses hearts_9: -2280552821481002318
+      cat 1 16x16 animation with gold glasses hearts_90: 268235870912645707
+      cat 1 16x16 animation with gold glasses hearts_91: -1285324542827228035
+      cat 1 16x16 animation with gold glasses hearts_92: -3660337463724419924
+      cat 1 16x16 animation with gold glasses hearts_93: 2633512242534295834
+      cat 1 16x16 animation with gold glasses hearts_94: 3768874529598543252
+      cat 1 16x16 animation with gold glasses hearts_95: -3749130971554499247
+      cat 1 16x16 animation with gold glasses hearts_96: -4184569255649460149
+      cat 1 16x16 animation with gold glasses hearts_97: -884296009055678761
+      cat 1 16x16 animation with gold glasses hearts_98: -822439350509839193
+      cat 1 16x16 animation with gold glasses hearts_99: -6845329985470479548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

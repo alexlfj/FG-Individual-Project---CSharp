@@ -1,0 +1,6565 @@
+fileFormatVersion: 2
+guid: 088eb1b3837ef7d43b1f7226fe9cda48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6079753347271433684
+    second: cat 1 16x16 animation with red glasses hearts_0
+  - first:
+      213: 287946967469672444
+    second: cat 1 16x16 animation with red glasses hearts_1
+  - first:
+      213: -6226425927225810085
+    second: cat 1 16x16 animation with red glasses hearts_2
+  - first:
+      213: -8984884451696208804
+    second: cat 1 16x16 animation with red glasses hearts_3
+  - first:
+      213: -1427631889065645071
+    second: cat 1 16x16 animation with red glasses hearts_4
+  - first:
+      213: 3634442821852553117
+    second: cat 1 16x16 animation with red glasses hearts_5
+  - first:
+      213: -7134804446931727211
+    second: cat 1 16x16 animation with red glasses hearts_6
+  - first:
+      213: 892234247989792338
+    second: cat 1 16x16 animation with red glasses hearts_7
+  - first:
+      213: 8574279073411995629
+    second: cat 1 16x16 animation with red glasses hearts_8
+  - first:
+      213: -4983648187700936052
+    second: cat 1 16x16 animation with red glasses hearts_9
+  - first:
+      213: 6080344558958616070
+    second: cat 1 16x16 animation with red glasses hearts_10
+  - first:
+      213: 238757255866199350
+    second: cat 1 16x16 animation with red glasses hearts_11
+  - first:
+      213: 1755584253772644126
+    second: cat 1 16x16 animation with red glasses hearts_12
+  - first:
+      213: -7251695379388963960
+    second: cat 1 16x16 animation with red glasses hearts_13
+  - first:
+      213: 2779444587142955068
+    second: cat 1 16x16 animation with red glasses hearts_14
+  - first:
+      213: -2608592132771985114
+    second: cat 1 16x16 animation with red glasses hearts_15
+  - first:
+      213: -3748619433963739376
+    second: cat 1 16x16 animation with red glasses hearts_16
+  - first:
+      213: -985858484240705657
+    second: cat 1 16x16 animation with red glasses hearts_17
+  - first:
+      213: 8837786897115705840
+    second: cat 1 16x16 animation with red glasses hearts_18
+  - first:
+      213: 2327256176636011042
+    second: cat 1 16x16 animation with red glasses hearts_19
+  - first:
+      213: -4791298590153900285
+    second: cat 1 16x16 animation with red glasses hearts_20
+  - first:
+      213: 8349301842900892951
+    second: cat 1 16x16 animation with red glasses hearts_21
+  - first:
+      213: -8209290081730404940
+    second: cat 1 16x16 animation with red glasses hearts_22
+  - first:
+      213: 4501079801470214718
+    second: cat 1 16x16 animation with red glasses hearts_23
+  - first:
+      213: 6497903869202188927
+    second: cat 1 16x16 animation with red glasses hearts_24
+  - first:
+      213: 5484247562772603806
+    second: cat 1 16x16 animation with red glasses hearts_25
+  - first:
+      213: 8616777372253098030
+    second: cat 1 16x16 animation with red glasses hearts_26
+  - first:
+      213: 2862860009075200448
+    second: cat 1 16x16 animation with red glasses hearts_27
+  - first:
+      213: -3776767974592343684
+    second: cat 1 16x16 animation with red glasses hearts_28
+  - first:
+      213: -7973348746082136656
+    second: cat 1 16x16 animation with red glasses hearts_29
+  - first:
+      213: 5660230605438273197
+    second: cat 1 16x16 animation with red glasses hearts_30
+  - first:
+      213: 6542630900375982599
+    second: cat 1 16x16 animation with red glasses hearts_31
+  - first:
+      213: 2335732266195635217
+    second: cat 1 16x16 animation with red glasses hearts_32
+  - first:
+      213: -6889879891236998582
+    second: cat 1 16x16 animation with red glasses hearts_33
+  - first:
+      213: -3781191499658710088
+    second: cat 1 16x16 animation with red glasses hearts_34
+  - first:
+      213: -6617467074416688150
+    second: cat 1 16x16 animation with red glasses hearts_35
+  - first:
+      213: 1656542592384553289
+    second: cat 1 16x16 animation with red glasses hearts_36
+  - first:
+      213: -8540116254392243360
+    second: cat 1 16x16 animation with red glasses hearts_37
+  - first:
+      213: 4035078710124000978
+    second: cat 1 16x16 animation with red glasses hearts_38
+  - first:
+      213: -105004302410401939
+    second: cat 1 16x16 animation with red glasses hearts_39
+  - first:
+      213: -5688778364907326325
+    second: cat 1 16x16 animation with red glasses hearts_40
+  - first:
+      213: 8885344556240584052
+    second: cat 1 16x16 animation with red glasses hearts_41
+  - first:
+      213: 2767759859003697296
+    second: cat 1 16x16 animation with red glasses hearts_42
+  - first:
+      213: -3250878072116583352
+    second: cat 1 16x16 animation with red glasses hearts_43
+  - first:
+      213: -3693325795499337139
+    second: cat 1 16x16 animation with red glasses hearts_44
+  - first:
+      213: -8159468432321265594
+    second: cat 1 16x16 animation with red glasses hearts_45
+  - first:
+      213: 4595987056378455215
+    second: cat 1 16x16 animation with red glasses hearts_46
+  - first:
+      213: 966944164580994661
+    second: cat 1 16x16 animation with red glasses hearts_47
+  - first:
+      213: -5655780978041649836
+    second: cat 1 16x16 animation with red glasses hearts_48
+  - first:
+      213: -442328428353702627
+    second: cat 1 16x16 animation with red glasses hearts_49
+  - first:
+      213: 6702991288861371169
+    second: cat 1 16x16 animation with red glasses hearts_50
+  - first:
+      213: -5213129983959143280
+    second: cat 1 16x16 animation with red glasses hearts_51
+  - first:
+      213: -6461484238204007706
+    second: cat 1 16x16 animation with red glasses hearts_52
+  - first:
+      213: -3013088133863122905
+    second: cat 1 16x16 animation with red glasses hearts_53
+  - first:
+      213: -4552330565020483201
+    second: cat 1 16x16 animation with red glasses hearts_54
+  - first:
+      213: 7944832005660517981
+    second: cat 1 16x16 animation with red glasses hearts_55
+  - first:
+      213: -1228774746160718190
+    second: cat 1 16x16 animation with red glasses hearts_56
+  - first:
+      213: -1330672050371940288
+    second: cat 1 16x16 animation with red glasses hearts_57
+  - first:
+      213: 3079776661115323651
+    second: cat 1 16x16 animation with red glasses hearts_58
+  - first:
+      213: -2607497752578578768
+    second: cat 1 16x16 animation with red glasses hearts_59
+  - first:
+      213: 234510041294765696
+    second: cat 1 16x16 animation with red glasses hearts_60
+  - first:
+      213: 2410943816350071732
+    second: cat 1 16x16 animation with red glasses hearts_61
+  - first:
+      213: -2997355179687282758
+    second: cat 1 16x16 animation with red glasses hearts_62
+  - first:
+      213: -3668773388778320286
+    second: cat 1 16x16 animation with red glasses hearts_63
+  - first:
+      213: 7076673649717243304
+    second: cat 1 16x16 animation with red glasses hearts_64
+  - first:
+      213: 5387484613592979495
+    second: cat 1 16x16 animation with red glasses hearts_65
+  - first:
+      213: 7062949481106400185
+    second: cat 1 16x16 animation with red glasses hearts_66
+  - first:
+      213: -1464460560300240101
+    second: cat 1 16x16 animation with red glasses hearts_67
+  - first:
+      213: 1881749110313625366
+    second: cat 1 16x16 animation with red glasses hearts_68
+  - first:
+      213: 913521645326644746
+    second: cat 1 16x16 animation with red glasses hearts_69
+  - first:
+      213: 7174713418100456934
+    second: cat 1 16x16 animation with red glasses hearts_70
+  - first:
+      213: -5349711063997964404
+    second: cat 1 16x16 animation with red glasses hearts_71
+  - first:
+      213: 2875093906620405306
+    second: cat 1 16x16 animation with red glasses hearts_72
+  - first:
+      213: -4563828389972881626
+    second: cat 1 16x16 animation with red glasses hearts_73
+  - first:
+      213: -3336854883620288079
+    second: cat 1 16x16 animation with red glasses hearts_74
+  - first:
+      213: -8947408407485010415
+    second: cat 1 16x16 animation with red glasses hearts_75
+  - first:
+      213: 2584840962636039917
+    second: cat 1 16x16 animation with red glasses hearts_76
+  - first:
+      213: -6720271979633943073
+    second: cat 1 16x16 animation with red glasses hearts_77
+  - first:
+      213: -9193049550998575714
+    second: cat 1 16x16 animation with red glasses hearts_78
+  - first:
+      213: 7726481046141585366
+    second: cat 1 16x16 animation with red glasses hearts_79
+  - first:
+      213: -598771052272175895
+    second: cat 1 16x16 animation with red glasses hearts_80
+  - first:
+      213: 5481501986038481303
+    second: cat 1 16x16 animation with red glasses hearts_81
+  - first:
+      213: -7862012418961154606
+    second: cat 1 16x16 animation with red glasses hearts_82
+  - first:
+      213: -3905228138113629900
+    second: cat 1 16x16 animation with red glasses hearts_83
+  - first:
+      213: 3729383682498729659
+    second: cat 1 16x16 animation with red glasses hearts_84
+  - first:
+      213: 4084733882615244239
+    second: cat 1 16x16 animation with red glasses hearts_85
+  - first:
+      213: 2544377765761504352
+    second: cat 1 16x16 animation with red glasses hearts_86
+  - first:
+      213: 2706096373569936652
+    second: cat 1 16x16 animation with red glasses hearts_87
+  - first:
+      213: 1270988509156233798
+    second: cat 1 16x16 animation with red glasses hearts_88
+  - first:
+      213: -6778823595196222641
+    second: cat 1 16x16 animation with red glasses hearts_89
+  - first:
+      213: -3408682485879771628
+    second: cat 1 16x16 animation with red glasses hearts_90
+  - first:
+      213: 9033718596558315085
+    second: cat 1 16x16 animation with red glasses hearts_91
+  - first:
+      213: -1290249285814915359
+    second: cat 1 16x16 animation with red glasses hearts_92
+  - first:
+      213: -4807019352298879809
+    second: cat 1 16x16 animation with red glasses hearts_93
+  - first:
+      213: 3601437408198813263
+    second: cat 1 16x16 animation with red glasses hearts_94
+  - first:
+      213: 385880339861442237
+    second: cat 1 16x16 animation with red glasses hearts_95
+  - first:
+      213: -1073442212083185724
+    second: cat 1 16x16 animation with red glasses hearts_96
+  - first:
+      213: -6602970718011623030
+    second: cat 1 16x16 animation with red glasses hearts_97
+  - first:
+      213: 1867990491779626514
+    second: cat 1 16x16 animation with red glasses hearts_98
+  - first:
+      213: 1814830641696155344
+    second: cat 1 16x16 animation with red glasses hearts_99
+  - first:
+      213: 410962935636177530
+    second: cat 1 16x16 animation with red glasses hearts_100
+  - first:
+      213: 4726682310650052978
+    second: cat 1 16x16 animation with red glasses hearts_101
+  - first:
+      213: -844185921463731019
+    second: cat 1 16x16 animation with red glasses hearts_102
+  - first:
+      213: -1929728886132887115
+    second: cat 1 16x16 animation with red glasses hearts_103
+  - first:
+      213: 8171876885640770892
+    second: cat 1 16x16 animation with red glasses hearts_104
+  - first:
+      213: 2413917256444840343
+    second: cat 1 16x16 animation with red glasses hearts_105
+  - first:
+      213: 5184218648537781851
+    second: cat 1 16x16 animation with red glasses hearts_106
+  - first:
+      213: 4916981421244026641
+    second: cat 1 16x16 animation with red glasses hearts_107
+  - first:
+      213: 2744546399834628507
+    second: cat 1 16x16 animation with red glasses hearts_108
+  - first:
+      213: 130704502252188904
+    second: cat 1 16x16 animation with red glasses hearts_109
+  - first:
+      213: -6962609782735976343
+    second: cat 1 16x16 animation with red glasses hearts_110
+  - first:
+      213: -7861483686383689676
+    second: cat 1 16x16 animation with red glasses hearts_111
+  - first:
+      213: 3535574018343294411
+    second: cat 1 16x16 animation with red glasses hearts_112
+  - first:
+      213: 1144701097589218013
+    second: cat 1 16x16 animation with red glasses hearts_113
+  - first:
+      213: 9057045214423400650
+    second: cat 1 16x16 animation with red glasses hearts_114
+  - first:
+      213: -6472011062346204540
+    second: cat 1 16x16 animation with red glasses hearts_115
+  - first:
+      213: 8501655961697870550
+    second: cat 1 16x16 animation with red glasses hearts_116
+  - first:
+      213: -4173780421599730292
+    second: cat 1 16x16 animation with red glasses hearts_117
+  - first:
+      213: 5996950543584119575
+    second: cat 1 16x16 animation with red glasses hearts_118
+  - first:
+      213: 2801942435149083751
+    second: cat 1 16x16 animation with red glasses hearts_119
+  - first:
+      213: 8481733820485559410
+    second: cat 1 16x16 animation with red glasses hearts_120
+  - first:
+      213: 5230273127040574379
+    second: cat 1 16x16 animation with red glasses hearts_121
+  - first:
+      213: 4587886070478208422
+    second: cat 1 16x16 animation with red glasses hearts_122
+  - first:
+      213: -5910257341716186633
+    second: cat 1 16x16 animation with red glasses hearts_123
+  - first:
+      213: -9195489606093728840
+    second: cat 1 16x16 animation with red glasses hearts_124
+  - first:
+      213: -180220061464598561
+    second: cat 1 16x16 animation with red glasses hearts_125
+  - first:
+      213: 1902546159168989893
+    second: cat 1 16x16 animation with red glasses hearts_126
+  - first:
+      213: 3374408891219108568
+    second: cat 1 16x16 animation with red glasses hearts_127
+  - first:
+      213: -8263321854829538437
+    second: cat 1 16x16 animation with red glasses hearts_128
+  - first:
+      213: 2172218880388746448
+    second: cat 1 16x16 animation with red glasses hearts_129
+  - first:
+      213: 83446482810139157
+    second: cat 1 16x16 animation with red glasses hearts_130
+  - first:
+      213: 358414590710231164
+    second: cat 1 16x16 animation with red glasses hearts_131
+  - first:
+      213: 1647659049159453839
+    second: cat 1 16x16 animation with red glasses hearts_132
+  - first:
+      213: 7057500477393209464
+    second: cat 1 16x16 animation with red glasses hearts_133
+  - first:
+      213: 567741188984547860
+    second: cat 1 16x16 animation with red glasses hearts_134
+  - first:
+      213: -4545876226548416757
+    second: cat 1 16x16 animation with red glasses hearts_135
+  - first:
+      213: -7262373874897277652
+    second: cat 1 16x16 animation with red glasses hearts_136
+  - first:
+      213: -4137922708244653472
+    second: cat 1 16x16 animation with red glasses hearts_137
+  - first:
+      213: 4860200259690672179
+    second: cat 1 16x16 animation with red glasses hearts_138
+  - first:
+      213: -4018407848146263096
+    second: cat 1 16x16 animation with red glasses hearts_139
+  - first:
+      213: -3646320443002986659
+    second: cat 1 16x16 animation with red glasses hearts_140
+  - first:
+      213: -2976254572624760688
+    second: cat 1 16x16 animation with red glasses hearts_141
+  - first:
+      213: -5684306162731337268
+    second: cat 1 16x16 animation with red glasses hearts_142
+  - first:
+      213: 8171940131249662271
+    second: cat 1 16x16 animation with red glasses hearts_143
+  - first:
+      213: -1603181388382006696
+    second: cat 1 16x16 animation with red glasses hearts_144
+  - first:
+      213: -5112136953427732648
+    second: cat 1 16x16 animation with red glasses hearts_145
+  - first:
+      213: -5184221031025327414
+    second: cat 1 16x16 animation with red glasses hearts_146
+  - first:
+      213: -971909070099625021
+    second: cat 1 16x16 animation with red glasses hearts_147
+  - first:
+      213: 4482317143704394456
+    second: cat 1 16x16 animation with red glasses hearts_148
+  - first:
+      213: -6677820516635947728
+    second: cat 1 16x16 animation with red glasses hearts_149
+  - first:
+      213: -5499636524803786127
+    second: cat 1 16x16 animation with red glasses hearts_150
+  - first:
+      213: -2249302146782979606
+    second: cat 1 16x16 animation with red glasses hearts_151
+  - first:
+      213: 5591184026415856178
+    second: cat 1 16x16 animation with red glasses hearts_152
+  - first:
+      213: -5935189780435236160
+    second: cat 1 16x16 animation with red glasses hearts_153
+  - first:
+      213: 7261216228537523280
+    second: cat 1 16x16 animation with red glasses hearts_154
+  - first:
+      213: -5504000120075438715
+    second: cat 1 16x16 animation with red glasses hearts_155
+  - first:
+      213: 1828387910441632230
+    second: cat 1 16x16 animation with red glasses hearts_156
+  - first:
+      213: -44495876892838864
+    second: cat 1 16x16 animation with red glasses hearts_157
+  - first:
+      213: 1751506538439320684
+    second: cat 1 16x16 animation with red glasses hearts_158
+  - first:
+      213: -1955219896104765165
+    second: cat 1 16x16 animation with red glasses hearts_159
+  - first:
+      213: -2381856281458379023
+    second: cat 1 16x16 animation with red glasses hearts_160
+  - first:
+      213: 3171943005758794280
+    second: cat 1 16x16 animation with red glasses hearts_161
+  - first:
+      213: -3656960465652150213
+    second: cat 1 16x16 animation with red glasses hearts_162
+  - first:
+      213: -2684369387614350134
+    second: cat 1 16x16 animation with red glasses hearts_163
+  - first:
+      213: -9181862489732063363
+    second: cat 1 16x16 animation with red glasses hearts_164
+  - first:
+      213: 3500242251305612498
+    second: cat 1 16x16 animation with red glasses hearts_165
+  - first:
+      213: 4599747493832353327
+    second: cat 1 16x16 animation with red glasses hearts_166
+  - first:
+      213: -758108707716193688
+    second: cat 1 16x16 animation with red glasses hearts_167
+  - first:
+      213: -6596798103019742499
+    second: cat 1 16x16 animation with red glasses hearts_168
+  - first:
+      213: -5733248664255457567
+    second: cat 1 16x16 animation with red glasses hearts_169
+  - first:
+      213: -6041280470966117974
+    second: cat 1 16x16 animation with red glasses hearts_170
+  - first:
+      213: -5585717916150316946
+    second: cat 1 16x16 animation with red glasses hearts_171
+  - first:
+      213: -7322272453406824635
+    second: cat 1 16x16 animation with red glasses hearts_172
+  - first:
+      213: -586136997238378629
+    second: cat 1 16x16 animation with red glasses hearts_173
+  - first:
+      213: -7650718349078090009
+    second: cat 1 16x16 animation with red glasses hearts_174
+  - first:
+      213: 8393028109089592951
+    second: cat 1 16x16 animation with red glasses hearts_175
+  - first:
+      213: -5530428134793900315
+    second: cat 1 16x16 animation with red glasses hearts_176
+  - first:
+      213: 365993266249389151
+    second: cat 1 16x16 animation with red glasses hearts_177
+  - first:
+      213: 5509916367111465078
+    second: cat 1 16x16 animation with red glasses hearts_178
+  - first:
+      213: -7067894814832801680
+    second: cat 1 16x16 animation with red glasses hearts_179
+  - first:
+      213: -1850565517185179254
+    second: cat 1 16x16 animation with red glasses hearts_180
+  - first:
+      213: -3210847826552748521
+    second: cat 1 16x16 animation with red glasses hearts_181
+  - first:
+      213: -6025302160954678772
+    second: cat 1 16x16 animation with red glasses hearts_182
+  - first:
+      213: -9165819854626488971
+    second: cat 1 16x16 animation with red glasses hearts_183
+  - first:
+      213: 8405301025777167712
+    second: cat 1 16x16 animation with red glasses hearts_184
+  - first:
+      213: 9051072360214806396
+    second: cat 1 16x16 animation with red glasses hearts_185
+  - first:
+      213: 721879372940836783
+    second: cat 1 16x16 animation with red glasses hearts_186
+  - first:
+      213: 4969725933672831117
+    second: cat 1 16x16 animation with red glasses hearts_187
+  - first:
+      213: -6117328635100143829
+    second: cat 1 16x16 animation with red glasses hearts_188
+  - first:
+      213: -9077589249530538810
+    second: cat 1 16x16 animation with red glasses hearts_189
+  - first:
+      213: -9053309088500907060
+    second: cat 1 16x16 animation with red glasses hearts_190
+  - first:
+      213: -411397553237817442
+    second: cat 1 16x16 animation with red glasses hearts_191
+  - first:
+      213: -3913608795255282043
+    second: cat 1 16x16 animation with red glasses hearts_192
+  - first:
+      213: 4978413783094204146
+    second: cat 1 16x16 animation with red glasses hearts_193
+  - first:
+      213: 3266981904531459156
+    second: cat 1 16x16 animation with red glasses hearts_194
+  - first:
+      213: 578246521994433843
+    second: cat 1 16x16 animation with red glasses hearts_195
+  - first:
+      213: -2805821950134121955
+    second: cat 1 16x16 animation with red glasses hearts_196
+  - first:
+      213: 2867082515233638407
+    second: cat 1 16x16 animation with red glasses hearts_197
+  - first:
+      213: -5899013942710638612
+    second: cat 1 16x16 animation with red glasses hearts_198
+  - first:
+      213: 6325778438304254568
+    second: cat 1 16x16 animation with red glasses hearts_199
+  - first:
+      213: 6051534081086603142
+    second: cat 1 16x16 animation with red glasses hearts_200
+  - first:
+      213: 4651605255609405644
+    second: cat 1 16x16 animation with red glasses hearts_201
+  - first:
+      213: -7450948928164359020
+    second: cat 1 16x16 animation with red glasses hearts_202
+  - first:
+      213: -96306128719989183
+    second: cat 1 16x16 animation with red glasses hearts_203
+  - first:
+      213: -7438254231803756666
+    second: cat 1 16x16 animation with red glasses hearts_204
+  - first:
+      213: 8096113697375146741
+    second: cat 1 16x16 animation with red glasses hearts_205
+  - first:
+      213: 6860653892789355505
+    second: cat 1 16x16 animation with red glasses hearts_206
+  - first:
+      213: -1034023309900931350
+    second: cat 1 16x16 animation with red glasses hearts_207
+  - first:
+      213: 8634057625591309680
+    second: cat 1 16x16 animation with red glasses hearts_208
+  - first:
+      213: -4067025932065267719
+    second: cat 1 16x16 animation with red glasses hearts_209
+  - first:
+      213: 5249570076345678286
+    second: cat 1 16x16 animation with red glasses hearts_210
+  - first:
+      213: 8197854967131592756
+    second: cat 1 16x16 animation with red glasses hearts_211
+  - first:
+      213: -3808611578753968287
+    second: cat 1 16x16 animation with red glasses hearts_212
+  - first:
+      213: 7142093275961476192
+    second: cat 1 16x16 animation with red glasses hearts_213
+  - first:
+      213: -5136532769416634589
+    second: cat 1 16x16 animation with red glasses hearts_214
+  - first:
+      213: -5708792567920531485
+    second: cat 1 16x16 animation with red glasses hearts_215
+  - first:
+      213: 4336591727883673478
+    second: cat 1 16x16 animation with red glasses hearts_216
+  - first:
+      213: -4558882124596812869
+    second: cat 1 16x16 animation with red glasses hearts_217
+  - first:
+      213: 4763140158536139130
+    second: cat 1 16x16 animation with red glasses hearts_218
+  - first:
+      213: -3206131647235991877
+    second: cat 1 16x16 animation with red glasses hearts_219
+  - first:
+      213: 4883561239835757393
+    second: cat 1 16x16 animation with red glasses hearts_220
+  - first:
+      213: 1889098959102660960
+    second: cat 1 16x16 animation with red glasses hearts_221
+  - first:
+      213: 3544735504304399231
+    second: cat 1 16x16 animation with red glasses hearts_222
+  - first:
+      213: 9052653641707170114
+    second: cat 1 16x16 animation with red glasses hearts_223
+  - first:
+      213: 6880187425214738669
+    second: cat 1 16x16 animation with red glasses hearts_224
+  - first:
+      213: 104927948961916794
+    second: cat 1 16x16 animation with red glasses hearts_225
+  - first:
+      213: 5073158590341193985
+    second: cat 1 16x16 animation with red glasses hearts_226
+  - first:
+      213: 328050682231243718
+    second: cat 1 16x16 animation with red glasses hearts_227
+  - first:
+      213: -6194956305079896168
+    second: cat 1 16x16 animation with red glasses hearts_228
+  - first:
+      213: 1214076268956815812
+    second: cat 1 16x16 animation with red glasses hearts_229
+  - first:
+      213: 4404359856701124669
+    second: cat 1 16x16 animation with red glasses hearts_230
+  - first:
+      213: -3890344218564794
+    second: cat 1 16x16 animation with red glasses hearts_231
+  - first:
+      213: -7677449504296291174
+    second: cat 1 16x16 animation with red glasses hearts_232
+  - first:
+      213: 6073019033653797632
+    second: cat 1 16x16 animation with red glasses hearts_233
+  - first:
+      213: 3945843923587061565
+    second: cat 1 16x16 animation with red glasses hearts_234
+  - first:
+      213: -6949244333740550626
+    second: cat 1 16x16 animation with red glasses hearts_235
+  - first:
+      213: -7855853812258587143
+    second: cat 1 16x16 animation with red glasses hearts_236
+  - first:
+      213: -4690604949868758256
+    second: cat 1 16x16 animation with red glasses hearts_237
+  - first:
+      213: -4780753691894244825
+    second: cat 1 16x16 animation with red glasses hearts_238
+  - first:
+      213: 1858220772195666297
+    second: cat 1 16x16 animation with red glasses hearts_239
+  - first:
+      213: -152808208514272829
+    second: cat 1 16x16 animation with red glasses hearts_240
+  - first:
+      213: 8721604792191278597
+    second: cat 1 16x16 animation with red glasses hearts_241
+  - first:
+      213: -8855330150040631301
+    second: cat 1 16x16 animation with red glasses hearts_242
+  - first:
+      213: -6206996421429458162
+    second: cat 1 16x16 animation with red glasses hearts_243
+  - first:
+      213: 8849082458552250182
+    second: cat 1 16x16 animation with red glasses hearts_244
+  - first:
+      213: 2095857918882595859
+    second: cat 1 16x16 animation with red glasses hearts_245
+  - first:
+      213: -7044843063156993711
+    second: cat 1 16x16 animation with red glasses hearts_246
+  - first:
+      213: 6912925670892394821
+    second: cat 1 16x16 animation with red glasses hearts_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e4e5ea8060aba0800000000000000
+      internalID: -6079753347271433684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf74e26cd3efef300800000000000000
+      internalID: 287946967469672444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b536c63bb9a4799a0800000000000000
+      internalID: -6226425927225810085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5497b4f1374f4380800000000000000
+      internalID: -8984884451696208804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1679
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe83e5c58003ce0800000000000000
+      internalID: -1427631889065645071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1645
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f5df88d72207230800000000000000
+      internalID: 3634442821852553117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc1c648251cfc90800000000000000
+      internalID: -7134804446931727211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8edf325ad16c00800000000000000
+      internalID: 892234247989792338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1647
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de799c78365fdf670800000000000000
+      internalID: 8574279073411995629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1647
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c820196b06686dab0800000000000000
+      internalID: -4983648187700936052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1611
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e15bc4929b16450800000000000000
+      internalID: 6080344558958616070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da37f857c305300800000000000000
+      internalID: 238757255866199350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f336bc3961d5810800000000000000
+      internalID: 1755584253772644126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1612
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883ed2c397dcc5b90800000000000000
+      internalID: -7251695379388963960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1612
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c9893022929620800000000000000
+      internalID: 2779444587142955068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294f32b64b6ccbd0800000000000000
+      internalID: -2608592132771985114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01727706c7a3afbc0800000000000000
+      internalID: -3748619433963739376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78717009ee68152f0800000000000000
+      internalID: -985858484240705657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1582
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1fe2bbb5026aa70800000000000000
+      internalID: 8837786897115705840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22229bd89231c4020800000000000000
+      internalID: 2327256176636011042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ffb015153e18db0800000000000000
+      internalID: -4791298590153900285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d3f942acdaed370800000000000000
+      internalID: 8349301842900892951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd52545a2eb21e80800000000000000
+      internalID: -8209290081730404940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3261505b3c077e30800000000000000
+      internalID: 4501079801470214718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1549
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ace6444213d2a50800000000000000
+      internalID: 6497903869202188927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93ec5ff916fb1c40800000000000000
+      internalID: 5484247562772603806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1549
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2015cdcd51f49770800000000000000
+      internalID: 8616777372253098030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1599a920ceab720800000000000000
+      internalID: 2862860009075200448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711a5b8989369bc0800000000000000
+      internalID: -3776767974592343684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc77f5f89f85190800000000000000
+      internalID: -7973348746082136656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da641f71fbd2d8e40800000000000000
+      internalID: 5660230605438273197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029769b3281cca50800000000000000
+      internalID: 6542630900375982599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c4201fe103a6020800000000000000
+      internalID: 2335732266195635217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4236b93eba3260a0800000000000000
+      internalID: -6889879891236998582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3bd1b5d52868bc0800000000000000
+      internalID: -3781191499658710088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3cc84b1c80a24a0800000000000000
+      internalID: -6617467074416688150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d26606b83df610800000000000000
+      internalID: 1656542592384553289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b296c93896b7980800000000000000
+      internalID: -8540116254392243360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6bea545ba7ff730800000000000000
+      internalID: 4035078710124000978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b0fea423fa8ef0800000000000000
+      internalID: -105004302410401939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8475c1b7366d01b0800000000000000
+      internalID: -5688778364907326325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dbbad1cc51f4b70800000000000000
+      internalID: 8885344556240584052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09820837dee096620800000000000000
+      internalID: 2767759859003697296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84462670e9f82e2d0800000000000000
+      internalID: -3250878072116583352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1425
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a997fc1cbaebcc0800000000000000
+      internalID: -3693325795499337139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1423
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6404a7701beb3ce80800000000000000
+      internalID: -8159468432321265594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1424
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42bbf80e938cf30800000000000000
+      internalID: 4595987056378455215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1425
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eac7738964b6d00800000000000000
+      internalID: 966944164580994661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1423
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558a648a21a281b0800000000000000
+      internalID: -5655780978041649836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1331
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bbe153a88cd9f0800000000000000
+      internalID: -442328428353702627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1391
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bae11301fc50d50800000000000000
+      internalID: 6702991288861371169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1363
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c6d2266ed37a7b0800000000000000
+      internalID: -5213129983959143280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1331
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea801cd1523456a0800000000000000
+      internalID: -6461484238204007706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1391
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d4286e4c5f26d0800000000000000
+      internalID: -3013088133863122905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1363
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710dcb687fd2d0c0800000000000000
+      internalID: -4552330565020483201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1294
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ac899d96b14e60800000000000000
+      internalID: 7944832005660517981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1294
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9e12f0e382fee0800000000000000
+      internalID: -1228774746160718190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1262
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403a0502d0888de0800000000000000
+      internalID: -1330672050371940288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1262
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30541515e809dba20800000000000000
+      internalID: 3079776661115323651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ace0fb9e40dbd0800000000000000
+      internalID: -2607497752578578768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ef2abd3a5214300800000000000000
+      internalID: 234510041294765696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb78f290a4657120800000000000000
+      internalID: 2410943816350071732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ff0148514766d0800000000000000
+      internalID: -2997355179687282758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e46787a06e51dc0800000000000000
+      internalID: -3668773388778320286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad63cac035653260800000000000000
+      internalID: 7076673649717243304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1069
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728971246b034ca40800000000000000
+      internalID: 5387484613592979495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1069
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b360e7c123a40260800000000000000
+      internalID: 7062949481106400185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1037
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b131cb321e03dabe0800000000000000
+      internalID: -1464460560300240101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1035
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617a6ac88d05d1a10800000000000000
+      internalID: 1881749110313625366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06335ca81b7dac00800000000000000
+      internalID: 913521645326644746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1033
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3b1b27d3b19360800000000000000
+      internalID: 7174713418100456934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9c6b912202c5b0800000000000000
+      internalID: -5349711063997964404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1033
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36dff7dca266e720800000000000000
+      internalID: 2875093906620405306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1034
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc2df62460aa0c0800000000000000
+      internalID: -4563828389972881626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1035
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b909caa92c11b1d0800000000000000
+      internalID: -3336854883620288079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e2383757b64d380800000000000000
+      internalID: -8947408407485010415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 973
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ccc219233fd320800000000000000
+      internalID: 2584840962636039917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd58e37d3cccb2a0800000000000000
+      internalID: -6720271979633943073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956a26e32abb6080800000000000000
+      internalID: -9193049550998575714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ce072399f93b60800000000000000
+      internalID: 7726481046141585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 971
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b78f76ecb0b7f0800000000000000
+      internalID: -598771052272175895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_81
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910c699305321c40800000000000000
+      internalID: 5481501986038481303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 973
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5c141c5584e290800000000000000
+      internalID: -7862012418961154606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43180ecf2b7ddc9c0800000000000000
+      internalID: -3905228138113629900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_84
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 941
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6997a33be61c330800000000000000
+      internalID: 3729383682498729659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a84b03d3efa830800000000000000
+      internalID: 4084733882615244239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064dd96e8127f4320800000000000000
+      internalID: 2544377765761504352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ddb92705cfd8520800000000000000
+      internalID: 2706096373569936652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6425cd9a05573a110800000000000000
+      internalID: 1270988509156233798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 940
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43fa4d1bd7cce1a0800000000000000
+      internalID: -6778823595196222641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_90
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 941
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6a0dc65de1b0d0800000000000000
+      internalID: -3408682485879771628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 911
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed2bc63373e5d70800000000000000
+      internalID: 9033718596558315085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 909
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeec4f4c1d181ee0800000000000000
+      internalID: -1290249285814915359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb40cc52e590a4db0800000000000000
+      internalID: -4807019352298879809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 907
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466e74dd30eaf130800000000000000
+      internalID: 3601437408198813263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8f37ef1cea5500800000000000000
+      internalID: 385880339861442237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 907
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c74fd5defd5a11f0800000000000000
+      internalID: -1073442212083185724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_97
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 908
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897c92bd198d54a0800000000000000
+      internalID: -6602970718011623030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 909
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f45a847f6ce910800000000000000
+      internalID: 1867990491779626514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 851
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d62bcd6ad29f2910800000000000000
+      internalID: 1814830641696155344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 849
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a723272dc9804b500800000000000000
+      internalID: 410962935636177530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_101
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 848
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714b6cb48c889140800000000000000
+      internalID: 4726682310650052978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 815
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb4ca8069d844f0800000000000000
+      internalID: -844185921463731019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 875
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13d3d5dc93835e0800000000000000
+      internalID: -1929728886132887115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_104
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45f7d42bb6586170800000000000000
+      internalID: 8171876885640770892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 816
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799849b84f4ff7120800000000000000
+      internalID: 2413917256444840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 876
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56dc08c46b02f740800000000000000
+      internalID: 5184218648537781851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 783
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f02742d80ac3440800000000000000
+      internalID: 4916981421244026641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_108
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 785
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9168bfc866961620800000000000000
+      internalID: 2744546399834628507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 783
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e439436d0b50d100800000000000000
+      internalID: 130704502252188904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 749
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cc56ca47df5f90800000000000000
+      internalID: -6962609782735976343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_111
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 751
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43062993d3666e290800000000000000
+      internalID: -7861483686383689676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_112
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 749
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d37066d1e01130800000000000000
+      internalID: 3535574018343294411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 715
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1ec7559bc2ef00800000000000000
+      internalID: 1144701097589218013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_114
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 717
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0cb50e2a611bd70800000000000000
+      internalID: 9057045214423400650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_115
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 715
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab47e9a3cce26a0800000000000000
+      internalID: -6472011062346204540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 686
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2659fad03fbf570800000000000000
+      internalID: 8501655961697870550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 688
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c856118f1d0c316c0800000000000000
+      internalID: -4173780421599730292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_118
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 686
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bcae50fb2793350800000000000000
+      internalID: 5996950543584119575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 655
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647728accf72e620800000000000000
+      internalID: 2801942435149083751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_120
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2746579b8fb25b570800000000000000
+      internalID: 8481733820485559410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36687a2b9a59840800000000000000
+      internalID: 5230273127040574379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf0dcc2127baf30800000000000000
+      internalID: 4587886070478208422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_123
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9bcd7f24c8afda0800000000000000
+      internalID: -5910257341716186633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_124
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 657
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39cfc4cee036080800000000000000
+      internalID: -9195489606093728840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 656
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e0071fcabf7df0800000000000000
+      internalID: -180220061464598561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_126
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 655
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca2d02d6a3376a10800000000000000
+      internalID: 1902546159168989893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e808120f44de20800000000000000
+      internalID: 3374408891219108568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_128
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 622
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d922dd88c25d80800000000000000
+      internalID: -8263321854829538437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_129
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc7f31095452e10800000000000000
+      internalID: 2172218880388746448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_130
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51277ad4226782100800000000000000
+      internalID: 83446482810139157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b999db2859f400800000000000000
+      internalID: 358414590710231164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_132
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 623
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6b10fc29add610800000000000000
+      internalID: 1647659049159453839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_133
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 622
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8780c2dba4741f160800000000000000
+      internalID: 7057500477393209464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_134
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a28c57a9501e700800000000000000
+      internalID: 567741188984547860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f30b338adc9e0c0800000000000000
+      internalID: -4545876226548416757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_136
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 588
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2daba0407dd63b90800000000000000
+      internalID: -7262373874897277652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1e0378352396c0800000000000000
+      internalID: -4137922708244653472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330bf10c266e27340800000000000000
+      internalID: 4860200259690672179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_139
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3a9904a5fbb38c0800000000000000
+      internalID: -4018407848146263096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 589
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fdf8940eaa56dc0800000000000000
+      internalID: -3646320443002986659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 588
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090b19d2c3832b6d0800000000000000
+      internalID: -2976254572624760688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_142
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 587
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b5d769a94d11b0800000000000000
+      internalID: -5684306162731337268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_143
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 558
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3925e8a040986170800000000000000
+      internalID: 8171940131249662271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_144
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 559
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85219f2750b50c9e0800000000000000
+      internalID: -1603181388382006696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857dacfa68a0e09b0800000000000000
+      internalID: -5112136953427732648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac240a08072fd08b0800000000000000
+      internalID: -5184221031025327414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_147
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb4bb2a9d51382f0800000000000000
+      internalID: -971909070099625021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 560
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad421a1b3643e30800000000000000
+      internalID: 4482317143704394456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_149
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 559
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4918ee9d9353a0800000000000000
+      internalID: -6677820516635947728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_150
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 558
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a7e4118bd5da3b0800000000000000
+      internalID: -5499636524803786127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91a746d9fd8c0e0800000000000000
+      internalID: -2249302146782979606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23afa58af30e79d40800000000000000
+      internalID: 5591184026415856178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_153
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca01a63758f1ada0800000000000000
+      internalID: -5935189780435236160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_154
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd74330b505c460800000000000000
+      internalID: 7261216228537523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585323f5d0ddd93b0800000000000000
+      internalID: -5504000120075438715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_156
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10e790e1dbf5910800000000000000
+      internalID: 1828387910441632230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_157
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03435d75c3be16ff0800000000000000
+      internalID: -44495876892838864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_158
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c642375bae99e4810800000000000000
+      internalID: 1751506538439320684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_159
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 527
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31936ea1dd9add4e0800000000000000
+      internalID: -1955219896104765165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_160
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f3a5e452f1fed0800000000000000
+      internalID: -2381856281458379023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa90aab51050c20800000000000000
+      internalID: 3171943005758794280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_162
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b301827f4dddf3dc0800000000000000
+      internalID: -3656960465652150213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_163
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4505da3443fbad0800000000000000
+      internalID: -2684369387614350134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_164
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f590396b8739080800000000000000
+      internalID: -9181862489732063363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_165
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d472e058cb539030800000000000000
+      internalID: 3500242251305612498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_166
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 492
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ee52a9f595df30800000000000000
+      internalID: 4599747493832353327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_167
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862227f9528aa75f0800000000000000
+      internalID: -758108707716193688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_168
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 493
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda998e93177374a0800000000000000
+      internalID: -6596798103019742499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_169
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6121647b86f60b0800000000000000
+      internalID: -5733248664255457567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_170
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa95f837b6f092ca0800000000000000
+      internalID: -6041280470966117974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604350562b8b72b0800000000000000
+      internalID: -5585717916150316946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_172
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ee0aafff026a90800000000000000
+      internalID: -7322272453406824635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_173
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f64e9a18f9dd7f0800000000000000
+      internalID: -586136997238378629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_174
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 461
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee23ae523033d590800000000000000
+      internalID: -7650718349078090009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_175
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 462
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7765728d8960a7470800000000000000
+      internalID: 8393028109089592951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee88c1b9e8ff33b0800000000000000
+      internalID: -5530428134793900315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_177
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54daf0cfe4441500800000000000000
+      internalID: 365993266249389151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6782acb3eb7277c40800000000000000
+      internalID: 5509916367111465078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_179
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c01cfc1bc9ed90800000000000000
+      internalID: -7067894814832801680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81279287787156e0800000000000000
+      internalID: -1850565517185179254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_181
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160d7ed9e6c073d0800000000000000
+      internalID: -3210847826552748521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_182
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0227e7ab93d16ca0800000000000000
+      internalID: -6025302160954678772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_183
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57df3c1a7677cc080800000000000000
+      internalID: -9165819854626488971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_184
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 430
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dacafefb0a5a470800000000000000
+      internalID: 8405301025777167712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_185
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb5f26b5edb9d70800000000000000
+      internalID: 9051072360214806396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_186
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 431
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faff1da0771a40a00800000000000000
+      internalID: 721879372940836783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_187
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d889d9be76308f440800000000000000
+      internalID: 4969725933672831117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_188
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fd7827402ea1ba0800000000000000
+      internalID: -6117328635100143829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_189
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d3d43cace50280800000000000000
+      internalID: -9077589249530538810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3861ab95f2c5280800000000000000
+      internalID: -9053309088500907060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_191
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e978bc1ea1c6a4af0800000000000000
+      internalID: -411397553237817442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_192
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586e6f0398110b9c0800000000000000
+      internalID: -3913608795255282043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_193
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61d3e75f0e61540800000000000000
+      internalID: 4978413783094204146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_194
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0a33abb6a65d20800000000000000
+      internalID: 3266981904531459156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_195
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 398
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3355518e528560800800000000000000
+      internalID: 578246521994433843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_196
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a034f5dc7bf09d0800000000000000
+      internalID: -2805821950134121955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_197
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080c3e6b5ce9c720800000000000000
+      internalID: 2867082515233638407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e7abc21e722ea0800000000000000
+      internalID: -5899013942710638612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_199
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 368
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a43f669fda9c750800000000000000
+      internalID: 6325778438304254568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_200
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f36513f2e5bf350800000000000000
+      internalID: 6051534081086603142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_201
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 336
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc050ffa552dd8040800000000000000
+      internalID: 4651605255609405644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4949f293d69e89890800000000000000
+      internalID: -7450948928164359020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146b3ff061ad9aef0800000000000000
+      internalID: -96306128719989183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_204
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 267
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7a4c8f2306c890800000000000000
+      internalID: -7438254231803756666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_205
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f25831438c2b5070800000000000000
+      internalID: 8096113697375146741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_206
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f34c9ebd50f53f50800000000000000
+      internalID: 6860653892789355505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee91e3374966a1f0800000000000000
+      internalID: -1034023309900931350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0756f9f4aa552d770800000000000000
+      internalID: 8634057625591309680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff92fa76750f87c0800000000000000
+      internalID: -4067025932065267719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_210
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 266
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ba18cb283ad840800000000000000
+      internalID: 5249570076345678286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_211
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 267
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438dc0498a1a4c170800000000000000
+      internalID: 8197854967131592756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_212
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671ee0b2f7152bc0800000000000000
+      internalID: -3808611578753968287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_213
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c36a7effcd1360800000000000000
+      internalID: 7142093275961476192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_214
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f94c529ae57b8b0800000000000000
+      internalID: -5136532769416634589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_215
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e4bce76b46c0b0800000000000000
+      internalID: -5708792567920531485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_216
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f5764433bae2c30800000000000000
+      internalID: 4336591727883673478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_217
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb367869cd89bb0c0800000000000000
+      internalID: -4558882124596812869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_218
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71c1fcecb21a1240800000000000000
+      internalID: 4763140158536139130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_219
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb65c5fe0488183d0800000000000000
+      internalID: -3206131647235991877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_220
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc64bc215e5c340800000000000000
+      internalID: 4883561239835757393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_221
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061dfd29e7d673a10800000000000000
+      internalID: 1889098959102660960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_222
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7367cc092e613130800000000000000
+      internalID: 3544735504304399231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_223
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492a9c268c71ad70800000000000000
+      internalID: 9052653641707170114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_224
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b80ca2065b7f50800000000000000
+      internalID: 6880187425214738669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_225
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a2e4e967c47100800000000000000
+      internalID: 104927948961916794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_226
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012282fbda776640800000000000000
+      internalID: 5073158590341193985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_227
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 141
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c7be7b587d8400800000000000000
+      internalID: 328050682231243718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_228
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89775a41018170aa0800000000000000
+      internalID: -6194956305079896168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_229
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c117652fe349d010800000000000000
+      internalID: 1214076268956815812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_230
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3039a154fd6f1d30800000000000000
+      internalID: 4404359856701124669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_231
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6476cc6a0cd22fff0800000000000000
+      internalID: -3890344218564794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_232
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94bb6b4a58347590800000000000000
+      internalID: -7677449504296291174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_233
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 140
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003ee1782a2b74450800000000000000
+      internalID: 6073019033653797632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_234
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 141
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d375a8c742472c630800000000000000
+      internalID: 3945843923587061565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_235
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169ffdd8135f8f90800000000000000
+      internalID: -6949244333740550626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_236
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 81
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdbde074966af290800000000000000
+      internalID: -7855853812258587143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_237
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b326566af97eeb0800000000000000
+      internalID: -4690604949868758256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_238
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a9104c8d957adb0800000000000000
+      internalID: -4780753691894244825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_239
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97989f072f9b9c910800000000000000
+      internalID: 1858220772195666297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_240
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c13eb47ebd11edf0800000000000000
+      internalID: -152808208514272829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_241
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed7e5795d590970800000000000000
+      internalID: 8721604792191278597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_242
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 108
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78506652c8b1580800000000000000
+      internalID: -8855330150040631301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_243
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 109
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b839a04a15cd9a0800000000000000
+      internalID: -6206996421429458162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa5229c914eca70800000000000000
+      internalID: 8849082458552250182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_245
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314cfa24cabf51d10800000000000000
+      internalID: 2095857918882595859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_246
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151172a2f80bb3e90800000000000000
+      internalID: -7044843063156993711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation with red glasses hearts_247
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549583c7545afef50800000000000000
+      internalID: 6912925670892394821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat 1 16x16 animation with red glasses hearts_0: -6079753347271433684
+      cat 1 16x16 animation with red glasses hearts_1: 287946967469672444
+      cat 1 16x16 animation with red glasses hearts_10: 6080344558958616070
+      cat 1 16x16 animation with red glasses hearts_100: 410962935636177530
+      cat 1 16x16 animation with red glasses hearts_101: 4726682310650052978
+      cat 1 16x16 animation with red glasses hearts_102: -844185921463731019
+      cat 1 16x16 animation with red glasses hearts_103: -1929728886132887115
+      cat 1 16x16 animation with red glasses hearts_104: 8171876885640770892
+      cat 1 16x16 animation with red glasses hearts_105: 2413917256444840343
+      cat 1 16x16 animation with red glasses hearts_106: 5184218648537781851
+      cat 1 16x16 animation with red glasses hearts_107: 4916981421244026641
+      cat 1 16x16 animation with red glasses hearts_108: 2744546399834628507
+      cat 1 16x16 animation with red glasses hearts_109: 130704502252188904
+      cat 1 16x16 animation with red glasses hearts_11: 238757255866199350
+      cat 1 16x16 animation with red glasses hearts_110: -6962609782735976343
+      cat 1 16x16 animation with red glasses hearts_111: -7861483686383689676
+      cat 1 16x16 animation with red glasses hearts_112: 3535574018343294411
+      cat 1 16x16 animation with red glasses hearts_113: 1144701097589218013
+      cat 1 16x16 animation with red glasses hearts_114: 9057045214423400650
+      cat 1 16x16 animation with red glasses hearts_115: -6472011062346204540
+      cat 1 16x16 animation with red glasses hearts_116: 8501655961697870550
+      cat 1 16x16 animation with red glasses hearts_117: -4173780421599730292
+      cat 1 16x16 animation with red glasses hearts_118: 5996950543584119575
+      cat 1 16x16 animation with red glasses hearts_119: 2801942435149083751
+      cat 1 16x16 animation with red glasses hearts_12: 1755584253772644126
+      cat 1 16x16 animation with red glasses hearts_120: 8481733820485559410
+      cat 1 16x16 animation with red glasses hearts_121: 5230273127040574379
+      cat 1 16x16 animation with red glasses hearts_122: 4587886070478208422
+      cat 1 16x16 animation with red glasses hearts_123: -5910257341716186633
+      cat 1 16x16 animation with red glasses hearts_124: -9195489606093728840
+      cat 1 16x16 animation with red glasses hearts_125: -180220061464598561
+      cat 1 16x16 animation with red glasses hearts_126: 1902546159168989893
+      cat 1 16x16 animation with red glasses hearts_127: 3374408891219108568
+      cat 1 16x16 animation with red glasses hearts_128: -8263321854829538437
+      cat 1 16x16 animation with red glasses hearts_129: 2172218880388746448
+      cat 1 16x16 animation with red glasses hearts_13: -7251695379388963960
+      cat 1 16x16 animation with red glasses hearts_130: 83446482810139157
+      cat 1 16x16 animation with red glasses hearts_131: 358414590710231164
+      cat 1 16x16 animation with red glasses hearts_132: 1647659049159453839
+      cat 1 16x16 animation with red glasses hearts_133: 7057500477393209464
+      cat 1 16x16 animation with red glasses hearts_134: 567741188984547860
+      cat 1 16x16 animation with red glasses hearts_135: -4545876226548416757
+      cat 1 16x16 animation with red glasses hearts_136: -7262373874897277652
+      cat 1 16x16 animation with red glasses hearts_137: -4137922708244653472
+      cat 1 16x16 animation with red glasses hearts_138: 4860200259690672179
+      cat 1 16x16 animation with red glasses hearts_139: -4018407848146263096
+      cat 1 16x16 animation with red glasses hearts_14: 2779444587142955068
+      cat 1 16x16 animation with red glasses hearts_140: -3646320443002986659
+      cat 1 16x16 animation with red glasses hearts_141: -2976254572624760688
+      cat 1 16x16 animation with red glasses hearts_142: -5684306162731337268
+      cat 1 16x16 animation with red glasses hearts_143: 8171940131249662271
+      cat 1 16x16 animation with red glasses hearts_144: -1603181388382006696
+      cat 1 16x16 animation with red glasses hearts_145: -5112136953427732648
+      cat 1 16x16 animation with red glasses hearts_146: -5184221031025327414
+      cat 1 16x16 animation with red glasses hearts_147: -971909070099625021
+      cat 1 16x16 animation with red glasses hearts_148: 4482317143704394456
+      cat 1 16x16 animation with red glasses hearts_149: -6677820516635947728
+      cat 1 16x16 animation with red glasses hearts_15: -2608592132771985114
+      cat 1 16x16 animation with red glasses hearts_150: -5499636524803786127
+      cat 1 16x16 animation with red glasses hearts_151: -2249302146782979606
+      cat 1 16x16 animation with red glasses hearts_152: 5591184026415856178
+      cat 1 16x16 animation with red glasses hearts_153: -5935189780435236160
+      cat 1 16x16 animation with red glasses hearts_154: 7261216228537523280
+      cat 1 16x16 animation with red glasses hearts_155: -5504000120075438715
+      cat 1 16x16 animation with red glasses hearts_156: 1828387910441632230
+      cat 1 16x16 animation with red glasses hearts_157: -44495876892838864
+      cat 1 16x16 animation with red glasses hearts_158: 1751506538439320684
+      cat 1 16x16 animation with red glasses hearts_159: -1955219896104765165
+      cat 1 16x16 animation with red glasses hearts_16: -3748619433963739376
+      cat 1 16x16 animation with red glasses hearts_160: -2381856281458379023
+      cat 1 16x16 animation with red glasses hearts_161: 3171943005758794280
+      cat 1 16x16 animation with red glasses hearts_162: -3656960465652150213
+      cat 1 16x16 animation with red glasses hearts_163: -2684369387614350134
+      cat 1 16x16 animation with red glasses hearts_164: -9181862489732063363
+      cat 1 16x16 animation with red glasses hearts_165: 3500242251305612498
+      cat 1 16x16 animation with red glasses hearts_166: 4599747493832353327
+      cat 1 16x16 animation with red glasses hearts_167: -758108707716193688
+      cat 1 16x16 animation with red glasses hearts_168: -6596798103019742499
+      cat 1 16x16 animation with red glasses hearts_169: -5733248664255457567
+      cat 1 16x16 animation with red glasses hearts_17: -985858484240705657
+      cat 1 16x16 animation with red glasses hearts_170: -6041280470966117974
+      cat 1 16x16 animation with red glasses hearts_171: -5585717916150316946
+      cat 1 16x16 animation with red glasses hearts_172: -7322272453406824635
+      cat 1 16x16 animation with red glasses hearts_173: -586136997238378629
+      cat 1 16x16 animation with red glasses hearts_174: -7650718349078090009
+      cat 1 16x16 animation with red glasses hearts_175: 8393028109089592951
+      cat 1 16x16 animation with red glasses hearts_176: -5530428134793900315
+      cat 1 16x16 animation with red glasses hearts_177: 365993266249389151
+      cat 1 16x16 animation with red glasses hearts_178: 5509916367111465078
+      cat 1 16x16 animation with red glasses hearts_179: -7067894814832801680
+      cat 1 16x16 animation with red glasses hearts_18: 8837786897115705840
+      cat 1 16x16 animation with red glasses hearts_180: -1850565517185179254
+      cat 1 16x16 animation with red glasses hearts_181: -3210847826552748521
+      cat 1 16x16 animation with red glasses hearts_182: -6025302160954678772
+      cat 1 16x16 animation with red glasses hearts_183: -9165819854626488971
+      cat 1 16x16 animation with red glasses hearts_184: 8405301025777167712
+      cat 1 16x16 animation with red glasses hearts_185: 9051072360214806396
+      cat 1 16x16 animation with red glasses hearts_186: 721879372940836783
+      cat 1 16x16 animation with red glasses hearts_187: 4969725933672831117
+      cat 1 16x16 animation with red glasses hearts_188: -6117328635100143829
+      cat 1 16x16 animation with red glasses hearts_189: -9077589249530538810
+      cat 1 16x16 animation with red glasses hearts_19: 2327256176636011042
+      cat 1 16x16 animation with red glasses hearts_190: -9053309088500907060
+      cat 1 16x16 animation with red glasses hearts_191: -411397553237817442
+      cat 1 16x16 animation with red glasses hearts_192: -3913608795255282043
+      cat 1 16x16 animation with red glasses hearts_193: 4978413783094204146
+      cat 1 16x16 animation with red glasses hearts_194: 3266981904531459156
+      cat 1 16x16 animation with red glasses hearts_195: 578246521994433843
+      cat 1 16x16 animation with red glasses hearts_196: -2805821950134121955
+      cat 1 16x16 animation with red glasses hearts_197: 2867082515233638407
+      cat 1 16x16 animation with red glasses hearts_198: -5899013942710638612
+      cat 1 16x16 animation with red glasses hearts_199: 6325778438304254568
+      cat 1 16x16 animation with red glasses hearts_2: -6226425927225810085
+      cat 1 16x16 animation with red glasses hearts_20: -4791298590153900285
+      cat 1 16x16 animation with red glasses hearts_200: 6051534081086603142
+      cat 1 16x16 animation with red glasses hearts_201: 4651605255609405644
+      cat 1 16x16 animation with red glasses hearts_202: -7450948928164359020
+      cat 1 16x16 animation with red glasses hearts_203: -96306128719989183
+      cat 1 16x16 animation with red glasses hearts_204: -7438254231803756666
+      cat 1 16x16 animation with red glasses hearts_205: 8096113697375146741
+      cat 1 16x16 animation with red glasses hearts_206: 6860653892789355505
+      cat 1 16x16 animation with red glasses hearts_207: -1034023309900931350
+      cat 1 16x16 animation with red glasses hearts_208: 8634057625591309680
+      cat 1 16x16 animation with red glasses hearts_209: -4067025932065267719
+      cat 1 16x16 animation with red glasses hearts_21: 8349301842900892951
+      cat 1 16x16 animation with red glasses hearts_210: 5249570076345678286
+      cat 1 16x16 animation with red glasses hearts_211: 8197854967131592756
+      cat 1 16x16 animation with red glasses hearts_212: -3808611578753968287
+      cat 1 16x16 animation with red glasses hearts_213: 7142093275961476192
+      cat 1 16x16 animation with red glasses hearts_214: -5136532769416634589
+      cat 1 16x16 animation with red glasses hearts_215: -5708792567920531485
+      cat 1 16x16 animation with red glasses hearts_216: 4336591727883673478
+      cat 1 16x16 animation with red glasses hearts_217: -4558882124596812869
+      cat 1 16x16 animation with red glasses hearts_218: 4763140158536139130
+      cat 1 16x16 animation with red glasses hearts_219: -3206131647235991877
+      cat 1 16x16 animation with red glasses hearts_22: -8209290081730404940
+      cat 1 16x16 animation with red glasses hearts_220: 4883561239835757393
+      cat 1 16x16 animation with red glasses hearts_221: 1889098959102660960
+      cat 1 16x16 animation with red glasses hearts_222: 3544735504304399231
+      cat 1 16x16 animation with red glasses hearts_223: 9052653641707170114
+      cat 1 16x16 animation with red glasses hearts_224: 6880187425214738669
+      cat 1 16x16 animation with red glasses hearts_225: 104927948961916794
+      cat 1 16x16 animation with red glasses hearts_226: 5073158590341193985
+      cat 1 16x16 animation with red glasses hearts_227: 328050682231243718
+      cat 1 16x16 animation with red glasses hearts_228: -6194956305079896168
+      cat 1 16x16 animation with red glasses hearts_229: 1214076268956815812
+      cat 1 16x16 animation with red glasses hearts_23: 4501079801470214718
+      cat 1 16x16 animation with red glasses hearts_230: 4404359856701124669
+      cat 1 16x16 animation with red glasses hearts_231: -3890344218564794
+      cat 1 16x16 animation with red glasses hearts_232: -7677449504296291174
+      cat 1 16x16 animation with red glasses hearts_233: 6073019033653797632
+      cat 1 16x16 animation with red glasses hearts_234: 3945843923587061565
+      cat 1 16x16 animation with red glasses hearts_235: -6949244333740550626
+      cat 1 16x16 animation with red glasses hearts_236: -7855853812258587143
+      cat 1 16x16 animation with red glasses hearts_237: -4690604949868758256
+      cat 1 16x16 animation with red glasses hearts_238: -4780753691894244825
+      cat 1 16x16 animation with red glasses hearts_239: 1858220772195666297
+      cat 1 16x16 animation with red glasses hearts_24: 6497903869202188927
+      cat 1 16x16 animation with red glasses hearts_240: -152808208514272829
+      cat 1 16x16 animation with red glasses hearts_241: 8721604792191278597
+      cat 1 16x16 animation with red glasses hearts_242: -8855330150040631301
+      cat 1 16x16 animation with red glasses hearts_243: -6206996421429458162
+      cat 1 16x16 animation with red glasses hearts_244: 8849082458552250182
+      cat 1 16x16 animation with red glasses hearts_245: 2095857918882595859
+      cat 1 16x16 animation with red glasses hearts_246: -7044843063156993711
+      cat 1 16x16 animation with red glasses hearts_247: 6912925670892394821
+      cat 1 16x16 animation with red glasses hearts_25: 5484247562772603806
+      cat 1 16x16 animation with red glasses hearts_26: 8616777372253098030
+      cat 1 16x16 animation with red glasses hearts_27: 2862860009075200448
+      cat 1 16x16 animation with red glasses hearts_28: -3776767974592343684
+      cat 1 16x16 animation with red glasses hearts_29: -7973348746082136656
+      cat 1 16x16 animation with red glasses hearts_3: -8984884451696208804
+      cat 1 16x16 animation with red glasses hearts_30: 5660230605438273197
+      cat 1 16x16 animation with red glasses hearts_31: 6542630900375982599
+      cat 1 16x16 animation with red glasses hearts_32: 2335732266195635217
+      cat 1 16x16 animation with red glasses hearts_33: -6889879891236998582
+      cat 1 16x16 animation with red glasses hearts_34: -3781191499658710088
+      cat 1 16x16 animation with red glasses hearts_35: -6617467074416688150
+      cat 1 16x16 animation with red glasses hearts_36: 1656542592384553289
+      cat 1 16x16 animation with red glasses hearts_37: -8540116254392243360
+      cat 1 16x16 animation with red glasses hearts_38: 4035078710124000978
+      cat 1 16x16 animation with red glasses hearts_39: -105004302410401939
+      cat 1 16x16 animation with red glasses hearts_4: -1427631889065645071
+      cat 1 16x16 animation with red glasses hearts_40: -5688778364907326325
+      cat 1 16x16 animation with red glasses hearts_41: 8885344556240584052
+      cat 1 16x16 animation with red glasses hearts_42: 2767759859003697296
+      cat 1 16x16 animation with red glasses hearts_43: -3250878072116583352
+      cat 1 16x16 animation with red glasses hearts_44: -3693325795499337139
+      cat 1 16x16 animation with red glasses hearts_45: -8159468432321265594
+      cat 1 16x16 animation with red glasses hearts_46: 4595987056378455215
+      cat 1 16x16 animation with red glasses hearts_47: 966944164580994661
+      cat 1 16x16 animation with red glasses hearts_48: -5655780978041649836
+      cat 1 16x16 animation with red glasses hearts_49: -442328428353702627
+      cat 1 16x16 animation with red glasses hearts_5: 3634442821852553117
+      cat 1 16x16 animation with red glasses hearts_50: 6702991288861371169
+      cat 1 16x16 animation with red glasses hearts_51: -5213129983959143280
+      cat 1 16x16 animation with red glasses hearts_52: -6461484238204007706
+      cat 1 16x16 animation with red glasses hearts_53: -3013088133863122905
+      cat 1 16x16 animation with red glasses hearts_54: -4552330565020483201
+      cat 1 16x16 animation with red glasses hearts_55: 7944832005660517981
+      cat 1 16x16 animation with red glasses hearts_56: -1228774746160718190
+      cat 1 16x16 animation with red glasses hearts_57: -1330672050371940288
+      cat 1 16x16 animation with red glasses hearts_58: 3079776661115323651
+      cat 1 16x16 animation with red glasses hearts_59: -2607497752578578768
+      cat 1 16x16 animation with red glasses hearts_6: -7134804446931727211
+      cat 1 16x16 animation with red glasses hearts_60: 234510041294765696
+      cat 1 16x16 animation with red glasses hearts_61: 2410943816350071732
+      cat 1 16x16 animation with red glasses hearts_62: -2997355179687282758
+      cat 1 16x16 animation with red glasses hearts_63: -3668773388778320286
+      cat 1 16x16 animation with red glasses hearts_64: 7076673649717243304
+      cat 1 16x16 animation with red glasses hearts_65: 5387484613592979495
+      cat 1 16x16 animation with red glasses hearts_66: 7062949481106400185
+      cat 1 16x16 animation with red glasses hearts_67: -1464460560300240101
+      cat 1 16x16 animation with red glasses hearts_68: 1881749110313625366
+      cat 1 16x16 animation with red glasses hearts_69: 913521645326644746
+      cat 1 16x16 animation with red glasses hearts_7: 892234247989792338
+      cat 1 16x16 animation with red glasses hearts_70: 7174713418100456934
+      cat 1 16x16 animation with red glasses hearts_71: -5349711063997964404
+      cat 1 16x16 animation with red glasses hearts_72: 2875093906620405306
+      cat 1 16x16 animation with red glasses hearts_73: -4563828389972881626
+      cat 1 16x16 animation with red glasses hearts_74: -3336854883620288079
+      cat 1 16x16 animation with red glasses hearts_75: -8947408407485010415
+      cat 1 16x16 animation with red glasses hearts_76: 2584840962636039917
+      cat 1 16x16 animation with red glasses hearts_77: -6720271979633943073
+      cat 1 16x16 animation with red glasses hearts_78: -9193049550998575714
+      cat 1 16x16 animation with red glasses hearts_79: 7726481046141585366
+      cat 1 16x16 animation with red glasses hearts_8: 8574279073411995629
+      cat 1 16x16 animation with red glasses hearts_80: -598771052272175895
+      cat 1 16x16 animation with red glasses hearts_81: 5481501986038481303
+      cat 1 16x16 animation with red glasses hearts_82: -7862012418961154606
+      cat 1 16x16 animation with red glasses hearts_83: -3905228138113629900
+      cat 1 16x16 animation with red glasses hearts_84: 3729383682498729659
+      cat 1 16x16 animation with red glasses hearts_85: 4084733882615244239
+      cat 1 16x16 animation with red glasses hearts_86: 2544377765761504352
+      cat 1 16x16 animation with red glasses hearts_87: 2706096373569936652
+      cat 1 16x16 animation with red glasses hearts_88: 1270988509156233798
+      cat 1 16x16 animation with red glasses hearts_89: -6778823595196222641
+      cat 1 16x16 animation with red glasses hearts_9: -4983648187700936052
+      cat 1 16x16 animation with red glasses hearts_90: -3408682485879771628
+      cat 1 16x16 animation with red glasses hearts_91: 9033718596558315085
+      cat 1 16x16 animation with red glasses hearts_92: -1290249285814915359
+      cat 1 16x16 animation with red glasses hearts_93: -4807019352298879809
+      cat 1 16x16 animation with red glasses hearts_94: 3601437408198813263
+      cat 1 16x16 animation with red glasses hearts_95: 385880339861442237
+      cat 1 16x16 animation with red glasses hearts_96: -1073442212083185724
+      cat 1 16x16 animation with red glasses hearts_97: -6602970718011623030
+      cat 1 16x16 animation with red glasses hearts_98: 1867990491779626514
+      cat 1 16x16 animation with red glasses hearts_99: 1814830641696155344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

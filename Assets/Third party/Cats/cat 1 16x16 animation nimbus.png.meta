@@ -1,0 +1,6721 @@
+fileFormatVersion: 2
+guid: d7eb451a564598645951a290b0e4f47d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4506173681790268179
+    second: cat 1 16x16 animation nimbus_0
+  - first:
+      213: -52180356529352772
+    second: cat 1 16x16 animation nimbus_1
+  - first:
+      213: 7302768255880259534
+    second: cat 1 16x16 animation nimbus_2
+  - first:
+      213: 194813469546981440
+    second: cat 1 16x16 animation nimbus_3
+  - first:
+      213: 8497716704134250093
+    second: cat 1 16x16 animation nimbus_4
+  - first:
+      213: -315792684806020553
+    second: cat 1 16x16 animation nimbus_5
+  - first:
+      213: 6649173292518164554
+    second: cat 1 16x16 animation nimbus_6
+  - first:
+      213: -760728888445245525
+    second: cat 1 16x16 animation nimbus_7
+  - first:
+      213: -482471215971090805
+    second: cat 1 16x16 animation nimbus_8
+  - first:
+      213: 3295422844643874899
+    second: cat 1 16x16 animation nimbus_9
+  - first:
+      213: -5056406546467922823
+    second: cat 1 16x16 animation nimbus_10
+  - first:
+      213: 176922664283298319
+    second: cat 1 16x16 animation nimbus_11
+  - first:
+      213: 4676448372348475166
+    second: cat 1 16x16 animation nimbus_12
+  - first:
+      213: 8218655215659833171
+    second: cat 1 16x16 animation nimbus_13
+  - first:
+      213: -7121866012734203206
+    second: cat 1 16x16 animation nimbus_14
+  - first:
+      213: -7928717819285542616
+    second: cat 1 16x16 animation nimbus_15
+  - first:
+      213: -4260948556109432044
+    second: cat 1 16x16 animation nimbus_16
+  - first:
+      213: -4350509396194477500
+    second: cat 1 16x16 animation nimbus_17
+  - first:
+      213: -8518082896922114438
+    second: cat 1 16x16 animation nimbus_18
+  - first:
+      213: -4244959438963458196
+    second: cat 1 16x16 animation nimbus_19
+  - first:
+      213: -7982533766147286786
+    second: cat 1 16x16 animation nimbus_20
+  - first:
+      213: -5632225939916307235
+    second: cat 1 16x16 animation nimbus_21
+  - first:
+      213: 4978457747221584780
+    second: cat 1 16x16 animation nimbus_22
+  - first:
+      213: 2797996751562153242
+    second: cat 1 16x16 animation nimbus_23
+  - first:
+      213: 3502712939939172229
+    second: cat 1 16x16 animation nimbus_24
+  - first:
+      213: 7073714604080195386
+    second: cat 1 16x16 animation nimbus_25
+  - first:
+      213: -6030300928927068869
+    second: cat 1 16x16 animation nimbus_26
+  - first:
+      213: -1348136713070910720
+    second: cat 1 16x16 animation nimbus_27
+  - first:
+      213: -3946738790106346514
+    second: cat 1 16x16 animation nimbus_28
+  - first:
+      213: 9117694967555290372
+    second: cat 1 16x16 animation nimbus_29
+  - first:
+      213: 2879656982399265432
+    second: cat 1 16x16 animation nimbus_30
+  - first:
+      213: 3449075688720527748
+    second: cat 1 16x16 animation nimbus_31
+  - first:
+      213: 4602954478062041969
+    second: cat 1 16x16 animation nimbus_32
+  - first:
+      213: 2818220102951469104
+    second: cat 1 16x16 animation nimbus_33
+  - first:
+      213: 8631471837719018847
+    second: cat 1 16x16 animation nimbus_34
+  - first:
+      213: -406798377508240881
+    second: cat 1 16x16 animation nimbus_35
+  - first:
+      213: 7784493267815713077
+    second: cat 1 16x16 animation nimbus_36
+  - first:
+      213: -8674193107566427631
+    second: cat 1 16x16 animation nimbus_37
+  - first:
+      213: -6120307757223289488
+    second: cat 1 16x16 animation nimbus_38
+  - first:
+      213: 3909367291081043957
+    second: cat 1 16x16 animation nimbus_39
+  - first:
+      213: 2418532142902993326
+    second: cat 1 16x16 animation nimbus_40
+  - first:
+      213: 521603074672810773
+    second: cat 1 16x16 animation nimbus_41
+  - first:
+      213: 2424500700620300098
+    second: cat 1 16x16 animation nimbus_42
+  - first:
+      213: -5009674680238727276
+    second: cat 1 16x16 animation nimbus_43
+  - first:
+      213: 3948960671038117673
+    second: cat 1 16x16 animation nimbus_44
+  - first:
+      213: 2683570659466901309
+    second: cat 1 16x16 animation nimbus_45
+  - first:
+      213: -6874060050933170480
+    second: cat 1 16x16 animation nimbus_46
+  - first:
+      213: -4796466617852822611
+    second: cat 1 16x16 animation nimbus_47
+  - first:
+      213: -8433229231989413550
+    second: cat 1 16x16 animation nimbus_48
+  - first:
+      213: 3292366671200690842
+    second: cat 1 16x16 animation nimbus_49
+  - first:
+      213: 1765716393184068468
+    second: cat 1 16x16 animation nimbus_50
+  - first:
+      213: -1257679261804576195
+    second: cat 1 16x16 animation nimbus_51
+  - first:
+      213: -2806660368588790049
+    second: cat 1 16x16 animation nimbus_52
+  - first:
+      213: -3756953403463295014
+    second: cat 1 16x16 animation nimbus_53
+  - first:
+      213: 6105043876594614833
+    second: cat 1 16x16 animation nimbus_54
+  - first:
+      213: 5207832812461355491
+    second: cat 1 16x16 animation nimbus_55
+  - first:
+      213: 8086935894768613406
+    second: cat 1 16x16 animation nimbus_56
+  - first:
+      213: -1663566438919927669
+    second: cat 1 16x16 animation nimbus_57
+  - first:
+      213: -3024259465081961936
+    second: cat 1 16x16 animation nimbus_58
+  - first:
+      213: 4308816162847934985
+    second: cat 1 16x16 animation nimbus_59
+  - first:
+      213: 1849475217866484433
+    second: cat 1 16x16 animation nimbus_60
+  - first:
+      213: 6420779334078395354
+    second: cat 1 16x16 animation nimbus_61
+  - first:
+      213: 4618516957807660969
+    second: cat 1 16x16 animation nimbus_62
+  - first:
+      213: -4764197871990685045
+    second: cat 1 16x16 animation nimbus_63
+  - first:
+      213: -7637363065240203154
+    second: cat 1 16x16 animation nimbus_64
+  - first:
+      213: 3716527127539302668
+    second: cat 1 16x16 animation nimbus_65
+  - first:
+      213: 8358475606895119670
+    second: cat 1 16x16 animation nimbus_66
+  - first:
+      213: 1283676841826015393
+    second: cat 1 16x16 animation nimbus_67
+  - first:
+      213: 3957990736714957327
+    second: cat 1 16x16 animation nimbus_68
+  - first:
+      213: -5567609027063917031
+    second: cat 1 16x16 animation nimbus_69
+  - first:
+      213: 3252247162263858870
+    second: cat 1 16x16 animation nimbus_70
+  - first:
+      213: -2077736473779116009
+    second: cat 1 16x16 animation nimbus_71
+  - first:
+      213: 9040931806932547845
+    second: cat 1 16x16 animation nimbus_72
+  - first:
+      213: 2604316265121683210
+    second: cat 1 16x16 animation nimbus_73
+  - first:
+      213: 509079614761942530
+    second: cat 1 16x16 animation nimbus_74
+  - first:
+      213: 5554848567217634297
+    second: cat 1 16x16 animation nimbus_75
+  - first:
+      213: -2577295984115858335
+    second: cat 1 16x16 animation nimbus_76
+  - first:
+      213: 7115410509489023609
+    second: cat 1 16x16 animation nimbus_77
+  - first:
+      213: 3022137084489136059
+    second: cat 1 16x16 animation nimbus_78
+  - first:
+      213: -1617174841064820953
+    second: cat 1 16x16 animation nimbus_79
+  - first:
+      213: -6028184223395726314
+    second: cat 1 16x16 animation nimbus_80
+  - first:
+      213: -4531086564365073814
+    second: cat 1 16x16 animation nimbus_81
+  - first:
+      213: 4035766059253196002
+    second: cat 1 16x16 animation nimbus_82
+  - first:
+      213: -2939728788290899131
+    second: cat 1 16x16 animation nimbus_83
+  - first:
+      213: 8491717161504281369
+    second: cat 1 16x16 animation nimbus_84
+  - first:
+      213: 7366437594205354913
+    second: cat 1 16x16 animation nimbus_85
+  - first:
+      213: -8625944434736073089
+    second: cat 1 16x16 animation nimbus_86
+  - first:
+      213: 5035546078582620788
+    second: cat 1 16x16 animation nimbus_87
+  - first:
+      213: -6855378692862643930
+    second: cat 1 16x16 animation nimbus_88
+  - first:
+      213: 6997641996708825522
+    second: cat 1 16x16 animation nimbus_89
+  - first:
+      213: 5192193340401941734
+    second: cat 1 16x16 animation nimbus_90
+  - first:
+      213: 5294195672168204665
+    second: cat 1 16x16 animation nimbus_91
+  - first:
+      213: -4391645539088678197
+    second: cat 1 16x16 animation nimbus_92
+  - first:
+      213: -5356586362583666314
+    second: cat 1 16x16 animation nimbus_93
+  - first:
+      213: -1858647690285136681
+    second: cat 1 16x16 animation nimbus_94
+  - first:
+      213: 418671637227284061
+    second: cat 1 16x16 animation nimbus_95
+  - first:
+      213: 6118258529052455560
+    second: cat 1 16x16 animation nimbus_96
+  - first:
+      213: -8939091146164459849
+    second: cat 1 16x16 animation nimbus_97
+  - first:
+      213: -7215565247983608871
+    second: cat 1 16x16 animation nimbus_98
+  - first:
+      213: -3280504977558925826
+    second: cat 1 16x16 animation nimbus_99
+  - first:
+      213: 6606294011797377873
+    second: cat 1 16x16 animation nimbus_100
+  - first:
+      213: -2399381172496286675
+    second: cat 1 16x16 animation nimbus_101
+  - first:
+      213: -3646953138436194029
+    second: cat 1 16x16 animation nimbus_102
+  - first:
+      213: 8862501766223477859
+    second: cat 1 16x16 animation nimbus_103
+  - first:
+      213: 5976414724641367114
+    second: cat 1 16x16 animation nimbus_104
+  - first:
+      213: 2757212838180937293
+    second: cat 1 16x16 animation nimbus_105
+  - first:
+      213: 8491668718359282540
+    second: cat 1 16x16 animation nimbus_106
+  - first:
+      213: 7024932328352481518
+    second: cat 1 16x16 animation nimbus_107
+  - first:
+      213: -8140631014203582569
+    second: cat 1 16x16 animation nimbus_108
+  - first:
+      213: -3410479713216258130
+    second: cat 1 16x16 animation nimbus_109
+  - first:
+      213: -4074305272664093528
+    second: cat 1 16x16 animation nimbus_110
+  - first:
+      213: 246346275784769189
+    second: cat 1 16x16 animation nimbus_111
+  - first:
+      213: 378095297473363053
+    second: cat 1 16x16 animation nimbus_112
+  - first:
+      213: -7061605350781774621
+    second: cat 1 16x16 animation nimbus_113
+  - first:
+      213: -6771388595056156427
+    second: cat 1 16x16 animation nimbus_114
+  - first:
+      213: 197517581747863926
+    second: cat 1 16x16 animation nimbus_115
+  - first:
+      213: 3291370662196013484
+    second: cat 1 16x16 animation nimbus_116
+  - first:
+      213: -6531128273593734908
+    second: cat 1 16x16 animation nimbus_117
+  - first:
+      213: -2991868781808964811
+    second: cat 1 16x16 animation nimbus_118
+  - first:
+      213: 1876420733100391861
+    second: cat 1 16x16 animation nimbus_119
+  - first:
+      213: 4095315767552403949
+    second: cat 1 16x16 animation nimbus_120
+  - first:
+      213: 9140867049745815251
+    second: cat 1 16x16 animation nimbus_121
+  - first:
+      213: -6835111792051668867
+    second: cat 1 16x16 animation nimbus_122
+  - first:
+      213: 6422089622869957435
+    second: cat 1 16x16 animation nimbus_123
+  - first:
+      213: 5221933659465707847
+    second: cat 1 16x16 animation nimbus_124
+  - first:
+      213: 3056487466216712766
+    second: cat 1 16x16 animation nimbus_125
+  - first:
+      213: -7213020145478459511
+    second: cat 1 16x16 animation nimbus_126
+  - first:
+      213: 6398984592467837473
+    second: cat 1 16x16 animation nimbus_127
+  - first:
+      213: -2618886709362336250
+    second: cat 1 16x16 animation nimbus_128
+  - first:
+      213: -4441302194906773723
+    second: cat 1 16x16 animation nimbus_129
+  - first:
+      213: -8612909001207724691
+    second: cat 1 16x16 animation nimbus_130
+  - first:
+      213: -2599052781125094020
+    second: cat 1 16x16 animation nimbus_131
+  - first:
+      213: -7012724934094066919
+    second: cat 1 16x16 animation nimbus_132
+  - first:
+      213: -7957035871857537025
+    second: cat 1 16x16 animation nimbus_133
+  - first:
+      213: 501376550940035686
+    second: cat 1 16x16 animation nimbus_134
+  - first:
+      213: -7449853687526003087
+    second: cat 1 16x16 animation nimbus_135
+  - first:
+      213: 6619759922441599193
+    second: cat 1 16x16 animation nimbus_136
+  - first:
+      213: -3405613381515307
+    second: cat 1 16x16 animation nimbus_137
+  - first:
+      213: -4662104100480186618
+    second: cat 1 16x16 animation nimbus_138
+  - first:
+      213: -8570244130411642895
+    second: cat 1 16x16 animation nimbus_139
+  - first:
+      213: -5681410174973310041
+    second: cat 1 16x16 animation nimbus_140
+  - first:
+      213: 3837221001643070405
+    second: cat 1 16x16 animation nimbus_141
+  - first:
+      213: -152299878524899775
+    second: cat 1 16x16 animation nimbus_142
+  - first:
+      213: 7439361436036286942
+    second: cat 1 16x16 animation nimbus_143
+  - first:
+      213: -1411837219958835970
+    second: cat 1 16x16 animation nimbus_144
+  - first:
+      213: -7877842314898719985
+    second: cat 1 16x16 animation nimbus_145
+  - first:
+      213: -3016336953779163796
+    second: cat 1 16x16 animation nimbus_146
+  - first:
+      213: -8618973058333627060
+    second: cat 1 16x16 animation nimbus_147
+  - first:
+      213: 7618543505054258132
+    second: cat 1 16x16 animation nimbus_148
+  - first:
+      213: 5242885354736677155
+    second: cat 1 16x16 animation nimbus_149
+  - first:
+      213: -2367771526812497163
+    second: cat 1 16x16 animation nimbus_150
+  - first:
+      213: 7039789906358515685
+    second: cat 1 16x16 animation nimbus_151
+  - first:
+      213: 5848032586569685831
+    second: cat 1 16x16 animation nimbus_152
+  - first:
+      213: 5535134443284355388
+    second: cat 1 16x16 animation nimbus_153
+  - first:
+      213: -8724101707700087206
+    second: cat 1 16x16 animation nimbus_154
+  - first:
+      213: -3647563120258812860
+    second: cat 1 16x16 animation nimbus_155
+  - first:
+      213: 1435283399451921558
+    second: cat 1 16x16 animation nimbus_156
+  - first:
+      213: -4014118113007645207
+    second: cat 1 16x16 animation nimbus_157
+  - first:
+      213: -6767517004251941234
+    second: cat 1 16x16 animation nimbus_158
+  - first:
+      213: 3841021492091164156
+    second: cat 1 16x16 animation nimbus_159
+  - first:
+      213: 3682268438537517696
+    second: cat 1 16x16 animation nimbus_160
+  - first:
+      213: -4352740977380218731
+    second: cat 1 16x16 animation nimbus_161
+  - first:
+      213: -4766984684717166407
+    second: cat 1 16x16 animation nimbus_162
+  - first:
+      213: -1972220166532598370
+    second: cat 1 16x16 animation nimbus_163
+  - first:
+      213: -5198467252552133121
+    second: cat 1 16x16 animation nimbus_164
+  - first:
+      213: 2975601783209053307
+    second: cat 1 16x16 animation nimbus_165
+  - first:
+      213: 1728495828399841774
+    second: cat 1 16x16 animation nimbus_166
+  - first:
+      213: 604127439150425044
+    second: cat 1 16x16 animation nimbus_167
+  - first:
+      213: 1365192795755603794
+    second: cat 1 16x16 animation nimbus_168
+  - first:
+      213: -7357989694411540418
+    second: cat 1 16x16 animation nimbus_169
+  - first:
+      213: -7493193787914771972
+    second: cat 1 16x16 animation nimbus_170
+  - first:
+      213: -592533417759606810
+    second: cat 1 16x16 animation nimbus_171
+  - first:
+      213: 4116352945030086049
+    second: cat 1 16x16 animation nimbus_172
+  - first:
+      213: 4127583576538611095
+    second: cat 1 16x16 animation nimbus_173
+  - first:
+      213: 6375370801568633418
+    second: cat 1 16x16 animation nimbus_174
+  - first:
+      213: 8686307629274595428
+    second: cat 1 16x16 animation nimbus_175
+  - first:
+      213: 8745177137782472844
+    second: cat 1 16x16 animation nimbus_176
+  - first:
+      213: 4163588400976286916
+    second: cat 1 16x16 animation nimbus_177
+  - first:
+      213: -2762180210902798251
+    second: cat 1 16x16 animation nimbus_178
+  - first:
+      213: 1472857350267900158
+    second: cat 1 16x16 animation nimbus_179
+  - first:
+      213: 3145348607094355001
+    second: cat 1 16x16 animation nimbus_180
+  - first:
+      213: -2293209652792006920
+    second: cat 1 16x16 animation nimbus_181
+  - first:
+      213: -7465506811784061345
+    second: cat 1 16x16 animation nimbus_182
+  - first:
+      213: -5833511246298827128
+    second: cat 1 16x16 animation nimbus_183
+  - first:
+      213: -1880268517797489159
+    second: cat 1 16x16 animation nimbus_184
+  - first:
+      213: 5766441607375285307
+    second: cat 1 16x16 animation nimbus_185
+  - first:
+      213: 5244188930343142001
+    second: cat 1 16x16 animation nimbus_186
+  - first:
+      213: 140073042501696227
+    second: cat 1 16x16 animation nimbus_187
+  - first:
+      213: 8824523903713016533
+    second: cat 1 16x16 animation nimbus_188
+  - first:
+      213: -5075686480857871297
+    second: cat 1 16x16 animation nimbus_189
+  - first:
+      213: 6381965219749722151
+    second: cat 1 16x16 animation nimbus_190
+  - first:
+      213: 1884856132397016136
+    second: cat 1 16x16 animation nimbus_191
+  - first:
+      213: -6214024704459318347
+    second: cat 1 16x16 animation nimbus_192
+  - first:
+      213: -7743053603550480866
+    second: cat 1 16x16 animation nimbus_193
+  - first:
+      213: -4224564206023519611
+    second: cat 1 16x16 animation nimbus_194
+  - first:
+      213: 9079433207309755575
+    second: cat 1 16x16 animation nimbus_195
+  - first:
+      213: 5610619509496353657
+    second: cat 1 16x16 animation nimbus_196
+  - first:
+      213: -8727209830477753584
+    second: cat 1 16x16 animation nimbus_197
+  - first:
+      213: -7192805073366297779
+    second: cat 1 16x16 animation nimbus_198
+  - first:
+      213: 7272179523115061361
+    second: cat 1 16x16 animation nimbus_199
+  - first:
+      213: 9104389142712876262
+    second: cat 1 16x16 animation nimbus_200
+  - first:
+      213: -8787375136273232147
+    second: cat 1 16x16 animation nimbus_201
+  - first:
+      213: 895300618411842561
+    second: cat 1 16x16 animation nimbus_202
+  - first:
+      213: -3772768457019804071
+    second: cat 1 16x16 animation nimbus_203
+  - first:
+      213: 1953634673310942977
+    second: cat 1 16x16 animation nimbus_204
+  - first:
+      213: 4695613215622271080
+    second: cat 1 16x16 animation nimbus_205
+  - first:
+      213: -6789894707028507853
+    second: cat 1 16x16 animation nimbus_206
+  - first:
+      213: 516187595821942709
+    second: cat 1 16x16 animation nimbus_207
+  - first:
+      213: 4185921898687962101
+    second: cat 1 16x16 animation nimbus_208
+  - first:
+      213: -2330918225610821041
+    second: cat 1 16x16 animation nimbus_209
+  - first:
+      213: -1987094597259287467
+    second: cat 1 16x16 animation nimbus_210
+  - first:
+      213: -774289763654369528
+    second: cat 1 16x16 animation nimbus_211
+  - first:
+      213: 1409286677412908780
+    second: cat 1 16x16 animation nimbus_212
+  - first:
+      213: -2492998376604224583
+    second: cat 1 16x16 animation nimbus_213
+  - first:
+      213: -8291731427387196637
+    second: cat 1 16x16 animation nimbus_214
+  - first:
+      213: -4587247134572091103
+    second: cat 1 16x16 animation nimbus_215
+  - first:
+      213: 6240404526293085992
+    second: cat 1 16x16 animation nimbus_216
+  - first:
+      213: 7324838346638430419
+    second: cat 1 16x16 animation nimbus_217
+  - first:
+      213: 3587398062372438293
+    second: cat 1 16x16 animation nimbus_218
+  - first:
+      213: 9201518790947744755
+    second: cat 1 16x16 animation nimbus_219
+  - first:
+      213: -8916057741066683639
+    second: cat 1 16x16 animation nimbus_220
+  - first:
+      213: 2312158615530571321
+    second: cat 1 16x16 animation nimbus_221
+  - first:
+      213: 2681957522105329584
+    second: cat 1 16x16 animation nimbus_222
+  - first:
+      213: -7752241172834795213
+    second: cat 1 16x16 animation nimbus_223
+  - first:
+      213: -6806908875961280907
+    second: cat 1 16x16 animation nimbus_224
+  - first:
+      213: 2526021996844318108
+    second: cat 1 16x16 animation nimbus_225
+  - first:
+      213: 4805314693343300259
+    second: cat 1 16x16 animation nimbus_226
+  - first:
+      213: 7322139832961464117
+    second: cat 1 16x16 animation nimbus_227
+  - first:
+      213: -6999303191072462270
+    second: cat 1 16x16 animation nimbus_228
+  - first:
+      213: -9215397704161338937
+    second: cat 1 16x16 animation nimbus_229
+  - first:
+      213: -3366200184945361998
+    second: cat 1 16x16 animation nimbus_230
+  - first:
+      213: 5240866335083649003
+    second: cat 1 16x16 animation nimbus_231
+  - first:
+      213: 8332005926576226422
+    second: cat 1 16x16 animation nimbus_232
+  - first:
+      213: -5654810793489422549
+    second: cat 1 16x16 animation nimbus_233
+  - first:
+      213: 5731062874046119447
+    second: cat 1 16x16 animation nimbus_234
+  - first:
+      213: -7870390057084202219
+    second: cat 1 16x16 animation nimbus_235
+  - first:
+      213: 790303385770659443
+    second: cat 1 16x16 animation nimbus_236
+  - first:
+      213: -3255561465646906393
+    second: cat 1 16x16 animation nimbus_237
+  - first:
+      213: -6794710748726766975
+    second: cat 1 16x16 animation nimbus_238
+  - first:
+      213: 9043704118287673132
+    second: cat 1 16x16 animation nimbus_239
+  - first:
+      213: -8985922302353425659
+    second: cat 1 16x16 animation nimbus_240
+  - first:
+      213: 7660457855046242524
+    second: cat 1 16x16 animation nimbus_241
+  - first:
+      213: 5876467154539676375
+    second: cat 1 16x16 animation nimbus_242
+  - first:
+      213: -8340971181969219521
+    second: cat 1 16x16 animation nimbus_243
+  - first:
+      213: 4408501858551433372
+    second: cat 1 16x16 animation nimbus_244
+  - first:
+      213: -3414804983578121383
+    second: cat 1 16x16 animation nimbus_245
+  - first:
+      213: 3959543341464116490
+    second: cat 1 16x16 animation nimbus_246
+  - first:
+      213: 6295552701467513619
+    second: cat 1 16x16 animation nimbus_247
+  - first:
+      213: -3219203528293256731
+    second: cat 1 16x16 animation nimbus_248
+  - first:
+      213: -9222123773641510210
+    second: cat 1 16x16 animation nimbus_249
+  - first:
+      213: -8874060696116292844
+    second: cat 1 16x16 animation nimbus_250
+  - first:
+      213: 3937331381470965745
+    second: cat 1 16x16 animation nimbus_251
+  - first:
+      213: 8242268064295269684
+    second: cat 1 16x16 animation nimbus_252
+  - first:
+      213: -4230442370504353095
+    second: cat 1 16x16 animation nimbus_253
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1686
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b25fb615298e30800000000000000
+      internalID: 4506173681790268179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1686
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf80d00e3e964ff0800000000000000
+      internalID: -52180356529352772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1686
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7edb87905a85560800000000000000
+      internalID: 7302768255880259534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1686
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0482fc181dd14b200800000000000000
+      internalID: 194813469546981440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1652
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e33dfc154fde570800000000000000
+      internalID: 8497716704134250093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1655
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732687fe9341e9bf0800000000000000
+      internalID: -315792684806020553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1654
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484f8671eb964c50800000000000000
+      internalID: 6649173292518164554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1654
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e7d14b195175f0800000000000000
+      internalID: -760728888445245525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1656
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e31bd3cfaed49f0800000000000000
+      internalID: -482471215971090805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1656
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35894b70e91bbbd20800000000000000
+      internalID: 3295422844643874899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1618
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd1d5390904d9b0800000000000000
+      internalID: -5056406546467922823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1621
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a525dc93e847200800000000000000
+      internalID: 176922664283298319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1619
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17d84c840516e040800000000000000
+      internalID: 4676448372348475166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1619
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d0d4df578e0270800000000000000
+      internalID: 8218655215659833171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abadc0d389c0a2d90800000000000000
+      internalID: -7121866012734203206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ec29c62987f190800000000000000
+      internalID: -7928717819285542616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b32ea1dd11ed4c0800000000000000
+      internalID: -4260948556109432044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a34df01c2ef93c0800000000000000
+      internalID: -4350509396194477500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1588
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7680a96cb0b9c980800000000000000
+      internalID: -8518082896922114438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1588
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f34aa81efd615c0800000000000000
+      internalID: -4244959438963458196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1584
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8da3d35d7583190800000000000000
+      internalID: -7982533766147286786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1584
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44c84395056d1b0800000000000000
+      internalID: -5632225939916307235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1586
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1f60b1f8071540800000000000000
+      internalID: 4978457747221584780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1557
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d1f8b983b74d620800000000000000
+      internalID: 2797996751562153242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1556
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f0d375cd22c9030800000000000000
+      internalID: 3502712939939172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1557
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3761ba44f1ea2260800000000000000
+      internalID: 7073714604080195386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1556
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d089a4141105ca0800000000000000
+      internalID: -6030300928927068869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1463
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eebc5dc47a4de0800000000000000
+      internalID: -1348136713070910720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1529
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc47a2bfd5a39c0800000000000000
+      internalID: -3946738790106346514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1528
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ff7fe34f888e70800000000000000
+      internalID: 9117694967555290372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1528
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa1e6b4c896f720800000000000000
+      internalID: 2879656982399265432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1430
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4817f9d90149ddf20800000000000000
+      internalID: 3449075688720527748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1431
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7e26d5baf0ef30800000000000000
+      internalID: 4602954478062041969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1432
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030894780445c1720800000000000000
+      internalID: 2818220102951469104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1430
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db708a7e529c770800000000000000
+      internalID: 8631471837719018847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1431
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028a6de703ca5af0800000000000000
+      internalID: -406798377508240881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1432
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53943901263180c60800000000000000
+      internalID: 7784493267815713077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1398
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1128c5693531f9780800000000000000
+      internalID: -8674193107566427631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d53a6858c401ba0800000000000000
+      internalID: -6120307757223289488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1399
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffaa69a6dcd04630800000000000000
+      internalID: 3909367291081043957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1398
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1e8978b2a509120800000000000000
+      internalID: 2418532142902993326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bdf9b9b3b1d3700800000000000000
+      internalID: 521603074672810773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1399
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f982aaa8e85a120800000000000000
+      internalID: 2424500700620300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1369
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1a14bb6f0a7ab0800000000000000
+      internalID: -5009674680238727276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1370
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927173dcec68dc630800000000000000
+      internalID: 3948960671038117673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1368
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377f2feb45fd3520800000000000000
+      internalID: 2683570659466901309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1369
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0debc63ddce6a90a0800000000000000
+      internalID: -6874060050933170480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1370
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabfcd916078f6db0800000000000000
+      internalID: -4796466617852822611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1368
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a4d5d1b627fa80800000000000000
+      internalID: -8433229231989413550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1337
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a0433b06d0bd20800000000000000
+      internalID: 3292366671200690842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47302d554b5118810800000000000000
+      internalID: 1765716393184068468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3243c6ff53db8ee0800000000000000
+      internalID: -1257679261804576195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1337
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6291dd34dbc09d0800000000000000
+      internalID: -2806660368588790049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf10e4e8ce9cdbc0800000000000000
+      internalID: -3756953403463295014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13288925f0979b450800000000000000
+      internalID: 6105043876594614833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1f164c950f54840800000000000000
+      internalID: 5207832812461355491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f90199519a3070800000000000000
+      internalID: 8086935894768613406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b888ae34323d9e8e0800000000000000
+      internalID: -1663566438919927669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324d2b2a0ca706d0800000000000000
+      internalID: -3024259465081961936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1236
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4305987dfbcb30800000000000000
+      internalID: 4308816162847934985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1236
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae1d569e7aaa910800000000000000
+      internalID: 1849475217866484433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1204
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad379ec19c03b1950800000000000000
+      internalID: 6420779334078395354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1204
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af4e3304b4481040800000000000000
+      internalID: 4618516957807660969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82c258f64b22edb0800000000000000
+      internalID: -4764197871990685045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605ba3b1c2a20690800000000000000
+      internalID: -7637363065240203154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0145134bb1c39330800000000000000
+      internalID: 3716527127539302668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d40c487454ff370800000000000000
+      internalID: 8358475606895119670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85f63594980d110800000000000000
+      internalID: 1283676841826015393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028e2eca9b9de630800000000000000
+      internalID: 3957990736714957327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d89d9611ebb2b0800000000000000
+      internalID: -5567609027063917031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1074
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be628c109d422d20800000000000000
+      internalID: 3252247162263858870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1044
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e5877fa56a23e0800000000000000
+      internalID: -2077736473779116009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1042
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509beb6d397d77d70800000000000000
+      internalID: 9040931806932547845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1014
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07995948d3642420800000000000000
+      internalID: 2604316265121683210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1013
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3740663d901700800000000000000
+      internalID: 509079614761942530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 947
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb381e4759c61d40800000000000000
+      internalID: 5554848567217634297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1013
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164cbb125fa9b3cd0800000000000000
+      internalID: -2577295984115858335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1014
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aac29c8240fb260800000000000000
+      internalID: 7115410509489023609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1042
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb772879aa9c0f920800000000000000
+      internalID: 3022137084489136059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 948
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe1aadc04ae89e0800000000000000
+      internalID: -1617174841064820953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1014
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c32e33366975ca0800000000000000
+      internalID: -6028184223395726314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 947
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a628974c6c85e11c0800000000000000
+      internalID: -4531086564365073814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 918
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e46d5639dbe10830800000000000000
+      internalID: 4035766059253196002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_83
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437eed0e3cf337d0800000000000000
+      internalID: -2939728788290899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131d8074c3a8d570800000000000000
+      internalID: 8491717161504281369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab71be76f7da3660800000000000000
+      internalID: 7366437594205354913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f767c432d3d7a4880800000000000000
+      internalID: -8625944434736073089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4724700aa7ad1e540800000000000000
+      internalID: 5035546078582620788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f323766dccd0a0800000000000000
+      internalID: -6855378692862643930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 916
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94f27225e9c1160800000000000000
+      internalID: 6997641996708825522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 886
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7ecb65506e0840800000000000000
+      internalID: 5192193340401941734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 884
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790ffaf9e2c87940800000000000000
+      internalID: 5294195672168204665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 884
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c03f66adbd03c0800000000000000
+      internalID: -4391645539088678197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 883
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bf79651599a5b0800000000000000
+      internalID: -5356586362583666314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_94
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 884
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d444f1f5c1c436e0800000000000000
+      internalID: -1858647690285136681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 883
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a676c2ab6fc500800000000000000
+      internalID: 418671637227284061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 884
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fc2c57bb68e450800000000000000
+      internalID: 6118258529052455560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_97
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 884
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62702c6f7f1f380800000000000000
+      internalID: -8939091146164459849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_98
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 856
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db984cf2a92ddb90800000000000000
+      internalID: -7215565247983608871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 854
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd03b09a1e4972d0800000000000000
+      internalID: -3280504977558925826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_100
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 853
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15319fee6654eab50800000000000000
+      internalID: 6606294011797377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 852
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c399c398fa3bed0800000000000000
+      internalID: -2399381172496286675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_102
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 853
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c307617b636dc0800000000000000
+      internalID: -3646953138436194029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_103
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 852
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cb50d966eedfa70800000000000000
+      internalID: 8862501766223477859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 853
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a9a4178d70f250800000000000000
+      internalID: 5976414724641367114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 854
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edbedc776934620800000000000000
+      internalID: 2757212838180937293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_106
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c630a1465b778d570800000000000000
+      internalID: 8491668718359282540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_107
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 822
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08b92abb29d7160800000000000000
+      internalID: 7024932328352481518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_108
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 821
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7971ed6393ba60f80800000000000000
+      internalID: -8140631014203582569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_109
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 820
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf911435ca8ba0d0800000000000000
+      internalID: -3410479713216258130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_110
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 821
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0b5ce0f82577c0800000000000000
+      internalID: -4074305272664093528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 820
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae34e3f1a23b6300800000000000000
+      internalID: 246346275784769189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 821
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c35297ba34f3500800000000000000
+      internalID: 378095297473363053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_113
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 822
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e497a2f853200e90800000000000000
+      internalID: -7061605350781774621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 790
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0eb8bf2f13702a0800000000000000
+      internalID: -6771388595056156427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 791
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c9f0b139bdb200800000000000000
+      internalID: 197517581747863926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_116
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 790
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9e558cd2c4dad20800000000000000
+      internalID: 3291370662196013484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 756
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096fe54075cc55a0800000000000000
+      internalID: -6531128273593734908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_118
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 757
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b22bdc13fba76d0800000000000000
+      internalID: -2991868781808964811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 756
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd70ad07b26a0a10800000000000000
+      internalID: 1876420733100391861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 722
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de964002efb75d830800000000000000
+      internalID: 4095315767552403949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 723
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61c2fb622eade70800000000000000
+      internalID: 9140867049745815251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_122
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 722
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783da20a0ec421a0800000000000000
+      internalID: -6835111792051668867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd2ee7c78df1950800000000000000
+      internalID: 6422089622869957435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 694
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741fb1d0ff8087840800000000000000
+      internalID: 5221933659465707847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae7441823da6a20800000000000000
+      internalID: 3056487466216712766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_126
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 662
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1507d46436eb90800000000000000
+      internalID: -7213020145478459511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_127
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 663
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1224e356592cdc850800000000000000
+      internalID: 6398984592467837473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_128
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e577dc968d7abd0800000000000000
+      internalID: -2618886709362336250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_129
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274b6c4f235d52c0800000000000000
+      internalID: -4441302194906773723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65cf3485ecc87880800000000000000
+      internalID: -8612909001207724691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_131
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c753c84144f4eebd0800000000000000
+      internalID: -2599052781125094020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_132
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 663
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6cc3d3dbcdae90800000000000000
+      internalID: -7012724934094066919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_133
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 662
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff04e0680ee29190800000000000000
+      internalID: -7957035871857537025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_134
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acd71115f35f600800000000000000
+      internalID: 501376550940035686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_135
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 629
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee06eca8dcc9890800000000000000
+      internalID: -7449853687526003087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_136
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 630
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8bf73939c1edb50800000000000000
+      internalID: 6619759922441599193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_137
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 630
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70728dc96e3fff0800000000000000
+      internalID: -3405613381515307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_138
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 630
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6078cf08501ec4fb0800000000000000
+      internalID: -4662104100480186618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_139
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 630
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffff68de50601980800000000000000
+      internalID: -8570244130411642895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 629
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab0d691c839721b0800000000000000
+      internalID: -5681410174973310041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_141
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c39a97ab2c804530800000000000000
+      internalID: 3837221001643070405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_142
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 594
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2031411ce2edf0800000000000000
+      internalID: -152299878524899775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_143
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 595
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9cea68fcbed3760800000000000000
+      internalID: 7439361436036286942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4bda75785286ce0800000000000000
+      internalID: -1411837219958835970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_145
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbbe737284ca290800000000000000
+      internalID: -7877842314898719985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_146
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6deb139581d326d0800000000000000
+      internalID: -3016336953779163796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 596
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dac513ba1436880800000000000000
+      internalID: -8618973058333627060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_148
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 595
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d35e9cf3f08ab960800000000000000
+      internalID: 7618543505054258132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_149
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 594
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3217d2fb37872c840800000000000000
+      internalID: 5242885354736677155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_150
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 565
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa8e03675cf32fd0800000000000000
+      internalID: -2367771526812497163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_151
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 566
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e731e51f9b52b160800000000000000
+      internalID: 7039789906358515685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_152
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 567
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b156d37a2682150800000000000000
+      internalID: 5848032586569685831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_153
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 567
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395ef3237fb0dc40800000000000000
+      internalID: 5535134443284355388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_154
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 567
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56582818b3cde680800000000000000
+      internalID: -8724101707700087206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_155
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 567
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4447821faa0416dc0800000000000000
+      internalID: -3647563120258812860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_156
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 566
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc858b5a62be310800000000000000
+      internalID: 1435283399451921558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_157
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 565
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc7bb08dcfa48c0800000000000000
+      internalID: -4014118113007645207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_158
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b526f323f412a0800000000000000
+      internalID: -6767517004251941234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_159
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51cba42bc0e4530800000000000000
+      internalID: 3841021492091164156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a39a6a2ab0a1330800000000000000
+      internalID: 3682268438537517696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_161
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59827f39425f793c0800000000000000
+      internalID: -4352740977380218731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0b4b19fa448ddb0800000000000000
+      internalID: -4766984684717166407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9576f2353441a4e0800000000000000
+      internalID: -1972220166532598370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5112393955bd7b0800000000000000
+      internalID: -5198467252552133121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_165
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cc1317e067b4920800000000000000
+      internalID: 2975601783209053307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_166
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 534
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee164874cc9dcf710800000000000000
+      internalID: 1728495828399841774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_167
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a0a184ba426800800000000000000
+      internalID: 604127439150425044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_168
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576fe85d9322f210800000000000000
+      internalID: 1365192795755603794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_169
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e387d937b5b23e990800000000000000
+      internalID: -7357989694411540418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_170
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12d2653f3d20890800000000000000
+      internalID: -7493193787914771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_171
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7f3e4fef5e6c7f0800000000000000
+      internalID: -592533417759606810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_172
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb6a2b139302930800000000000000
+      internalID: 4116352945030086049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_173
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df15cd46f184930800000000000000
+      internalID: 4127583576538611095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_174
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4255e247fdd97850800000000000000
+      internalID: 6375370801568633418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_175
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608dac44c6fb8870800000000000000
+      internalID: 8686307629274595428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80446bd54c1d5970800000000000000
+      internalID: 8745177137782472844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_177
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d02f479908c930800000000000000
+      internalID: 4163588400976286916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550768b9bb3caa9d0800000000000000
+      internalID: -2762180210902798251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_179
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09a8fd4f3a07410800000000000000
+      internalID: 1472857350267900158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f0a4b4e586ab20800000000000000
+      internalID: 3145348607094355001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_181
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e5d188f1ec20e0800000000000000
+      internalID: -2293209652792006920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_182
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1a5fcb11356890800000000000000
+      internalID: -7465506811784061345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_183
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886bc13cd643b0fa0800000000000000
+      internalID: -5833511246298827128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_184
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f59452ceb1f7e5e0800000000000000
+      internalID: -1880268517797489159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_185
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce2a90714860050800000000000000
+      internalID: 5766441607375285307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_186
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17283281c0a17c840800000000000000
+      internalID: 5244188930343142001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_187
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eafbe4a0b3a1f100800000000000000
+      internalID: 140073042501696227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_188
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf1c07cb1077a70800000000000000
+      internalID: 8824523903713016533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_189
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc63da90a8f89b0800000000000000
+      internalID: -5075686480857871297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_190
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287414ed8b419850800000000000000
+      internalID: 6381965219749722151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_191
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844ad308aaa582a10800000000000000
+      internalID: 1884856132397016136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5331647953c9a0800000000000000
+      internalID: -6214024704459318347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_193
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b093a5c52b8490800000000000000
+      internalID: -7743053603550480866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_194
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5825321cc355f55c0800000000000000
+      internalID: -4224564206023519611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_195
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4659ba560a00e70800000000000000
+      internalID: 9079433207309755575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_196
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731861b7bcecdd40800000000000000
+      internalID: 5610619509496353657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_197
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013931ed5e8b2e680800000000000000
+      internalID: -8727209830477753584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_198
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43df5715e50e2c90800000000000000
+      internalID: -7192805073366297779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_199
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17094222fb8fbe460800000000000000
+      internalID: 7272179523115061361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_200
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecf25c20b9495e70800000000000000
+      internalID: 9104389142712876262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_201
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee855efed8fc0680800000000000000
+      internalID: -8787375136273232147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_202
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c10af3b2fbc6c00800000000000000
+      internalID: 895300618411842561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_203
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956398bc31f64abc0800000000000000
+      internalID: -3772768457019804071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_204
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107c5937264bc1b10800000000000000
+      internalID: 1953634673310942977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_205
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 375
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609bc7575b2a2140800000000000000
+      internalID: 4695613215622271080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_206
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 376
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c2450db275c1a0800000000000000
+      internalID: -6789894707028507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_207
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 343
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b70e6e22edd92700800000000000000
+      internalID: 516187595821942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_208
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 344
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb13d4f9c1671a30800000000000000
+      internalID: 4185921898687962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_209
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42bbf9393ae6afd0800000000000000
+      internalID: -2330918225610821041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_210
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 276
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554234bedfb6c64e0800000000000000
+      internalID: -1987094597259287467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_211
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff824ff8b2145f0800000000000000
+      internalID: -774289763654369528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_212
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 246
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee03e134cace8310800000000000000
+      internalID: 1409286677412908780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_213
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 180
+        width: 132
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b331e85f27176dd0800000000000000
+      internalID: -2492998376604224583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_214
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 246
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bb4a1c23addec80800000000000000
+      internalID: -8291731427387196637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_215
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129e6ee0903d650c0800000000000000
+      internalID: -4587247134572091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_216
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f60748ade5a9650800000000000000
+      internalID: 6240404526293085992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_217
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d01b88eaad07a560800000000000000
+      internalID: 7324838346638430419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_218
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51142a7e78ff8c130800000000000000
+      internalID: 3587398062372438293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_219
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba580b69c52bf70800000000000000
+      internalID: 9201518790947744755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_220
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b39da49bcc34480800000000000000
+      internalID: -8916057741066683639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_221
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9360f0fa200761020800000000000000
+      internalID: 2312158615530571321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_222
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b766cf182a383520800000000000000
+      internalID: 2681957522105329584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_223
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314608f9b18a6490800000000000000
+      internalID: -7752241172834795213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_224
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576dfdd11700981a0800000000000000
+      internalID: -6806908875961280907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_225
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d7ab86f9b3e0320800000000000000
+      internalID: 2526021996844318108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_226
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa41b20148efa240800000000000000
+      internalID: 4805314693343300259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_227
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f76b32677d9560800000000000000
+      internalID: 7322139832961464117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_228
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2ed4e4da7dde90800000000000000
+      internalID: -6999303191072462270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_229
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c953830d945c1080800000000000000
+      internalID: -9215397704161338937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_230
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb3a7544cad841d0800000000000000
+      internalID: -3366200184945361998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_231
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d6f91a2c4bb840800000000000000
+      internalID: 5240866335083649003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_232
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6708600de3b31a370800000000000000
+      internalID: 8332005926576226422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_233
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a4063b831681b0800000000000000
+      internalID: -5654810793489422549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_234
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb2f8c153d88f40800000000000000
+      internalID: 5731062874046119447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_235
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513dab331f1c6c290800000000000000
+      internalID: -7870390057084202219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_236
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e06adfdb8b7fa00800000000000000
+      internalID: 790303385770659443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_237
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e38aaf781ce1d2d0800000000000000
+      internalID: -3255561465646906393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_238
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182dc9ee29654b1a0800000000000000
+      internalID: -6794710748726766975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_239
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272640eaf0b18d70800000000000000
+      internalID: 9043704118287673132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_240
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 88
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb6f486479b4380800000000000000
+      internalID: -8985922302353425659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_241
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0d1e215d96f4a60800000000000000
+      internalID: 7660457855046242524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_242
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d286900eb76d8150800000000000000
+      internalID: 5876467154539676375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_243
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3064f007eaee3c80800000000000000
+      internalID: -8340971181969219521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_244
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 86
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988b9645152e2d30800000000000000
+      internalID: 4408501858551433372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_245
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ba798b5fc2c90d0800000000000000
+      internalID: -3414804983578121383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_246
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5bb4c0bf13f630800000000000000
+      internalID: 3959543341464116490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_247
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d8b3a3db4e5750800000000000000
+      internalID: 6295552701467513619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_248
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1756472771353d0800000000000000
+      internalID: -3219203528293256731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_249
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2b96de94f640080800000000000000
+      internalID: -9222123773641510210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_250
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139bbc40d009d480800000000000000
+      internalID: -8874060696116292844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_251
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2393d70634a630800000000000000
+      internalID: 3937331381470965745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_252
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435bdd3922b626270800000000000000
+      internalID: 8242268064295269684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat 1 16x16 animation nimbus_253
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba935fe3137a45c0800000000000000
+      internalID: -4230442370504353095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat 1 16x16 animation nimbus_0: 4506173681790268179
+      cat 1 16x16 animation nimbus_1: -52180356529352772
+      cat 1 16x16 animation nimbus_10: -5056406546467922823
+      cat 1 16x16 animation nimbus_100: 6606294011797377873
+      cat 1 16x16 animation nimbus_101: -2399381172496286675
+      cat 1 16x16 animation nimbus_102: -3646953138436194029
+      cat 1 16x16 animation nimbus_103: 8862501766223477859
+      cat 1 16x16 animation nimbus_104: 5976414724641367114
+      cat 1 16x16 animation nimbus_105: 2757212838180937293
+      cat 1 16x16 animation nimbus_106: 8491668718359282540
+      cat 1 16x16 animation nimbus_107: 7024932328352481518
+      cat 1 16x16 animation nimbus_108: -8140631014203582569
+      cat 1 16x16 animation nimbus_109: -3410479713216258130
+      cat 1 16x16 animation nimbus_11: 176922664283298319
+      cat 1 16x16 animation nimbus_110: -4074305272664093528
+      cat 1 16x16 animation nimbus_111: 246346275784769189
+      cat 1 16x16 animation nimbus_112: 378095297473363053
+      cat 1 16x16 animation nimbus_113: -7061605350781774621
+      cat 1 16x16 animation nimbus_114: -6771388595056156427
+      cat 1 16x16 animation nimbus_115: 197517581747863926
+      cat 1 16x16 animation nimbus_116: 3291370662196013484
+      cat 1 16x16 animation nimbus_117: -6531128273593734908
+      cat 1 16x16 animation nimbus_118: -2991868781808964811
+      cat 1 16x16 animation nimbus_119: 1876420733100391861
+      cat 1 16x16 animation nimbus_12: 4676448372348475166
+      cat 1 16x16 animation nimbus_120: 4095315767552403949
+      cat 1 16x16 animation nimbus_121: 9140867049745815251
+      cat 1 16x16 animation nimbus_122: -6835111792051668867
+      cat 1 16x16 animation nimbus_123: 6422089622869957435
+      cat 1 16x16 animation nimbus_124: 5221933659465707847
+      cat 1 16x16 animation nimbus_125: 3056487466216712766
+      cat 1 16x16 animation nimbus_126: -7213020145478459511
+      cat 1 16x16 animation nimbus_127: 6398984592467837473
+      cat 1 16x16 animation nimbus_128: -2618886709362336250
+      cat 1 16x16 animation nimbus_129: -4441302194906773723
+      cat 1 16x16 animation nimbus_13: 8218655215659833171
+      cat 1 16x16 animation nimbus_130: -8612909001207724691
+      cat 1 16x16 animation nimbus_131: -2599052781125094020
+      cat 1 16x16 animation nimbus_132: -7012724934094066919
+      cat 1 16x16 animation nimbus_133: -7957035871857537025
+      cat 1 16x16 animation nimbus_134: 501376550940035686
+      cat 1 16x16 animation nimbus_135: -7449853687526003087
+      cat 1 16x16 animation nimbus_136: 6619759922441599193
+      cat 1 16x16 animation nimbus_137: -3405613381515307
+      cat 1 16x16 animation nimbus_138: -4662104100480186618
+      cat 1 16x16 animation nimbus_139: -8570244130411642895
+      cat 1 16x16 animation nimbus_14: -7121866012734203206
+      cat 1 16x16 animation nimbus_140: -5681410174973310041
+      cat 1 16x16 animation nimbus_141: 3837221001643070405
+      cat 1 16x16 animation nimbus_142: -152299878524899775
+      cat 1 16x16 animation nimbus_143: 7439361436036286942
+      cat 1 16x16 animation nimbus_144: -1411837219958835970
+      cat 1 16x16 animation nimbus_145: -7877842314898719985
+      cat 1 16x16 animation nimbus_146: -3016336953779163796
+      cat 1 16x16 animation nimbus_147: -8618973058333627060
+      cat 1 16x16 animation nimbus_148: 7618543505054258132
+      cat 1 16x16 animation nimbus_149: 5242885354736677155
+      cat 1 16x16 animation nimbus_15: -7928717819285542616
+      cat 1 16x16 animation nimbus_150: -2367771526812497163
+      cat 1 16x16 animation nimbus_151: 7039789906358515685
+      cat 1 16x16 animation nimbus_152: 5848032586569685831
+      cat 1 16x16 animation nimbus_153: 5535134443284355388
+      cat 1 16x16 animation nimbus_154: -8724101707700087206
+      cat 1 16x16 animation nimbus_155: -3647563120258812860
+      cat 1 16x16 animation nimbus_156: 1435283399451921558
+      cat 1 16x16 animation nimbus_157: -4014118113007645207
+      cat 1 16x16 animation nimbus_158: -6767517004251941234
+      cat 1 16x16 animation nimbus_159: 3841021492091164156
+      cat 1 16x16 animation nimbus_16: -4260948556109432044
+      cat 1 16x16 animation nimbus_160: 3682268438537517696
+      cat 1 16x16 animation nimbus_161: -4352740977380218731
+      cat 1 16x16 animation nimbus_162: -4766984684717166407
+      cat 1 16x16 animation nimbus_163: -1972220166532598370
+      cat 1 16x16 animation nimbus_164: -5198467252552133121
+      cat 1 16x16 animation nimbus_165: 2975601783209053307
+      cat 1 16x16 animation nimbus_166: 1728495828399841774
+      cat 1 16x16 animation nimbus_167: 604127439150425044
+      cat 1 16x16 animation nimbus_168: 1365192795755603794
+      cat 1 16x16 animation nimbus_169: -7357989694411540418
+      cat 1 16x16 animation nimbus_17: -4350509396194477500
+      cat 1 16x16 animation nimbus_170: -7493193787914771972
+      cat 1 16x16 animation nimbus_171: -592533417759606810
+      cat 1 16x16 animation nimbus_172: 4116352945030086049
+      cat 1 16x16 animation nimbus_173: 4127583576538611095
+      cat 1 16x16 animation nimbus_174: 6375370801568633418
+      cat 1 16x16 animation nimbus_175: 8686307629274595428
+      cat 1 16x16 animation nimbus_176: 8745177137782472844
+      cat 1 16x16 animation nimbus_177: 4163588400976286916
+      cat 1 16x16 animation nimbus_178: -2762180210902798251
+      cat 1 16x16 animation nimbus_179: 1472857350267900158
+      cat 1 16x16 animation nimbus_18: -8518082896922114438
+      cat 1 16x16 animation nimbus_180: 3145348607094355001
+      cat 1 16x16 animation nimbus_181: -2293209652792006920
+      cat 1 16x16 animation nimbus_182: -7465506811784061345
+      cat 1 16x16 animation nimbus_183: -5833511246298827128
+      cat 1 16x16 animation nimbus_184: -1880268517797489159
+      cat 1 16x16 animation nimbus_185: 5766441607375285307
+      cat 1 16x16 animation nimbus_186: 5244188930343142001
+      cat 1 16x16 animation nimbus_187: 140073042501696227
+      cat 1 16x16 animation nimbus_188: 8824523903713016533
+      cat 1 16x16 animation nimbus_189: -5075686480857871297
+      cat 1 16x16 animation nimbus_19: -4244959438963458196
+      cat 1 16x16 animation nimbus_190: 6381965219749722151
+      cat 1 16x16 animation nimbus_191: 1884856132397016136
+      cat 1 16x16 animation nimbus_192: -6214024704459318347
+      cat 1 16x16 animation nimbus_193: -7743053603550480866
+      cat 1 16x16 animation nimbus_194: -4224564206023519611
+      cat 1 16x16 animation nimbus_195: 9079433207309755575
+      cat 1 16x16 animation nimbus_196: 5610619509496353657
+      cat 1 16x16 animation nimbus_197: -8727209830477753584
+      cat 1 16x16 animation nimbus_198: -7192805073366297779
+      cat 1 16x16 animation nimbus_199: 7272179523115061361
+      cat 1 16x16 animation nimbus_2: 7302768255880259534
+      cat 1 16x16 animation nimbus_20: -7982533766147286786
+      cat 1 16x16 animation nimbus_200: 9104389142712876262
+      cat 1 16x16 animation nimbus_201: -8787375136273232147
+      cat 1 16x16 animation nimbus_202: 895300618411842561
+      cat 1 16x16 animation nimbus_203: -3772768457019804071
+      cat 1 16x16 animation nimbus_204: 1953634673310942977
+      cat 1 16x16 animation nimbus_205: 4695613215622271080
+      cat 1 16x16 animation nimbus_206: -6789894707028507853
+      cat 1 16x16 animation nimbus_207: 516187595821942709
+      cat 1 16x16 animation nimbus_208: 4185921898687962101
+      cat 1 16x16 animation nimbus_209: -2330918225610821041
+      cat 1 16x16 animation nimbus_21: -5632225939916307235
+      cat 1 16x16 animation nimbus_210: -1987094597259287467
+      cat 1 16x16 animation nimbus_211: -774289763654369528
+      cat 1 16x16 animation nimbus_212: 1409286677412908780
+      cat 1 16x16 animation nimbus_213: -2492998376604224583
+      cat 1 16x16 animation nimbus_214: -8291731427387196637
+      cat 1 16x16 animation nimbus_215: -4587247134572091103
+      cat 1 16x16 animation nimbus_216: 6240404526293085992
+      cat 1 16x16 animation nimbus_217: 7324838346638430419
+      cat 1 16x16 animation nimbus_218: 3587398062372438293
+      cat 1 16x16 animation nimbus_219: 9201518790947744755
+      cat 1 16x16 animation nimbus_22: 4978457747221584780
+      cat 1 16x16 animation nimbus_220: -8916057741066683639
+      cat 1 16x16 animation nimbus_221: 2312158615530571321
+      cat 1 16x16 animation nimbus_222: 2681957522105329584
+      cat 1 16x16 animation nimbus_223: -7752241172834795213
+      cat 1 16x16 animation nimbus_224: -6806908875961280907
+      cat 1 16x16 animation nimbus_225: 2526021996844318108
+      cat 1 16x16 animation nimbus_226: 4805314693343300259
+      cat 1 16x16 animation nimbus_227: 7322139832961464117
+      cat 1 16x16 animation nimbus_228: -6999303191072462270
+      cat 1 16x16 animation nimbus_229: -9215397704161338937
+      cat 1 16x16 animation nimbus_23: 2797996751562153242
+      cat 1 16x16 animation nimbus_230: -3366200184945361998
+      cat 1 16x16 animation nimbus_231: 5240866335083649003
+      cat 1 16x16 animation nimbus_232: 8332005926576226422
+      cat 1 16x16 animation nimbus_233: -5654810793489422549
+      cat 1 16x16 animation nimbus_234: 5731062874046119447
+      cat 1 16x16 animation nimbus_235: -7870390057084202219
+      cat 1 16x16 animation nimbus_236: 790303385770659443
+      cat 1 16x16 animation nimbus_237: -3255561465646906393
+      cat 1 16x16 animation nimbus_238: -6794710748726766975
+      cat 1 16x16 animation nimbus_239: 9043704118287673132
+      cat 1 16x16 animation nimbus_24: 3502712939939172229
+      cat 1 16x16 animation nimbus_240: -8985922302353425659
+      cat 1 16x16 animation nimbus_241: 7660457855046242524
+      cat 1 16x16 animation nimbus_242: 5876467154539676375
+      cat 1 16x16 animation nimbus_243: -8340971181969219521
+      cat 1 16x16 animation nimbus_244: 4408501858551433372
+      cat 1 16x16 animation nimbus_245: -3414804983578121383
+      cat 1 16x16 animation nimbus_246: 3959543341464116490
+      cat 1 16x16 animation nimbus_247: 6295552701467513619
+      cat 1 16x16 animation nimbus_248: -3219203528293256731
+      cat 1 16x16 animation nimbus_249: -9222123773641510210
+      cat 1 16x16 animation nimbus_25: 7073714604080195386
+      cat 1 16x16 animation nimbus_250: -8874060696116292844
+      cat 1 16x16 animation nimbus_251: 3937331381470965745
+      cat 1 16x16 animation nimbus_252: 8242268064295269684
+      cat 1 16x16 animation nimbus_253: -4230442370504353095
+      cat 1 16x16 animation nimbus_26: -6030300928927068869
+      cat 1 16x16 animation nimbus_27: -1348136713070910720
+      cat 1 16x16 animation nimbus_28: -3946738790106346514
+      cat 1 16x16 animation nimbus_29: 9117694967555290372
+      cat 1 16x16 animation nimbus_3: 194813469546981440
+      cat 1 16x16 animation nimbus_30: 2879656982399265432
+      cat 1 16x16 animation nimbus_31: 3449075688720527748
+      cat 1 16x16 animation nimbus_32: 4602954478062041969
+      cat 1 16x16 animation nimbus_33: 2818220102951469104
+      cat 1 16x16 animation nimbus_34: 8631471837719018847
+      cat 1 16x16 animation nimbus_35: -406798377508240881
+      cat 1 16x16 animation nimbus_36: 7784493267815713077
+      cat 1 16x16 animation nimbus_37: -8674193107566427631
+      cat 1 16x16 animation nimbus_38: -6120307757223289488
+      cat 1 16x16 animation nimbus_39: 3909367291081043957
+      cat 1 16x16 animation nimbus_4: 8497716704134250093
+      cat 1 16x16 animation nimbus_40: 2418532142902993326
+      cat 1 16x16 animation nimbus_41: 521603074672810773
+      cat 1 16x16 animation nimbus_42: 2424500700620300098
+      cat 1 16x16 animation nimbus_43: -5009674680238727276
+      cat 1 16x16 animation nimbus_44: 3948960671038117673
+      cat 1 16x16 animation nimbus_45: 2683570659466901309
+      cat 1 16x16 animation nimbus_46: -6874060050933170480
+      cat 1 16x16 animation nimbus_47: -4796466617852822611
+      cat 1 16x16 animation nimbus_48: -8433229231989413550
+      cat 1 16x16 animation nimbus_49: 3292366671200690842
+      cat 1 16x16 animation nimbus_5: -315792684806020553
+      cat 1 16x16 animation nimbus_50: 1765716393184068468
+      cat 1 16x16 animation nimbus_51: -1257679261804576195
+      cat 1 16x16 animation nimbus_52: -2806660368588790049
+      cat 1 16x16 animation nimbus_53: -3756953403463295014
+      cat 1 16x16 animation nimbus_54: 6105043876594614833
+      cat 1 16x16 animation nimbus_55: 5207832812461355491
+      cat 1 16x16 animation nimbus_56: 8086935894768613406
+      cat 1 16x16 animation nimbus_57: -1663566438919927669
+      cat 1 16x16 animation nimbus_58: -3024259465081961936
+      cat 1 16x16 animation nimbus_59: 4308816162847934985
+      cat 1 16x16 animation nimbus_6: 6649173292518164554
+      cat 1 16x16 animation nimbus_60: 1849475217866484433
+      cat 1 16x16 animation nimbus_61: 6420779334078395354
+      cat 1 16x16 animation nimbus_62: 4618516957807660969
+      cat 1 16x16 animation nimbus_63: -4764197871990685045
+      cat 1 16x16 animation nimbus_64: -7637363065240203154
+      cat 1 16x16 animation nimbus_65: 3716527127539302668
+      cat 1 16x16 animation nimbus_66: 8358475606895119670
+      cat 1 16x16 animation nimbus_67: 1283676841826015393
+      cat 1 16x16 animation nimbus_68: 3957990736714957327
+      cat 1 16x16 animation nimbus_69: -5567609027063917031
+      cat 1 16x16 animation nimbus_7: -760728888445245525
+      cat 1 16x16 animation nimbus_70: 3252247162263858870
+      cat 1 16x16 animation nimbus_71: -2077736473779116009
+      cat 1 16x16 animation nimbus_72: 9040931806932547845
+      cat 1 16x16 animation nimbus_73: 2604316265121683210
+      cat 1 16x16 animation nimbus_74: 509079614761942530
+      cat 1 16x16 animation nimbus_75: 5554848567217634297
+      cat 1 16x16 animation nimbus_76: -2577295984115858335
+      cat 1 16x16 animation nimbus_77: 7115410509489023609
+      cat 1 16x16 animation nimbus_78: 3022137084489136059
+      cat 1 16x16 animation nimbus_79: -1617174841064820953
+      cat 1 16x16 animation nimbus_8: -482471215971090805
+      cat 1 16x16 animation nimbus_80: -6028184223395726314
+      cat 1 16x16 animation nimbus_81: -4531086564365073814
+      cat 1 16x16 animation nimbus_82: 4035766059253196002
+      cat 1 16x16 animation nimbus_83: -2939728788290899131
+      cat 1 16x16 animation nimbus_84: 8491717161504281369
+      cat 1 16x16 animation nimbus_85: 7366437594205354913
+      cat 1 16x16 animation nimbus_86: -8625944434736073089
+      cat 1 16x16 animation nimbus_87: 5035546078582620788
+      cat 1 16x16 animation nimbus_88: -6855378692862643930
+      cat 1 16x16 animation nimbus_89: 6997641996708825522
+      cat 1 16x16 animation nimbus_9: 3295422844643874899
+      cat 1 16x16 animation nimbus_90: 5192193340401941734
+      cat 1 16x16 animation nimbus_91: 5294195672168204665
+      cat 1 16x16 animation nimbus_92: -4391645539088678197
+      cat 1 16x16 animation nimbus_93: -5356586362583666314
+      cat 1 16x16 animation nimbus_94: -1858647690285136681
+      cat 1 16x16 animation nimbus_95: 418671637227284061
+      cat 1 16x16 animation nimbus_96: 6118258529052455560
+      cat 1 16x16 animation nimbus_97: -8939091146164459849
+      cat 1 16x16 animation nimbus_98: -7215565247983608871
+      cat 1 16x16 animation nimbus_99: -3280504977558925826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

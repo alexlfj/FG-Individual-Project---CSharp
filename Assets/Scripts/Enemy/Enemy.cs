@@ -13,11 +13,7 @@ public class Enemy : MonoBehaviour, IDamageable
     
     private float lastDamageTime;
 
-
     private playerHealth player;
-
-
-    // Movement properties
 
     [SerializeField] private float speed;
     private Vector2 moveTarget;
