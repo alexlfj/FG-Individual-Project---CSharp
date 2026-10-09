@@ -21,9 +21,14 @@ public class GameUIManager : MonoBehaviour
 
     void Update()
     {
+        
+        // XP
         m_xpBar.value = playerExp.experience;
         m_xpBar.highValue = playerExp.levelUpExperience;
         m_xpBar.title = $"{playerExp.experience}/{playerExp.levelUpExperience}";
+
+
+        // Health
 
     }
 
