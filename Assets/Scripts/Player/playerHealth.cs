@@ -1,9 +1,11 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class playerHealth : MonoBehaviour, IDamageable
 {
     [field: SerializeField] public int MaxHealth { get; set; }
+
     public int CurrentHealth { get; set; }
 
     public float damageCooldown;
@@ -12,14 +14,17 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     private bool isInvincible = false;
 
-    [SerializeField] private float InvincibilityDurationSeconds;
-    [SerializeField] private float InvincibilityDeltaTime;
+    [SerializeField] private float InvincibilityDurationSeconds, InvincibilityDeltaTime;
 
-    private SpriteRenderer sprite;
+    private SpriteRenderer playerSprite;
 
-    
+    public Sprite fullHeart, halfHeart, emptyHeart;
+
+
     void Awake()
     {
+
+        // Singleton instance check
         if (instance == null)
         {
             instance = this;
@@ -30,12 +35,13 @@ public class playerHealth : MonoBehaviour, IDamageable
             Destroy(gameObject);
         }
 
-
+        //Health
         CurrentHealth = MaxHealth;
 
         damageCooldown = InvincibilityDurationSeconds;
 
-        sprite = GetComponentInParent<SpriteRenderer>();
+        playerSprite = GetComponentInParent<SpriteRenderer>();
+
     }
 
 
@@ -69,20 +75,20 @@ public class playerHealth : MonoBehaviour, IDamageable
 
         for (float i = 0; i < InvincibilityDurationSeconds; i += InvincibilityDeltaTime)
         {
-            if (sprite.enabled == true)
+            if (playerSprite.enabled == true)
             {
-                sprite.enabled = false;
+                playerSprite.enabled = false;
             }
             else
             {
-                sprite.enabled = true;
+                playerSprite.enabled = true;
             }
 
             yield return new WaitForSeconds(InvincibilityDeltaTime);
         }
 
         Debug.Log("Player is not invincible");
-        sprite.enabled = true;
+        playerSprite.enabled = true;
         isInvincible = false;
     }
 
