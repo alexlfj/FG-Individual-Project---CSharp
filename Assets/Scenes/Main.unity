@@ -5522,6 +5522,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 456737130098222445, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 548230538387041878, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2048213116943968898, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -5577,6 +5585,18 @@ PrefabInstance:
     - target: {fileID: 2048213116943968898, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918957472632816655, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
+      propertyPath: InvincibilityDeltaTime
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918957472632816655, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
+      propertyPath: InvincibilityDurationSeconds
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918957472632816655, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
+      propertyPath: InvincibilityDurationInSeconds
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 5094521955541794061, guid: 9ce1bdb449e0f2f45a69673499c39c9c, type: 3}
       propertyPath: m_Name
