@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Loot
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - Water
   - UI
   - Enemy
-  - 
+  - Loot
   - 
   - 
   - 
@@ -45,7 +46,7 @@ TagManager:
   - name: Ground
     uniqueID: 3595094021
     locked: 0
-  - name: WalkInFront
+  - name: Enemies
     uniqueID: 1561100195
     locked: 0
   - name: Collision
@@ -54,11 +55,8 @@ TagManager:
   - name: Player
     uniqueID: 753060585
     locked: 0
-  - name: WalkBehind
+  - name: Items
     uniqueID: 27242909
-    locked: 0
-  - name: Decor
-    uniqueID: 1164806835
     locked: 0
   m_RenderingLayers:
   - Default

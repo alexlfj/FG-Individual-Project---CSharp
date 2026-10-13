@@ -16,12 +16,26 @@ public class Enemy : MonoBehaviour, IDamageable
     private playerHealth player;
 
     [SerializeField] private float speed;
+
     private Vector2 moveTarget;
+
+    private Action<Enemy> onDeath;
+
+    public float xpValue;
+
+
 
     void Start()
     {
         player = playerHealth.instance;
+
     }
+
+    void OnEnable()
+    {
+        CurrentHealth = MaxHealth;
+    }
+
 
     // Movement
     void FixedUpdate()
@@ -65,16 +79,21 @@ public class Enemy : MonoBehaviour, IDamageable
     // Damage and dying 
     public void Die()
     {
-        Destroy(gameObject);
+        onDeath(this);
     }
 
     public void TakeDamage(int damageAmount)
     {
         CurrentHealth -= damageAmount;
 
-        if (CurrentHealth < 0)
+        if (CurrentHealth <= 0)
         {
             Die();
         }
+    }
+
+    public void OnDeath(Action<Enemy> deathAction)
+    {
+        onDeath = deathAction;
     }
 }

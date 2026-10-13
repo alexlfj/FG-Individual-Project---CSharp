@@ -8,6 +8,7 @@ public class OrbWeaponScript : MonoBehaviour
     [SerializeField] private int damage;
 
 
+
     void Update()
     {
         transform.RotateAround(player.localPosition, Vector3.back, projectileSpeed * Time.deltaTime);
@@ -15,10 +16,17 @@ public class OrbWeaponScript : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.CompareTag("Enemy"))
+        IDamageable target = col.GetComponent<IDamageable>();
+
+        if (target == null)
         {
-            print("Enemy takes damage!");
+            return;
         }
+        else if (col.gameObject.CompareTag("Enemy"))
+        {
+            target.TakeDamage(damage);
+        }
+
     }
 
 

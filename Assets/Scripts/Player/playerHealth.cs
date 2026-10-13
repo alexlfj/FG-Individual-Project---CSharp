@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class playerHealth : MonoBehaviour, IDamageable
 {
@@ -49,6 +50,8 @@ public class playerHealth : MonoBehaviour, IDamageable
     {
         Destroy(gameObject);
         print("You died!");
+
+        SceneManager.LoadScene("Main");
     }
 
     public void TakeDamage(int damageAmount)
@@ -73,7 +76,7 @@ public class playerHealth : MonoBehaviour, IDamageable
         Debug.Log("Player is invincible");
         isInvincible = true;
 
-        for (float i = 0; i < InvincibilityDurationSeconds; i += InvincibilityDeltaTime)
+        for (float time = 0; time < InvincibilityDurationSeconds; time += InvincibilityDeltaTime)
         {
             if (playerSprite.enabled == true)
             {

@@ -33,8 +33,7 @@ public class playerXP : MonoBehaviour
 
     void Update()
     {
-        //experience ++; 
-
+        
         if (experience >= levelUpExperience)
         {
             LevelUp();
@@ -44,7 +43,7 @@ public class playerXP : MonoBehaviour
 
     public void LevelUp()
     {
-        experience = 0;
+        experience -= levelUpExperience;
         levelUpExperience = Mathf.RoundToInt(levelUpExperience * levelingUpScale);
     }
 

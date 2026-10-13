@@ -251,3 +251,4 @@ MonoBehaviour:
   <MaxHealth>k__BackingField: 1
   attackDamage: 1
   speed: 1
+  xpValue: 20
