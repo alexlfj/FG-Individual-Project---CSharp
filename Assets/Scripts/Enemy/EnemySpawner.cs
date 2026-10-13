@@ -57,7 +57,7 @@ public class EnemySpawner : MonoBehaviour
         }, enemy =>
         {
             Destroy(enemy.gameObject);
-        }, true, 10, 10);
+        }, true, 10, maxEnemies);
 
     }
 
@@ -107,8 +107,5 @@ public class EnemySpawner : MonoBehaviour
                 slimePool.Release(e);
             });
         }
-
-
-        
     }
 }
