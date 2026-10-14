@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 public class MainMenuEvents : MonoBehaviour
@@ -28,14 +29,9 @@ public class MainMenuEvents : MonoBehaviour
         }
     }
 
-    private void OnDisable()
-    {
-
-    }
-
     private void OnPlayGameClick(ClickEvent evt)
     {
-
+        SceneManager.LoadScene("Gameplay");
     }
 
     private void OnAllButtonsClick(ClickEvent evt)

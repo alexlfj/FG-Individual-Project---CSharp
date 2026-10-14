@@ -51,7 +51,7 @@ public class playerHealth : MonoBehaviour, IDamageable
         Destroy(gameObject);
         print("You died!");
 
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Gameplay");
     }
 
     public void TakeDamage(int damageAmount)
