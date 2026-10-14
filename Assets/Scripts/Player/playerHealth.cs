@@ -21,6 +21,8 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     public Sprite fullHeart, halfHeart, emptyHeart;
 
+    private ScoreManager scoreManager;
+
 
     void Awake()
     {
@@ -45,13 +47,18 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     }
 
+    void Start()
+    {
+        scoreManager = ScoreManager.instance;
+    }
 
     public void Die()
     {
         Destroy(gameObject);
-        print("You died!");
 
-        SceneManager.LoadScene("Gameplay");
+        SceneManager.LoadScene("MainMenu");
+
+        scoreManager.SaveHighScore();
     }
 
     public void TakeDamage(int damageAmount)
@@ -73,7 +80,6 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     private IEnumerator BecomeInvincible()
     {
-        Debug.Log("Player is invincible");
         isInvincible = true;
 
         for (float time = 0; time < InvincibilityDurationSeconds; time += InvincibilityDeltaTime)
@@ -90,7 +96,6 @@ public class playerHealth : MonoBehaviour, IDamageable
             yield return new WaitForSeconds(InvincibilityDeltaTime);
         }
 
-        Debug.Log("Player is not invincible");
         playerSprite.enabled = true;
         isInvincible = false;
     }

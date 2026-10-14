@@ -13,12 +13,15 @@ public class xpItem : MonoBehaviour
     private playerXP playerXP;
     private Action<xpItem> onPickup;
 
+    private ScoreManager scoreManager;
+
     public bool isPickedUp = false;
 
 
     void Start()
     {
         playerXP = playerXP.instance;
+        scoreManager = ScoreManager.instance;
     }
 
     void OnEnable()
@@ -44,6 +47,8 @@ public class xpItem : MonoBehaviour
         {
             playerXP.experience += experience;
             onPickup(this);
+
+            scoreManager.AddToScore(experience);
         }
     }
 

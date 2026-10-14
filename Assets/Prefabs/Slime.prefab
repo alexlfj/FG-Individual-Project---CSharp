@@ -252,3 +252,4 @@ MonoBehaviour:
   attackDamage: 1
   speed: 1
   xpValue: 20
+  scoreValue: 100
