@@ -1,0 +1,18 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenu/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=9434c721f0704004792517c2e6542b2c&amp;type=3#MainMenuStyle"/>
+    <ui:VisualElement name="Container">
+        <ui:VisualElement name="Row-Header" class="row row-header" style="margin-top: 120px; margin-bottom: 120px;">
+            <ui:VisualElement name="Col" class="col-12 col">
+                <ui:Label text="Cattack" name="Header" class="header"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Row-Buttons" class="row">
+            <ui:VisualElement name="Col" class="col-5 col"/>
+            <ui:VisualElement name="Col" class="col-2 col">
+                <ui:Button text="Start&#10;" name="StartGameButton" class="button"/>
+                <ui:Button text="Settings" name="Settings" icon-image="" enabled="true" class="button"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Col" class="col-5 col"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

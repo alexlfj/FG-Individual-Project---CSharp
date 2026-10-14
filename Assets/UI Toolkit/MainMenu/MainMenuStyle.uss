@@ -1,0 +1,111 @@
+:root {
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Fonts/monogram-extended.ttf?fileID=12800000&guid=a2f213bf5d70814459efb4bcf8a3c21a&type=3#monogram-extended");
+    color: rgb(0, 0, 0);
+}
+
+.header {
+    height: 60px;
+    font-size: 200px;
+    -unity-text-align: middle-center;
+}
+
+.row-header {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.button {
+    height: 90px;
+    margin-top: 60px;
+    font-size: 60px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    transition-duration: 0.2s;
+}
+
+.button:hover {
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    scale: 1.05 1.05;
+    color: rgb(202, 112, 159);
+    background-color: rgb(98, 103, 114);
+}
+
+.button:active {
+    background-color: rgb(65, 71, 82);
+    transition-property: all;
+    transition-duration: 1ms;
+    transition-timing-function: linear;
+    color: rgb(154, 75, 116);
+    scale: 1 1;
+}
+
+.row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.col {
+    flex-grow: 0;
+    flex-shrink: 0;
+    align-items: stretch;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-1 {
+    width: 8.333%;
+}
+
+.col-2 {
+    width: 16.667%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.333%;
+}
+
+.col-5 {
+    width: 41.667%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.333%;
+}
+
+.col-8 {
+    width: 66.667%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.333%;
+}
+
+.col-11 {
+    width: 91.667%;
+}
+
+.col-12 {
+    width: 100%;
+}
