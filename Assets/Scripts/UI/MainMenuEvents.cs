@@ -1,8 +1,8 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
+using System.Collections;
 
 public class MainMenuEvents : MonoBehaviour
 {
@@ -31,13 +31,23 @@ public class MainMenuEvents : MonoBehaviour
 
     private void OnPlayGameClick(ClickEvent evt)
     {
-        SceneManager.LoadScene("Gameplay");
+        StartCoroutine(PressPlay());
     }
 
     private void OnAllButtonsClick(ClickEvent evt)
     {
         audioSource.volume = .5f;
         audioSource.Play();
+    }
+
+    private IEnumerator PressPlay()
+    {
+        audioSource.volume = .5f;
+        audioSource.Play();
+
+        yield return new WaitForSeconds(audioSource.clip.length + 0.5f);
+
+        SceneManager.LoadScene("Gameplay");
     }
 
 }
