@@ -3,15 +3,16 @@ using UnityEngine;
 public class OrbWeaponScript : MonoBehaviour
 {
     [SerializeField] private Transform player;
-    [SerializeField] private float projectileSpeed;
+    private playerStats stats;
 
-    [SerializeField] private int damage;
-
-
-
+    void Start()
+    {
+        stats = player.GetComponent<playerStats>();
+    }
+    
     void Update()
     {
-        transform.RotateAround(player.localPosition, Vector3.back, projectileSpeed * Time.deltaTime);
+        transform.RotateAround(player.localPosition, Vector3.back, stats.attackSpeed * Time.deltaTime);
     }
 
     public void OnTriggerEnter2D(Collider2D col)
@@ -24,7 +25,7 @@ public class OrbWeaponScript : MonoBehaviour
         }
         else if (col.gameObject.CompareTag("Enemy"))
         {
-            target.TakeDamage(damage);
+            target.TakeDamage(stats.damage);
         }
 
     }

@@ -1,24 +1,27 @@
+using Unity.VisualScripting.Antlr3.Runtime.Misc;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class playerMovement : MonoBehaviour
 {
-    [SerializeField] private float movementSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movementInput;
     private Animator animator;
-    
+
+    private playerStats stats;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        stats = GetComponent<playerStats>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = movementInput * movementSpeed;
+        rb.linearVelocity = movementInput * stats.moveSpeed;
     }
 
     public void Movement(InputAction.CallbackContext context)
