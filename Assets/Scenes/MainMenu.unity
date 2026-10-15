@@ -619,6 +619,7 @@ GameObject:
   - component: {fileID: 1347871819}
   - component: {fileID: 1347871822}
   - component: {fileID: 1347871821}
+  - component: {fileID: 1347871823}
   m_Layer: 5
   m_Name: MainMenu
   m_TagString: Untagged
@@ -773,6 +774,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec7a681f0b75e30468839306e609efb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuEvents
+--- !u!114 &1347871823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347871818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d18de452fb56da429ae6d97a871b260, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MenuButtonSounds
+  volume: 0.5
 --- !u!1 &1465836253
 GameObject:
   m_ObjectHideFlags: 0

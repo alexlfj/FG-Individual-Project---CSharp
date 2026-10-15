@@ -7,9 +7,6 @@ public class playerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movementInput;
     private Animator animator;
-
-
-    //test to see if github is working
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -34,7 +31,9 @@ public class playerMovement : MonoBehaviour
             animator.SetFloat("LastInputX", movementInput.x);
             animator.SetFloat("LastInputY", movementInput.y);
         }
+
         movementInput = context.ReadValue<Vector2>();
+
         animator.SetFloat("InputX", movementInput.x);
         animator.SetFloat("InputY", movementInput.y);
         
