@@ -30,7 +30,7 @@ public class LootManager : MonoBehaviour
     public void DropLoot(Enemy enemy)
     {
         var xp = xpPool.Get();
-        xp.SetExperience(enemy.xpValue);
+        xp.SetExperience(enemy.settings.xpValue);
         xp.transform.position = enemy.transform.position;
 
         xp.OnPickUp(e =>

@@ -16,7 +16,7 @@ public class OrbWeaponScript : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D col)
     {
-        IDamageable target = col.GetComponent<IDamageable>();
+        Enemy target = col.GetComponent<Enemy>();
 
         if (target == null)
         {

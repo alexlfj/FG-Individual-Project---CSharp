@@ -248,8 +248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f81e69dfe08784b489732b012bfec618, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  <MaxHealth>k__BackingField: 1
+  settings: {fileID: 11400000, guid: 6d2ab13ecfaf5ad4b8799690db40566b, type: 2}
   attackDamage: 1
   speed: 1
   xpValue: 20
-  scoreValue: 100

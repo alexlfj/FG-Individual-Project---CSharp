@@ -2,26 +2,20 @@ using Unity.VisualScripting;
 using UnityEngine;
 using System;
 
-public class Enemy : MonoBehaviour, IDamageable
+public class Enemy : MonoBehaviour
 {
 
-    [field: SerializeField] public int MaxHealth { get; set; }
+    public EnemySettings settings;
 
     public int CurrentHealth { get; set; }
-
-    [SerializeField] private int attackDamage = 1;
     
     private float lastDamageTime;
 
     private playerHealth player;
 
-    [SerializeField] private float speed;
-
     private Vector2 moveTarget;
 
     private Action<Enemy> onDeath;
-
-    public float xpValue;
 
 
     void Start()
@@ -32,7 +26,7 @@ public class Enemy : MonoBehaviour, IDamageable
 
     void OnEnable()
     {
-        CurrentHealth = MaxHealth;
+        CurrentHealth = settings.maxHealth;
     }
 
 
@@ -43,7 +37,7 @@ public class Enemy : MonoBehaviour, IDamageable
 
         //Movement
         moveTarget = player.transform.position;
-        transform.position = Vector2.MoveTowards(transform.position, moveTarget, speed * Time.fixedDeltaTime);       
+        transform.position = Vector2.MoveTowards(transform.position, moveTarget, settings.speed * Time.fixedDeltaTime);       
 
     }
 
@@ -51,9 +45,7 @@ public class Enemy : MonoBehaviour, IDamageable
     {
         if (col.gameObject.CompareTag("Player"))
         {
-            player.TakeDamage(attackDamage);
-            print($"You are taking {attackDamage} damage!");
-            print($"Your health is at {player.CurrentHealth}");
+            player.TakeDamage(settings.attackDamage);
             lastDamageTime = Time.time;
         }
         
@@ -66,11 +58,8 @@ public class Enemy : MonoBehaviour, IDamageable
 
         if (col.gameObject.CompareTag("Player") && damageTimeDiff > player.damageCooldown)
         {
-            player.TakeDamage(attackDamage);
+            player.TakeDamage(settings.attackDamage);
             lastDamageTime = Time.time;
-
-            print($"You are taking {attackDamage} damage!");
-            print($"Your health is at {player.CurrentHealth}");
         }
     }
 
