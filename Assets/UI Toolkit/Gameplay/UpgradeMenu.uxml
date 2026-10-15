@@ -1,0 +1,24 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenu/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=9434c721f0704004792517c2e6542b2c&amp;type=3#MainMenuStyle"/>
+    <ui:VisualElement name="Container" style="flex-grow: 1;">
+        <ui:VisualElement name="Row-Header" class="row-header row" style="flex-grow: 3; flex-basis: 0; flex-shrink: 0;">
+            <ui:Label text="Level Up!" name="Header" class="header"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="Row-Cards" style="flex-grow: 9; flex-direction: column; flex-basis: 0; flex-shrink: 0;">
+            <ui:Button text="&#10;" name="Upgrade0" class="button" style="flex-direction: row;">
+                <ui:VisualElement name="Icon0" style="flex-grow: 1; background-color: rgb(255, 0, 0); width: 64px; height: 64px;"/>
+                <ui:VisualElement name="Text0" style="flex-grow: 1; flex-direction: row;">
+                    <ui:Label text="Label" name="Description0"/>
+                    <ui:Label text="Label" name="Comparison0"/>
+                </ui:VisualElement>
+            </ui:Button>
+            <ui:Button text="" name="Upgrade1" class="button" style="flex-direction: row;">
+                <ui:VisualElement name="Icon1" style="flex-grow: 1; background-color: rgb(255, 0, 0); width: 64px; height: 64px;"/>
+                <ui:VisualElement name="Text1" style="flex-grow: 1; flex-direction: row;">
+                    <ui:Label text="Label" name="Description1"/>
+                    <ui:Label text="Label" name="Comparison1"/>
+                </ui:VisualElement>
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

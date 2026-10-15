@@ -15,4 +15,4 @@ MonoBehaviour:
   icon: {fileID: 5300081526879416730, guid: d3f6df29fe696314eb992ee0560d986e, type: 3}
   description: Increases damage
   stat: 0
-  amount: 2
+  amount: 1

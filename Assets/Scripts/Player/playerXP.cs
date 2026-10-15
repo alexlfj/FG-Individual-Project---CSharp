@@ -45,6 +45,7 @@ public class playerXP : MonoBehaviour
     {
         experience -= levelUpExperience;
         levelUpExperience = Mathf.RoundToInt(levelUpExperience * levelingUpScale);
+        upgradeWindow.instance.Open();
     }
 
 

@@ -45,6 +45,8 @@ public class PauseManager : MonoBehaviour
 
     public void Pause(InputAction.CallbackContext context)
     {
+        if (upgradeWindow.instance.isOpen) return;
+        
         if (context.performed) 
         {
             

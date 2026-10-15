@@ -52,4 +52,36 @@ public class playerStats : MonoBehaviour
                 break;
         }
     }
+
+    public float GetStat(StatType stat)
+    {
+        switch (stat)
+        {
+            case StatType.Damage:
+                return damage;
+
+            case StatType.MoveSpeed:
+                return moveSpeed;
+
+            case StatType.AttackSpeed:
+                return attackSpeed;
+
+            case StatType.ProjectileCount:
+                return projectileCount;
+
+            case StatType.PickupDistance:
+                return pickupDistance;
+
+            case StatType.AreaOfEffect:
+                return areaOfEffect;
+
+            case StatType.Recovery:
+                return recovery;
+                
+            case StatType.Growth:
+                return growth;
+        }
+
+        return 0f;
+    }          
 }
