@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30f454c01dbf4e7489eb122f115e8cce, type: 3}
   m_Name: SlimeSettings
   m_EditorClassIdentifier: Assembly-CSharp::EnemySettings
-  speed: 0
-  attackDamage: 0
-  xpValue: 0
+  maxHealth: 1
+  speed: 1
+  attackDamage: 1
+  xpValue: 20
