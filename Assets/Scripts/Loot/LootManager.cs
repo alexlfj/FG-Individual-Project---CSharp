@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.Pool;
-using System;
 
 public class LootManager : MonoBehaviour
 {
@@ -22,8 +21,12 @@ public class LootManager : MonoBehaviour
             xpItem.gameObject.SetActive(false);
         }, xpItem =>
         {
-            Destroy(xpItem.gameObject);
-        }, true, 10, 300);
+            if (xpItem != null)
+            {
+                Destroy(xpItem.gameObject);
+            }
+                
+        }, false, 10, 300);
     }
 
 

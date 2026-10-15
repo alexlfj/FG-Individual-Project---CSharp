@@ -23,6 +23,9 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     private ScoreManager scoreManager;
 
+    private playerStats playerStats;
+
+    private float recoveryProgress;
 
     void Awake()
     {
@@ -50,6 +53,20 @@ public class playerHealth : MonoBehaviour, IDamageable
     void Start()
     {
         scoreManager = ScoreManager.instance;
+        playerStats = GetComponent<playerStats>();
+    }
+
+    void Update()
+    {
+        recoveryProgress += playerStats.recovery * Time.deltaTime;
+
+        if (recoveryProgress >= 1f)
+        {
+            int healthToRecover = Mathf.FloorToInt(recoveryProgress);
+            CurrentHealth = Mathf.Min(CurrentHealth + healthToRecover, MaxHealth);
+            recoveryProgress -= healthToRecover;
+        }
+
     }
 
     public void Die()

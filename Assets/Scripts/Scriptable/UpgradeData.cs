@@ -6,7 +6,10 @@ public enum StatType
     MoveSpeed,
     AttackSpeed,
     ProjectileCount,
-    PickupDistance
+    PickupDistance,
+    AreaOfEffect,
+    Recovery,
+    Growth
 }
 
 [CreateAssetMenu(menuName = "New Upgrade")]

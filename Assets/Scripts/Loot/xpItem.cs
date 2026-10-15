@@ -17,11 +17,14 @@ public class xpItem : MonoBehaviour
 
     public bool isPickedUp = false;
 
+    private playerStats playerStats;
+
 
     void Start()
     {
         playerXP = playerXP.instance;
         scoreManager = ScoreManager.instance;
+        playerStats = playerXP.GetComponent<playerStats>();
     }
 
     void OnEnable()
@@ -45,10 +48,13 @@ public class xpItem : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Player"))
         {
-            playerXP.experience += experience;
-            onPickup(this);
+            
+            float gainedXP = experience * playerStats.growth;
 
-            scoreManager.AddToScore(experience);
+            playerXP.experience += gainedXP;
+            onPickup(this);
+            
+            scoreManager.AddToScore(gainedXP);
         }
     }
 
