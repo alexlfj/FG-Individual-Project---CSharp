@@ -15,10 +15,18 @@ public class MainMenuEvents : MonoBehaviour
         doc = GetComponent<UIDocument>();
 
         button = doc.rootVisualElement.Q("StartGameButton") as Button;
-        button.RegisterCallback<ClickEvent>(OnPlayGameClick);
+
+        button.clicked += OnPlayGameClick;
+
     }
 
-    private void OnPlayGameClick(ClickEvent evt)
+    private IEnumerator Start()
+    {
+        yield return null;
+        button.Focus();
+    }
+
+    private void OnPlayGameClick()
     {
         StartCoroutine(PressPlay());
     }

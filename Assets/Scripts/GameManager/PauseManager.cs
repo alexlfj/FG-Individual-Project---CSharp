@@ -29,10 +29,10 @@ public class PauseManager : MonoBehaviour
         UIDoc = GetComponent<UIDocument>();
 
         resumeButton = UIDoc.rootVisualElement.Q("ResumeButton") as Button;
-        resumeButton.RegisterCallback<ClickEvent>(OnResumeClick);
+        resumeButton.clicked += OnResumeClick;
 
         mainMenuButton = UIDoc.rootVisualElement.Q("MainMenuButton") as Button;
-        mainMenuButton.RegisterCallback<ClickEvent>(OnMainMenuClick);
+        mainMenuButton.clicked += OnMainMenuClick;
     }
 
     void Start()
@@ -57,7 +57,6 @@ public class PauseManager : MonoBehaviour
             {
                 SwitchPauseMenuState();
                 SwitchGameUIState();
-
             }
         }
     }
@@ -76,6 +75,7 @@ public class PauseManager : MonoBehaviour
             isPaused = true;
             Time.timeScale = 0;
             pauseMenu.style.display = DisplayStyle.Flex;
+            resumeButton.Focus();
         }
     }
 
@@ -93,12 +93,13 @@ public class PauseManager : MonoBehaviour
     }
 
 
-    private void OnResumeClick(ClickEvent evt)
+    private void OnResumeClick()
     {
         SwitchPauseMenuState();
+        SwitchGameUIState();
     }
 
-    private void OnMainMenuClick(ClickEvent evt)
+    private void OnMainMenuClick()
     {
         StartCoroutine(PressMainMenu());
     }
@@ -109,14 +110,4 @@ public class PauseManager : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
         Time.timeScale = 1;
     }
-
-
-
-
-
-
-
-
-
-
 }

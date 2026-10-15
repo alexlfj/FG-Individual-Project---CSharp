@@ -478,7 +478,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 2d854d804b90b774c90accc0bdba85c2, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1003,7 +1003,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1451029787}
-  - {fileID: 674637702}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &620450956
@@ -1309,7 +1308,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 620450955}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &762153186
 GameObject:
@@ -1377,7 +1376,7 @@ MonoBehaviour:
       amount: 2
     - enemyPrefab: {fileID: 4583125521686666158, guid: 830289d61d29ba943bd77174c5741a05, type: 3}
       amount: 1
-  stageDuration: 1
+  stageDuration: 60
   lootManager: {fileID: 503373107}
 --- !u!4 &762153188
 Transform:
@@ -6871,3 +6870,4 @@ SceneRoots:
   - {fileID: 259708522}
   - {fileID: 620450955}
   - {fileID: 1093485801}
+  - {fileID: 674637702}

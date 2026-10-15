@@ -18,11 +18,11 @@ public class MenuButtonSounds : MonoBehaviour
         menuButtons = doc.rootVisualElement.Query<Button>().ToList();
         for (int i = 0; i < menuButtons.Count; i++)
         {
-            menuButtons[i].RegisterCallback<ClickEvent>(OnAllButtonsClick);
+            menuButtons[i].clicked += OnAllButtonsClick;
         }
     }
 
-    private void OnAllButtonsClick(ClickEvent evt)
+    private void OnAllButtonsClick()
     {
         audioSource.volume = volume;
         audioSource.Play();
