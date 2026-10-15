@@ -23,9 +23,6 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public float xpValue;
 
-    public float scoreValue;
-
-
 
     void Start()
     {
