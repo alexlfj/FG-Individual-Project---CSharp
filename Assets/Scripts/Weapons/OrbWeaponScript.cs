@@ -7,6 +7,8 @@ public class OrbWeaponScript : MonoBehaviour
 
     private Vector3 baseScale;
 
+    public int steps = 16;
+
     void Start()
     {
         player = playerHealth.instance;
@@ -17,6 +19,7 @@ public class OrbWeaponScript : MonoBehaviour
     void Update()
     {
         transform.RotateAround(player.transform.position, Vector3.back, stats.attackSpeed * Time.deltaTime);
+        transform.rotation = Quaternion.identity;
         transform.localScale = baseScale * stats.areaOfEffect;
     }
 

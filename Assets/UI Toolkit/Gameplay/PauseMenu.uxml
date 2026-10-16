@@ -3,15 +3,11 @@
     <ui:VisualElement name="Container" style="height: 100%; background-color: rgba(0, 0, 0, 0.78);">
         <ui:VisualElement name="Row-Header" class="row row-header" style="margin-top: 240px; margin-bottom: 120px;">
             <ui:VisualElement name="Col" class="col-12 col">
-                <ui:Label text="Paused" name="Header" class="header" style="color: rgb(202, 112, 159);"/>
+                <ui:Label text="Paused" name="Header" class="header" style="color: rgb(255, 204, 0);"/>
             </ui:VisualElement>
         </ui:VisualElement>
         <ui:VisualElement name="Row-Buttons" class="row" style="flex-direction: row;">
-            <ui:VisualElement name="Col" class="col-5 col" style="width: auto;">
-                <ui:Slider label="Master" value="42" high-value="100" name="Master"/>
-                <ui:Slider label="Slider" value="42" high-value="100" name="Music"/>
-                <ui:Slider label="Slider" value="42" high-value="100" name="SFX"/>
-            </ui:VisualElement>
+            <ui:VisualElement name="Col" class="col-5 col" style="width: auto;"/>
             <ui:VisualElement name="Col" class="col-2 col" style="width: auto;">
                 <ui:Button text="Resume" name="ResumeButton" class="button"/>
                 <ui:Button text="Main Menu" name="MainMenuButton" icon-image="" enabled="true" class="button"/>

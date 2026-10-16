@@ -1,5 +1,33 @@
-:root {
+.xp-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 48px;               
+    background-color: rgb(30, 30, 40);
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
 }
 
-.unity-progress-bar {
+.xp-bar__fill {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 30%;                 
+    background-color: rgb(80, 200, 255);
+}
+
+.xp-bar__text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    -unity-text-align: middle-center;
+    -unity-font-style: bold;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
 }

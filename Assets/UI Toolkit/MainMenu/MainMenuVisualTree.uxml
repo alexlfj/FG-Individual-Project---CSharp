@@ -10,7 +10,13 @@
             <ui:VisualElement name="Col" class="col-5 col" style="width: auto;"/>
             <ui:VisualElement name="Col" class="col-2 col">
                 <ui:Button text="Start&#10;" name="StartGameButton" class="button"/>
-                <ui:Button text="Settings" name="Settings" icon-image="" enabled="true" class="button"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="Col" class="col-5 col" style="width: auto;"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="Row-Buttons" class="row">
+            <ui:VisualElement name="Col" class="col-5 col" style="width: auto;"/>
+            <ui:VisualElement name="Col" class="col-2 col">
+                <ui:Button text="Quit" name="Quit" class="button"/>
             </ui:VisualElement>
             <ui:VisualElement name="Col" class="col-5 col" style="width: auto;"/>
         </ui:VisualElement>

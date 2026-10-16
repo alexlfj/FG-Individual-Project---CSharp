@@ -9,7 +9,9 @@ public class GameUIManager : MonoBehaviour
 
     public UIDocument UIDoc;
 
-    private ProgressBar xpBar;
+    private VisualElement xpFill;
+
+    private Label xpText;
 
     private Image[] hearts;
 
@@ -19,7 +21,8 @@ public class GameUIManager : MonoBehaviour
         playerExp = playerXP.instance;
         health = playerHealth.instance;
 
-        xpBar = UIDoc.rootVisualElement.Q<ProgressBar>("xpBar");
+        xpFill = UIDoc.rootVisualElement.Q<VisualElement>("xpFill");
+        xpText = UIDoc.rootVisualElement.Q<Label>("xpText");
 
 
         // Hearts (total of 5 hearts)
@@ -34,12 +37,11 @@ public class GameUIManager : MonoBehaviour
 
     void Update()
     {
-        
-        // XP
-        xpBar.value = playerExp.experience;
-        xpBar.highValue = playerExp.levelUpExperience;
-        xpBar.title = $"{playerExp.experience}/{playerExp.levelUpExperience}";
 
+        // XP
+        float fraction = (float)playerExp.experience / playerExp.levelUpExperience;
+        xpFill.style.width = Length.Percent(Mathf.Clamp01(fraction) * 100f);
+        xpText.text = $"{Mathf.FloorToInt(playerExp.experience)}/{Mathf.FloorToInt(playerExp.levelUpExperience)}";
 
         // Health
         for (int i = 0; i < hearts.Length; i++)
