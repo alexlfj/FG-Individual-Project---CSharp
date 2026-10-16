@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: AOEUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 0}
+  icon: {fileID: 3321219900619891554, guid: 6bd88e95711f9f24cbc0897b3ef09c3f, type: 3}
   description: Increase area of effect
   stat: 5
   amount: 0.1

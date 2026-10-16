@@ -93,6 +93,11 @@ public class upgradeWindow : MonoBehaviour
                 continue;
             }
 
+            if (upgrade.stat == StatType.Damage && stats.damage >= stats.maxDamage)
+            {
+                continue;
+            }
+
             available.Add(upgrade);
         }
 

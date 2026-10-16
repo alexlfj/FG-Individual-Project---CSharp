@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: DamageUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 5300081526879416730, guid: d3f6df29fe696314eb992ee0560d986e, type: 3}
+  icon: {fileID: -9067730553508293354, guid: 02ca8af0d646e4f40b8528338696fc7e, type: 3}
   description: Increases damage
   stat: 0
   amount: 1

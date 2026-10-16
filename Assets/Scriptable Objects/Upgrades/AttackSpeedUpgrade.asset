@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: AttackSpeedUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 0}
+  icon: {fileID: -9055876629098880935, guid: 70d24ca56e5c809479c94053bc15ad2a, type: 3}
   description: Attack quicker
   stat: 2
   amount: 30

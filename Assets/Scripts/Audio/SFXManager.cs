@@ -27,7 +27,7 @@ public class SoundFXManager : MonoBehaviour
 
         int rand = Random.Range(0, audioClip.Length);
 
-        float pitchRand = Random.Range(0.95f, 1.05f);
+        float pitchRand = Random.Range(0.98f, 1.02f);
 
         AudioSource audioSource = Instantiate(SFXSource, spawnTransform.position, Quaternion.identity);
 
@@ -38,28 +38,6 @@ public class SoundFXManager : MonoBehaviour
         audioSource.volume = volume;
 
         audioSource.pitch = pitchRand;
-
-        audioSource.Play();
-
-        float clipLength = audioSource.clip.length;
-
-        Destroy(audioSource.gameObject, clipLength);
-
-    }
-
-    public void PlayRandomAudioClipsNoRandPitch(AudioClip[] audioClip, Transform spawnTransform, float volume)
-    {
-
-
-        int rand = Random.Range(0, audioClip.Length);
-
-        AudioSource audioSource = Instantiate(SFXSource, spawnTransform.position, Quaternion.identity);
-
-        DontDestroyOnLoad(audioSource.gameObject);
-
-        audioSource.clip = audioClip[rand];
-
-        audioSource.volume = volume;
 
         audioSource.Play();
 

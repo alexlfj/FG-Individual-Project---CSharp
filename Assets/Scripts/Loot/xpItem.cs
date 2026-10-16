@@ -106,7 +106,7 @@ public class xpItem : MonoBehaviour
         }
         else
         {
-            SoundFXManager.Instance.PlayRandomAudioClipsNoRandPitch(itemPickup, transform, 1f);
+            SoundFXManager.Instance.PlayRandomAudioClips(itemPickup, transform, 1f);
             lastPickupTime = Time.time;
         }
     }

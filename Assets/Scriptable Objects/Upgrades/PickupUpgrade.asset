@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: PickupUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 0}
+  icon: {fileID: 3414701089094172137, guid: e9684a4d40e75244987750b029060ba1, type: 3}
   description: Pick up items further
   stat: 4
   amount: 0.25

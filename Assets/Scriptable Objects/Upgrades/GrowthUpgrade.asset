@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: GrowthUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 0}
+  icon: {fileID: 6187921338879160427, guid: 89beb7af1a7276146a755fc1e67923be, type: 3}
   description: Increase XP gain
   stat: 7
   amount: 0.1

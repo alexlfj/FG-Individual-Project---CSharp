@@ -11,14 +11,14 @@ public class PauseManager : MonoBehaviour
     public UIDocument GameUIDoc;
 
     private VisualElement pauseMenu;
-
     private VisualElement GameUI;
-
-    private AudioSource audioSource;
-
     private Button resumeButton;
 
     private Button mainMenuButton;
+
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip hoverSound;
+    [SerializeField] private AudioClip clickSound;
 
 
     private bool isPaused = false;
@@ -30,9 +30,15 @@ public class PauseManager : MonoBehaviour
 
         resumeButton = UIDoc.rootVisualElement.Q("ResumeButton") as Button;
         resumeButton.clicked += OnResumeClick;
+        resumeButton.RegisterCallback<PointerEnterEvent>(evt => audioSource.PlayOneShot(hoverSound));
+        resumeButton.RegisterCallback<FocusInEvent>(evt => audioSource.PlayOneShot(hoverSound));
 
         mainMenuButton = UIDoc.rootVisualElement.Q("MainMenuButton") as Button;
         mainMenuButton.clicked += OnMainMenuClick;
+        mainMenuButton.RegisterCallback<PointerEnterEvent>(evt => audioSource.PlayOneShot(hoverSound));
+        mainMenuButton.RegisterCallback<FocusInEvent>(evt => audioSource.PlayOneShot(hoverSound));
+
+
     }
 
     void Start()
@@ -108,7 +114,7 @@ public class PauseManager : MonoBehaviour
 
     private IEnumerator PressMainMenu()
     {
-        yield return new WaitForSecondsRealtime(audioSource.clip.length);
+        yield return new WaitForSecondsRealtime(clickSound.length);
         SceneManager.LoadScene("MainMenu");
         Time.timeScale = 1;
     }

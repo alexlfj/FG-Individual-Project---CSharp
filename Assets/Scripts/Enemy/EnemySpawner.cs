@@ -44,7 +44,7 @@ public class EnemySpawner : MonoBehaviour
 
     [SerializeField] private Stage[] stages;
 
-    private int currentStage;
+    public int currentStage;
 
     [SerializeField] private float stageDuration = 60f;
 
@@ -65,7 +65,6 @@ public class EnemySpawner : MonoBehaviour
 
         elapsedTime = 0;
         spawnTimer = 0;
-
     }
 
     // Update is called once per frame
@@ -74,7 +73,7 @@ public class EnemySpawner : MonoBehaviour
         halfHeight = cam.orthographicSize;
         halfWidth = halfHeight * cam.aspect;
 
-       currentStage = Mathf.Min(Mathf.FloorToInt(elapsedTime / stageDuration), stages.Length - 1);
+        currentStage = Mathf.Min(Mathf.FloorToInt(elapsedTime / stageDuration), stages.Length - 1);
 
 
         

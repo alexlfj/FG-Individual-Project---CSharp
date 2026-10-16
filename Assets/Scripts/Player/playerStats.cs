@@ -4,7 +4,8 @@ public class playerStats : MonoBehaviour
 {
 
     [Header("Baseline Player Stats")]
-    public int damage = 10;
+    public int damage = 1;
+    public int maxDamage = 2;
 
     public float moveSpeed = 5f;
 
@@ -30,6 +31,7 @@ public class playerStats : MonoBehaviour
             case StatType.Damage:
                 damage += (int)upgrade.amount;
                 break;
+                damage = Mathf.Min(damage + (int)upgrade.amount, maxDamage);
 
             case StatType.MoveSpeed:
                 moveSpeed += upgrade.amount;

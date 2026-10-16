@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: RecoveryUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 0}
+  icon: {fileID: -703455139072288003, guid: 19fb8c91856991f458ff2fa5467af4c6, type: 3}
   description: Recover your health
   stat: 6
   amount: 0.1

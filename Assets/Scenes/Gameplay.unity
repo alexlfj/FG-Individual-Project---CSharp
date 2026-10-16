@@ -341,6 +341,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   UIDoc: {fileID: 389608110}
   GameUIDoc: {fileID: 671140299}
+  audioSource: {fileID: 389608111}
+  hoverSound: {fileID: 8300000, guid: 8a4f5079eb29269498ccbb5ffcca562a, type: 3}
+  clickSound: {fileID: 8300000, guid: 5a4c1d9d79d78bd488a766457e79d47b, type: 3}
 --- !u!4 &389608109
 Transform:
   m_ObjectHideFlags: 0
@@ -390,7 +393,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 2d854d804b90b774c90accc0bdba85c2, type: 3}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1091,7 +1094,7 @@ GameObject:
   - component: {fileID: 762153187}
   m_Layer: 0
   m_Name: EnemySpawner
-  m_TagString: Untagged
+  m_TagString: EnemySpawner
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1113,28 +1116,28 @@ MonoBehaviour:
   batPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
   mushroomPrefab: {fileID: 4583125521686666158, guid: 830289d61d29ba943bd77174c5741a05, type: 3}
   stages:
-  - spawnInterval: 2
+  - spawnInterval: 3
     enemies:
     - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
-      amount: 3
+      amount: 2
   - spawnInterval: 1.5
     enemies:
     - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
-      amount: 3
+      amount: 2
     - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
-      amount: 1
+      amount: 2
   - spawnInterval: 1
     enemies:
     - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
       amount: 2
     - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
-      amount: 2
+      amount: 3
   - spawnInterval: 0.75
     enemies:
     - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
-      amount: 3
-    - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
       amount: 2
+    - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
+      amount: 3
     - enemyPrefab: {fileID: 4583125521686666158, guid: 830289d61d29ba943bd77174c5741a05, type: 3}
       amount: 1
   - spawnInterval: 0.5
@@ -1142,10 +1145,19 @@ MonoBehaviour:
     - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
       amount: 3
     - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
-      amount: 2
+      amount: 3
     - enemyPrefab: {fileID: 4583125521686666158, guid: 830289d61d29ba943bd77174c5741a05, type: 3}
-      amount: 1
-  stageDuration: 45
+      amount: 2
+  - spawnInterval: 0.5
+    enemies:
+    - enemyPrefab: {fileID: 4583125521686666158, guid: 86a538c6bb76a674babf65d816f1a023, type: 3}
+      amount: 5
+    - enemyPrefab: {fileID: 4583125521686666158, guid: d72d4df8080270e45ab60a33a6f2e80d, type: 3}
+      amount: 5
+    - enemyPrefab: {fileID: 4583125521686666158, guid: 830289d61d29ba943bd77174c5741a05, type: 3}
+      amount: 3
+  currentStage: 0
+  stageDuration: 60
   lootManager: {fileID: 503373107}
 --- !u!4 &762153188
 Transform:
@@ -6121,6 +6133,8 @@ MonoBehaviour:
   experience: 0
   levelUpExperience: 0
   levelingUpScale: 1.25
+  playerLevelUp:
+  - {fileID: 8300000, guid: 789adac860aed204b99090a7d3a14159, type: 3}
 --- !u!114 &1666076711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6134,6 +6148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
   damage: 1
+  maxDamage: 2
   moveSpeed: 2
   attackSpeed: 360
   projectileCount: 1
@@ -6308,16 +6323,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7564981945990760357, guid: 0dd70221a3f44634b8a04af2081b2b69, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564981945990760357, guid: 0dd70221a3f44634b8a04af2081b2b69, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178394741623094725, guid: 0dd70221a3f44634b8a04af2081b2b69, type: 3}
+      propertyPath: m_Pitch
+      value: 0.9
       objectReference: {fileID: 0}
     - target: {fileID: 9178394741623094725, guid: 0dd70221a3f44634b8a04af2081b2b69, type: 3}
       propertyPath: m_Volume
-      value: 0.8
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 9178394741623094725, guid: 0dd70221a3f44634b8a04af2081b2b69, type: 3}
       propertyPath: m_Resource
       value: 
-      objectReference: {fileID: 8300000, guid: 3fd15447732135a47b8d06117ebdc736, type: 3}
+      objectReference: {fileID: 8300000, guid: 848eee68e6cc37c4bb41459d42ffb605, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6618,9 +6641,9 @@ SceneRoots:
   - {fileID: 671140300}
   - {fileID: 1093485801}
   - {fileID: 544136470}
+  - {fileID: 948014833}
   - {fileID: 2048776044}
   - {fileID: 389608109}
-  - {fileID: 948014833}
   - {fileID: 762153188}
   - {fileID: 503373108}
   - {fileID: 1593496197}

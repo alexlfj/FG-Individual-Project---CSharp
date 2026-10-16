@@ -10,6 +10,8 @@ public class playerXP : MonoBehaviour
 
     [SerializeField][Range (1f, 10f)] float levelingUpScale = 1.25f;
 
+    [SerializeField] private AudioClip[] playerLevelUp;
+
     void Awake()
     {
         if (instance == null)
@@ -43,11 +45,24 @@ public class playerXP : MonoBehaviour
 
     public void LevelUp()
     {
+        PlayOnLevelUp();
         experience -= levelUpExperience;
         levelUpExperience = Mathf.RoundToInt(levelUpExperience * levelingUpScale);
         upgradeWindow.instance.Open();
     }
 
+    private void PlayOnLevelUp()
+    {
 
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClips(playerLevelUp, transform, .5f);
+        }
+    }
 
 }

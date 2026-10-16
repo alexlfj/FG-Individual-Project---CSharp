@@ -7,7 +7,10 @@ public class MainMenuEvents : MonoBehaviour
 {
     private UIDocument doc;
     private Button button;
-    private AudioSource audioSource;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip hoverSound;
+    [SerializeField] private AudioClip clickSound;
+
 
     private void Awake()
     {
@@ -17,6 +20,10 @@ public class MainMenuEvents : MonoBehaviour
         button = doc.rootVisualElement.Q("StartGameButton") as Button;
 
         button.clicked += OnPlayGameClick;
+        button.clicked += () => audioSource.PlayOneShot(clickSound);
+
+        button.RegisterCallback<PointerEnterEvent>(evt => audioSource.PlayOneShot(hoverSound));
+        button.RegisterCallback<FocusInEvent>(evt => audioSource.PlayOneShot(hoverSound));
 
     }
 
@@ -33,7 +40,7 @@ public class MainMenuEvents : MonoBehaviour
 
     private IEnumerator PressPlay()
     {
-        yield return new WaitForSeconds(audioSource.clip.length + 0.5f);
+        yield return new WaitForSeconds(clickSound.length);
 
         SceneManager.LoadScene("Gameplay");
     }

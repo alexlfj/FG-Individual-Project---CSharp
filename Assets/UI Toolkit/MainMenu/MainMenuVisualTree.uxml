@@ -3,7 +3,7 @@
     <ui:VisualElement name="Container">
         <ui:VisualElement name="Row-Header" class="row row-header" style="margin-top: 120px; margin-bottom: 120px;">
             <ui:VisualElement name="Col" class="col-12 col">
-                <ui:Label text="Cattack" name="Header" class="header"/>
+                <ui:Label text="Cattack" name="Header" class="header" style="color: rgb(253, 202, 0);"/>
             </ui:VisualElement>
         </ui:VisualElement>
         <ui:VisualElement name="Row-Buttons" class="row">

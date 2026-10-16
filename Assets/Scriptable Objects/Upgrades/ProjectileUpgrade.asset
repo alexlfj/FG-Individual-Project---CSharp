@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f7210ef3271804bbcb5d3f0c62c00d, type: 3}
   m_Name: ProjectileUpgrade
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  icon: {fileID: 3453493647416149319, guid: c3a19020e3ecb11449f5c14df5c2f474, type: 3}
+  icon: {fileID: -4459836732047688962, guid: e4be50378ce51ea4c8c7978c902b6aeb, type: 3}
   description: More projectiles
   stat: 3
   amount: 1
