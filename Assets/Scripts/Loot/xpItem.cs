@@ -19,12 +19,19 @@ public class xpItem : MonoBehaviour
 
     private playerStats playerStats;
 
+    [SerializeField] private AudioClip[] itemPickup;
+
+    private float lastPickupTime;
+
+    private float pickupSoundCooldown = 0.2f;
+
 
     void Start()
     {
         playerXP = playerXP.instance;
         scoreManager = ScoreManager.instance;
         playerStats = playerXP.GetComponent<playerStats>();
+        lastPickupTime = 0;
     }
 
     void OnEnable()
@@ -48,7 +55,9 @@ public class xpItem : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Player"))
         {
-            
+
+            PlayOnPickup();
+
             float gainedXP = experience * playerStats.growth;
 
             playerXP.experience += gainedXP;
@@ -83,6 +92,23 @@ public class xpItem : MonoBehaviour
     {
         onPickup = pickupAction;
     }
-    
+
+    private void PlayOnPickup()
+    {
+        float diff = Time.time - lastPickupTime;
+
+        if (diff < pickupSoundCooldown) { return; }
+
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClipsNoRandPitch(itemPickup, transform, 1f);
+            lastPickupTime = Time.time;
+        }
+    }
 
 }

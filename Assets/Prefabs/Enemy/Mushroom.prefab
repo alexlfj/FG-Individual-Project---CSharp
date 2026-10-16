@@ -26,8 +26,8 @@ Transform:
   m_GameObject: {fileID: 602437456749301071}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.089, z: 0}
-  m_LocalScale: {x: 1.1752031, y: 1, z: 1}
+  m_LocalPosition: {x: 0.01, y: -0.502, z: 0}
+  m_LocalScale: {x: 3.8300304, y: 1.3182, z: 1.3182}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1329158152845314424}
@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 4447625768260434250}
   - component: {fileID: 4583125521686666158}
   m_Layer: 6
-  m_Name: Bat
+  m_Name: Mushroom
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -153,7 +153,7 @@ SpriteRenderer:
   m_SortingLayer: 2
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 5254948895061242529, guid: c6dd9fadf1a3a9143a7888c5881a0596, type: 3}
+  m_Sprite: {fileID: -654737500350741434, guid: bd67fbeb14d91424dae6a655d1aac744, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -175,7 +175,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
@@ -224,17 +224,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.005119264, y: 0.06543736}
+  m_Offset: {x: -0.037324846, y: -0.5658314}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 2.5, y: 2}
     newSize: {x: 0.25, y: 0.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.38822132, y: 0.2780629}
+  m_Size: {x: 0.54362655, y: 0.90355325}
   m_EdgeRadius: 0
 --- !u!114 &4583125521686666158
 MonoBehaviour:
@@ -248,4 +248,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f81e69dfe08784b489732b012bfec618, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  settings: {fileID: 11400000, guid: 4e488f8adf6c83747a8f23775952c2a8, type: 2}
+  settings: {fileID: 11400000, guid: fc9718752979b2c4f955ef0874b578c2, type: 2}
+  enemyHit:
+  - {fileID: 8300000, guid: 407d4387ee3bee14fa7d22fc9b51f538, type: 3}
+  flashMaterial: {fileID: 2100000, guid: 8f3530f8f53de5849874aec2d12bb160, type: 2}
+  originalMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  flashDuration: 0.1

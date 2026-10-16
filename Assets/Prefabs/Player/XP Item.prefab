@@ -110,6 +110,9 @@ MonoBehaviour:
   highXPSprite: {fileID: 8984754096541894249, guid: 55f72ca920276574f9795be05d6b25c9, type: 3}
   mediumXPThreshold: 200
   highXPThreshold: 2000
+  isPickedUp: 0
+  itemPickup:
+  - {fileID: 8300000, guid: f6112929b9091cd47b78c81e4d4eb579, type: 3}
 --- !u!58 &314798511924587654
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MushroomSettings
   m_EditorClassIdentifier: Assembly-CSharp::EnemySettings
   behavior: 2
-  maxHealth: 5
+  maxHealth: 10
   speed: 0.5
   attackDamage: 4
   xpValue: 2000

@@ -1,6 +1,5 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class playerHealth : MonoBehaviour, IDamageable
@@ -26,6 +25,9 @@ public class playerHealth : MonoBehaviour, IDamageable
     private playerStats playerStats;
 
     private float recoveryProgress;
+
+    [SerializeField] private AudioClip[] playerHit;
+    [SerializeField] private AudioClip[] playerDeath;
 
     void Awake()
     {
@@ -71,6 +73,8 @@ public class playerHealth : MonoBehaviour, IDamageable
 
     public void Die()
     {
+        PlayOnDeath();
+
         Destroy(gameObject);
 
         SceneManager.LoadScene("MainMenu");
@@ -84,7 +88,9 @@ public class playerHealth : MonoBehaviour, IDamageable
         if (isInvincible) return;
 
         
+
         CurrentHealth -= damageAmount;
+        PlayOnHit();
 
         if (CurrentHealth <= 0)
         {
@@ -116,6 +122,35 @@ public class playerHealth : MonoBehaviour, IDamageable
         playerSprite.enabled = true;
         isInvincible = false;
     }
+
+    private void PlayOnHit()
+    {
+
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClips(playerHit, transform, 1f);
+        }
+    }
+
+    private void PlayOnDeath()
+    {
+
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClips(playerDeath, transform, .5f);
+        }
+    }
+
 
 }
 

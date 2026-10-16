@@ -6,19 +6,22 @@ public class playerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movementInput;
     private Animator animator;
-
     private playerStats stats;
+    [SerializeField] private AudioClip[] footsteps;
+    private float lastStepTime;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [SerializeField] private float stepSoundCooldown = 0.1f;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         stats = GetComponent<playerStats>();
+        lastStepTime = 0;
     }
 
-    // Update is called once per frame
-    void Update()
+    
+    void FixedUpdate()
     {
         rb.linearVelocity = movementInput * stats.moveSpeed;
     }
@@ -38,7 +41,23 @@ public class playerMovement : MonoBehaviour
 
         animator.SetFloat("InputX", movementInput.x);
         animator.SetFloat("InputY", movementInput.y);
-        
     }
 
+    public void PlayFootstep()
+    {
+        float diff = Time.time - lastStepTime;
+
+        if (diff < stepSoundCooldown) { return; }
+
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene -> footstep sound skipped.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClips(footsteps, transform, 2f);
+            lastStepTime = Time.time;
+        }
+    }
 }

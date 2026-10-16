@@ -17,6 +17,7 @@ public class Enemy : MonoBehaviour
 
     private Action<Enemy> onDeath;
 
+
     private float waveOffset;
 
     private Vector2 straightlineDirection;
@@ -26,11 +27,22 @@ public class Enemy : MonoBehaviour
     private Camera cam;
 
 
+    [SerializeField] private AudioClip[] enemyHit;
+
+
+    [SerializeField] private Material flashMaterial;
+    [SerializeField] private Material originalMaterial;
+    private SpriteRenderer sprite;
+
+    [SerializeField] private float flashDuration = 0.1f;
+
+
+
     void Start()
     {
         player = playerHealth.instance;
         cam = Camera.main;
-
+        
     }
 
     void OnEnable()
@@ -38,6 +50,9 @@ public class Enemy : MonoBehaviour
         CurrentHealth = settings.maxHealth;
         waveOffset = UnityEngine.Random.Range(0f, 2 * Mathf.PI);
         straightlineDirection = Vector2.zero;
+        
+        sprite = GetComponent<SpriteRenderer>();
+        sprite.sharedMaterial = originalMaterial;
     }
 
 
@@ -128,6 +143,11 @@ public class Enemy : MonoBehaviour
 
         CurrentHealth -= damageAmount;
 
+        PlayOnHit();
+
+        sprite.sharedMaterial = flashMaterial;
+        Invoke(nameof(ResetMaterial), flashDuration);
+
         if (CurrentHealth <= 0)
         {
             Die();
@@ -151,5 +171,24 @@ public class Enemy : MonoBehaviour
     public void OnDespawn(Action<Enemy> despawnAction)
     {
         onDespawn = despawnAction;
+    }
+
+    private void PlayOnHit()
+    {
+
+        if (SoundFXManager.Instance == null)
+        {
+            Debug.LogWarning("SoundFXManager not found in scene.");
+            return;
+        }
+        else
+        {
+            SoundFXManager.Instance.PlayRandomAudioClips(enemyHit, transform, .4f);
+        }
+    }
+
+    private void ResetMaterial()
+    {
+        sprite.sharedMaterial = originalMaterial;
     }
 }
