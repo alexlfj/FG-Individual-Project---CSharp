@@ -114,16 +114,20 @@ public class upgradeWindow : MonoBehaviour
             Label description = UpgradeUI.Q<Label>($"Description{i}");
             description.text = choices[i].description;
 
+
             VisualElement icon = UpgradeUI.Q<VisualElement>($"Icon{i}");
             icon.style.backgroundImage = new StyleBackground(choices[i].icon);
 
+
             float currentValue = stats.GetStat(choices[i].stat);
             float newValue = currentValue + choices[i].amount;
+
 
             if (choices[i].stat == StatType.AreaOfEffect)
             {
                 newValue = Mathf.Min(newValue, stats.maxAreaOfEffect);
             }
+
 
             Label comparison = UpgradeUI.Q<Label>($"Comparison{i}");
             comparison.text = $"{choices[i].stat}: {currentValue} → {newValue}";
