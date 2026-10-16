@@ -19,7 +19,11 @@ public class upgradeWindow : MonoBehaviour
     [SerializeField] private List<UpgradeData> allUpgrades;
 
     private playerStats stats;
-    private List<UpgradeData> choices = new List<UpgradeData>();    
+    private List<UpgradeData> choices = new List<UpgradeData>();
+
+    private Button upgrade0;
+
+    private Button upgrade1;
 
     void Awake()
     {
@@ -41,10 +45,10 @@ public class upgradeWindow : MonoBehaviour
 
         stats = playerHealth.instance.GetComponent<playerStats>();
 
-        Button upgrade0 = UpgradeUI.Q<Button>("Upgrade0");
+        upgrade0 = UpgradeUI.Q<Button>("Upgrade0");
         upgrade0.clicked += OnUpgrade0Click;
 
-        Button upgrade1 = UpgradeUI.Q<Button>("Upgrade1");
+        upgrade1 = UpgradeUI.Q<Button>("Upgrade1");
         upgrade1.clicked += OnUpgrade1Click;
     }
 
@@ -52,17 +56,24 @@ public class upgradeWindow : MonoBehaviour
     {
         PickUpgrades();
         ShowChoices();
+
         isOpen = true;
         Time.timeScale = 0f;
+
         GameUI.style.display = DisplayStyle.None;
+
         UpgradeUI.style.display = DisplayStyle.Flex;
+
+        upgrade0.Focus();
     }
 
     public void Close()
     {
         isOpen = false;
         Time.timeScale = 1f;
+
         GameUI.style.display = DisplayStyle.Flex;
+
         UpgradeUI.style.display = DisplayStyle.None;
     }
 
@@ -90,7 +101,9 @@ public class upgradeWindow : MonoBehaviour
         for (int i = 0; i < 2; i++)
         {
             int index = Random.Range(0, available.Count);
+
             choices.Add(available[index]);
+
             available.RemoveAt(index);
         }
     }

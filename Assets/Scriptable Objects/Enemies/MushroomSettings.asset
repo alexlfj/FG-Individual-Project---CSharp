@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30f454c01dbf4e7489eb122f115e8cce, type: 3}
   m_Name: MushroomSettings
   m_EditorClassIdentifier: Assembly-CSharp::EnemySettings
+  behavior: 2
   maxHealth: 5
   speed: 0.5
   attackDamage: 4
   xpValue: 2000
+  waveSpeed: 1
+  waveWidth: 1
