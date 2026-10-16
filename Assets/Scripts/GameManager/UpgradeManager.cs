@@ -77,6 +77,11 @@ public class upgradeWindow : MonoBehaviour
                 continue;
             }
 
+            if (upgrade.stat == StatType.ProjectileCount && stats.projectileCount >= stats.maxProjectileCount)
+            {
+                continue;
+            }
+
             available.Add(upgrade);
         }
 

@@ -6076,10 +6076,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a2464f767853bb4c8af73f85e3e9c01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
-  damage: 10
+  damage: 1
   moveSpeed: 2
   attackSpeed: 360
   projectileCount: 1
+  maxProjectileCount: 5
   pickupDistance: 0.5
   areaOfEffect: 1
   maxAreaOfEffect: 2
@@ -6150,8 +6151,14 @@ MonoBehaviour:
   GameUIDoc: {fileID: 671140299}
   UpgradeUIDoc: {fileID: 2048776045}
   allUpgrades:
+  - {fileID: 11400000, guid: 88e0d0932d3aaa943afc8e858460aa10, type: 2}
+  - {fileID: 11400000, guid: 398a5e6d987214b4eb91385ac08d3640, type: 2}
   - {fileID: 11400000, guid: b5f1d3ff398069f49acdfbc0409690b8, type: 2}
+  - {fileID: 11400000, guid: b16db348b1ae08049b70ca4568b0d5d0, type: 2}
+  - {fileID: 11400000, guid: 0df447e5998d2f944add6af9812e5e1b, type: 2}
+  - {fileID: 11400000, guid: a415cf4a6571ef6459b319c7ce9ca7ba, type: 2}
   - {fileID: 11400000, guid: c4f5b592f1ddc72dfab2873109b63283, type: 2}
+  - {fileID: 11400000, guid: 0bbab6b7f71242a4a9d317afe4459a61, type: 2}
 --- !u!4 &2048776044
 Transform:
   m_ObjectHideFlags: 0

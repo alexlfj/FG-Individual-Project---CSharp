@@ -17,16 +17,27 @@ public class Enemy : MonoBehaviour
 
     private Action<Enemy> onDeath;
 
+    private float waveOffset;
+
+    private Vector2 straightlineDirection;
+
+    private Action<Enemy> onDespawn;
+
+    private Camera cam;
+
 
     void Start()
     {
         player = playerHealth.instance;
+        cam = Camera.main;
 
     }
 
     void OnEnable()
     {
         CurrentHealth = settings.maxHealth;
+        waveOffset = UnityEngine.Random.Range(0f, 2 * Mathf.PI);
+        straightlineDirection = Vector2.zero;
     }
 
 
@@ -35,9 +46,55 @@ public class Enemy : MonoBehaviour
     {
         if (player == null) return; // Exits early if the player is dead (to prevent null reference errors)
 
-        //Movement
         moveTarget = player.transform.position;
-        transform.position = Vector2.MoveTowards(transform.position, moveTarget, settings.speed * Time.fixedDeltaTime);       
+
+        Vector2 direction = (moveTarget - (Vector2)transform.position).normalized;
+
+        switch (settings.behavior)
+        {
+            case EnemyBehaviorType.Chase:
+                
+                transform.position = Vector2.MoveTowards(transform.position, moveTarget, settings.speed * Time.fixedDeltaTime);
+
+                break;
+            
+            
+            case EnemyBehaviorType.Zigzag:
+                
+                Vector2 side = new Vector2(-direction.y, direction.x);
+
+                float wave = Mathf.Sin(Time.time * settings.waveSpeed + waveOffset) * settings.waveWidth;
+
+                Vector2 velocity = (direction + side * wave) * settings.speed;
+
+                transform.position = (Vector2)transform.position + velocity * Time.fixedDeltaTime;
+
+                break;
+            
+            
+            case EnemyBehaviorType.Straightline:
+
+                if (straightlineDirection == Vector2.zero)
+                {
+                    straightlineDirection = direction;
+                }
+
+                transform.position = (Vector2)transform.position + straightlineDirection * settings.speed * Time.fixedDeltaTime;
+
+                float halfHeight = cam.orthographicSize;
+                float halfWidth = halfHeight * cam.aspect;
+                float radius = Mathf.Sqrt(halfHeight * halfHeight + halfWidth * halfWidth);
+
+                if (Vector2.Distance(transform.position, moveTarget) > radius * 1.5f)
+                {
+                    Despawn();
+                }
+
+                break;
+
+        }
+
+
 
     }
 
@@ -65,13 +122,10 @@ public class Enemy : MonoBehaviour
 
 
     // Damage and dying 
-    public void Die()
-    {
-        onDeath(this);
-    }
-
     public void TakeDamage(int damageAmount)
     {
+        if (CurrentHealth <= 0) return;
+
         CurrentHealth -= damageAmount;
 
         if (CurrentHealth <= 0)
@@ -80,8 +134,22 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    public void Die()
+    {
+        onDeath(this);
+    }
+
     public void OnDeath(Action<Enemy> deathAction)
     {
         onDeath = deathAction;
+    }
+
+    public void Despawn()
+    {
+        onDespawn(this);
+    }
+    public void OnDespawn(Action<Enemy> despawnAction)
+    {
+        onDespawn = despawnAction;
     }
 }

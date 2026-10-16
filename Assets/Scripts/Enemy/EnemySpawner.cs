@@ -123,6 +123,11 @@ public class EnemySpawner : MonoBehaviour
                     lootManager.DropLoot(e);
                     pool.Release(e);
                 });
+
+                enemy.OnDespawn(e =>
+                {
+                    pool.Release(e);
+                });
             }
         }
         
